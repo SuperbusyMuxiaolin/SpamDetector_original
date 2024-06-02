@@ -1,23 +1,22 @@
-Subject: re : livelink
-moyez ,
-we are very anxious to get set up and start using livelink for tracking and
-documenting our projects , so thanks for the reminder . i have put together
-an initial list of attributes for our research projects . the list in in the
-attached spreadsheet . it would be great if you can set up these attributes
-for us in the test environment . this would allow us to make any obvious
-changes before moving to production . let me know what your schedule would
-be in rolling this out .
-my brief comments in the spreadsheet may not be clear , so feel free to give
-me a call at x 34748 to clarify anything .
-again , thanks for your help .
-stinson
-enron technology
-from : moyez lallani @ enron 01 / 31 / 2001 07 : 15 am
-to : vasant shanbhogue / hou / ect @ ect , stinson gibner / hou / ect @ ect
-cc : n jessie wang / enron _ development @ enron _ development
-subject : livelink
-vasant / stinson
-just following up to check on your progress / evaluation of livelink as your
-document repositiry . please let me know if i can be of further assistance .
-moyez lallani
-x 5 - 3683
+Subject: dba administrator
+cecil ,
+i ' ve spoken with charlene just now and she sounds very helpful .
+can you give her a call tomorrow morning to iron out exactly how
+you want to access the enpower data base ? i ' ve left your name
+with her so she ' s expecting your call .
+best ,
+alex
+- - - - - - - - - - - - - - - - - - - - - - forwarded by alex huang / corp / enron on 05 / 01 / 2001 05 : 31
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+vince j kaminski @ ect
+05 / 01 / 2001 05 : 13 pm
+to : michelle d cisneros / hou / ect @ ect
+cc : alex huang / corp / enron @ enron , vince j kaminski / hou / ect @ ect
+subject : dba administrator
+michelle ,
+the name of the db administrator for enpower is charlene fricker ,
+5 - 3487 . alex will contact her regarding the access to the curve .
+i think it ' s a problem many layers below gary hickerson ' s level
+of responsibility and i hope we can handle it without using his valuable
+time .
+vince

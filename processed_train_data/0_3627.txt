@@ -1,54 +1,35 @@
-Subject: re : ed krapels
-just thought you ' d like to know we are not having a grat deal of success with
-contacting ed - let us know if there is anything else i can do ?
-- - - - - - - - - - - - - - - - - - - - - - forwarded by louise kitchen / hou / ect on 27 / 03 / 2000
-13 : 42 - - - - - - - - - - - - - - - - - - - - - - - - - - -
-from : rahil jafry on 27 / 03 / 2000 13 : 40
-to : louise kitchen / hou / ect @ ect
-cc : david forster / hou / ect @ ect
-subject : re : ed krapels
-both dave and i have left messages for this guy ( e - mail as well as voice
-mail ) on 4 different occassions - without any response .
-louise kitchen
-03 / 27 / 2000 01 : 21 pm
-to : rahil jafry / hou / ect @ ect
-cc :
-subject : re : ed krapels
-have you managed to get hold of him yet ?
-vince j kaminski
-11 / 02 / 2000 17 : 23
-to : louise kitchen / lon / ect @ ect
-cc : vince j kaminski / hou / ect @ ect
-subject : re : ed krapels
-louise ,
-thanks . his e - mail address is ekrapels @ esaibos . com . the company
-coordinates are as follows :
-esai
-301 edgewater place , suite 108
-wakefield , ma 01880
-( 781 ) 245 - 2036
-( 781 ) 245 - 8706
-vince
-louise kitchen
-02 / 11 / 2000 05 : 13 pm
-to : vince j kaminski / hou / ect @ ect
-cc :
-subject : re : ed krapels
-absolutely - i can ' t find the previous email but it may have been lost during
-the few days they moved my email box from london to houston - i know i had a
-lot of lost emails - do you have his phone number and email and we can sort
-out a password for a few days for him too .
-louise
-vince j kaminski
-10 / 02 / 2000 22 : 15
-to : louise kitchen / lon / ect @ ect
-cc : vince j kaminski / hou / ect @ ect
-subject : ed krapels
-louise ,
-some time ago i sent you a message regarding ed krapels . he is writing a book
-on energy
-commodity markets and would like to learn more about eol .
-can you give him a call and chat with him for 10 minutes . he is a good
-friend of enron and
-it would be free ad for us .
-vince
+Subject: ees implementation
+message sent from the pjm - customer - info mailing list at
+pjm - customer - info @ majordomo . pjm . com :
+valued customer :
+ees production cut - over
+the production ees application will be made available to the registered users
+on
+monday april 17 , 2000 for day - ahead scheduling . the production system will be
+preloaded with all schedules submitted through the current scheduling process
+to
+that point ( pjm identifiers for these pre - loaded schedules will be provided
+through the usual scheduling practices ) . hourly schedules may be entered
+beginning april 18 , 2000 .
+the sandbox will be made unavailable at the time of production implementation .
+prior to april 17 , the https : / / eestest . pjm . com url will be reserved for the
+sandbox . beginning april 17 , the https : / / ees . pjm . com url will point to the
+production ees application .
+registration
+users with accounts on the sandbox will automatically have accounts on the
+production system . if you have not registered , please complete the
+authorization and registration forms located at
+http : / / www . pjm . com / ees / ees _ index . html . the contact designated on the ees
+authorization form will be faxed a list of user id ' s and passwords upon
+completion of the registration process .
+ees support
+pjm is enthusiastic about providing the responsive support you and your
+technical staff require . please contact our customer hotlines with your
+functional and technical inquiries .
+* functional support : ( 610 ) 666 - 8980
+* technical support : ( 610 ) 666 - 8886
+* email : eeshelp @ pjm . com
+questions may be directed to pjm customer service at ( 610 ) 666 - 8980 .
+to unsubscribe from this list , send an e - mail to majordomo @ majordomo . pjm . com
+containing only the following line in the body of the e - mail :
+unsubscribe pjm - customer - info

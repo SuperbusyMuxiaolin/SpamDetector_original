@@ -1,48 +1,28 @@
-Subject: re : security - after hours access
-tony ,
-no problem .
-vince
-anthony _ mends @ enron . net on 04 / 24 / 2000 09 : 54 : 49 am
-to : vince . j . kaminski @ enron . com
+Subject: re : request submitted : access request for
+jennifer . n . stewart @ enron . com
+i don ' t know her or anything about it . i sent her an email asking what she
+needs .
+- - stinson
+vince j kaminski
+01 / 11 / 2001 08 : 22 am
+to : stinson gibner / hou / ect @ ect
 cc :
-subject : security - after hours access
-vince ,
-thank you for honoring us at our home on saturday . it was a real pleasure to
-share an evening with you . we hope we shall be able to do it again with your
-family when the opportunity arises .
-i am forwarding to you a request from john young who works in my group as a
-documentation specialist . kindly review his request and let me know if you are
-able to grant it .
-tony
-enron broadband services
-713 - 853 - 3939
-- - - - - forwarded by anthony mends / enron communications on 04 / 24 / 00 08 : 37 am
-- - - - -
-| - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - >
-| | john young |
-| | |
-| | 04 / 21 / 00 |
-| | 11 : 28 am |
-| | |
-| - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - >
-| |
-| to : anthony mends / enron communications @ enron
-communications |
-| cc : shirley crenshaw / hou / ect @ ect , krista
-reed / contractor / enron |
-| communications @ enron
-communications |
-| subject : security - after hours
-access |
-tony ,
-earl harvey and i are located on the 19 th floor inside the corporate research
-group ' s area , which is in a secured area . they are a very supportive and
-cooperative group , and conditions here are ideal for research , analysis , and
-writing . i don ' t want to jeopardize their security in any way , but , if
-possible , i would like to be added to the after hours and weekend access list
-for situations such as meeting deadlines and research and that if you did not concur with my request , then
-there
-would be no reason to copy him at all .
-thanks ,
-jay
-713 - 853 - 5941
+subject : request submitted : access request for jennifer . n . stewart @ enron . com
+stinson ,
+do you know anything about it ?
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 01 / 11 / 2001
+08 : 24 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+arsystem on 01 / 10 / 2001 08 : 59 : 24 am
+to : " vince . j . kaminski @ enron . com "
+cc :
+subject : request submitted : access request for jennifer . n . stewart @ enron . com
+you have received this email because you are listed as an alternate data
+approver . please click
+approval to review and act upon this request .
+request id : 000000000013085
+approver : stinson . gibner @ enron . com
+request create date : 1 / 10 / 01 8 : 59 : 14 am
+requested for : jennifer . n . stewart @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read ]
+resource type : directory

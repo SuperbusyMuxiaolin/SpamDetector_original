@@ -1,38 +1,23 @@
-Subject: reminder : all - employee meeting
-this is a reminder to join ken lay , jeff skilling and joe sutton for an
-all - employee meeting hosted in the london office on monday , feb . 28 , 2000 .
-the meeting will begin at 4 p . m . london time ( 10 a . m . houston time ) . ken ,
-jeff and joe will discuss enron ' s year - end financial and operating results
-and the company ' s outlook for 2000 and beyond .
-using enron broadband services ' video streaming capabilities , the meeting
-will be streamed live to the desktop for employees in houston , omaha ,
-portland , calgary , new york , stockholm , amsterdam and frankfurt . to view the
-meeting , you must have ip - tv and a sound card installed on your computer . if
-you are not able to view the meeting live using ip - tv , a videotape will be
-available after the meeting . u . k . and european employees may contact mary
-gopalan for a copy of the video . u . s . and other international employees may
-contact mary clark by email to reserve a copy .
-if you plan to watch the meeting using ip - tv , you can test your ip - tv prior
-to the meeting using the instructions below . if you experience technical
-difficulties , please contact your pc help desk .
-following are instructions for launching ip - tv by company lan and / or location :
-ei employees in three allen center -
-start menu . . . . programs . . . general information . . . iptv icon
-ees and omaha employees -
-start menu . . . . programs . . . cisco iptv viewer . . . iptv icon
-ena houston , corp houston , new york , calgary and portland ( does not include
-ebs and pge in portland )
-start menu . . . programs . . . . iptv viewer icon
-london -
-menu option : start . . . programs . . . utilities . . . iptv viewer /
-frankfurt / stockholm / amsterdam -
-start menu . . . programs . . . cisco iptv viewer . . . cisco iptv viewer
-for the first time , the question and answer session will be open to all
-employees worldwide using espeak . you can submit your questions in advance
-on the espeak web site at ethink . enron . com or during the meeting from 4 to 6
-p . m . london time ( 10 a . m . to noon houston time ) . ken , jeff and joe will
-attempt to answer as many questions as possible in the time available . all
-espeak questions and those submitted by london employees during the meeting
-will be included in an espeak transcript following the meeting .
-mark your calendar for this global employee communications event . see you
-there .
+Subject: it support for research weather group
+mark ,
+first let me say thank you for your assistance in making it possible for
+meteorologists tony hamilton and stephen bennett to hit the groung running
+this week when they came over to london from houston . when we came into our
+offices in houston monday morning , tony and steve had already gathered and
+analyzed their data , prepared reports and were ready for the avistar
+briefings ! the cross - atlantic communication and data - sharing and manipulation
+went seamlessly ! we have great expectations for continued synergy with this
+new set - up .
+the research weather group is excited about our expanded responsibilities in
+london . we are committed to maximizing the value added we can provide to the
+weather derivatives , crude & products , uk trading , continental power , and
+analytics efforts . we are , however , also extremely dependent on computers
+and communication , associated software and peripherals . plus the datastreams
+we access and the reports we generate are very time - critical in their value
+to traders . we need a very stable environment , with reliable back - up and
+24 - hour support to fulfill our commitments to providing the trading operation
+with timely , never - fail research and information flows .
+so , thanks again , and please do whatever you can to continue this high level
+of support by passing this letter of praise and thanks to your team , and show
+them our appreciation for your efforts .
+mike roberts

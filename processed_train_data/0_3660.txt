@@ -1,29 +1,51 @@
-Subject: re : releasing different versions of vatrfacs code
-winston and jin ,
-for last half year the following developments were implemented by jin for
-vatrfacs code
-( the calibration code for var ) :
-1 . weighting the log - returns with exponential decay factor while calculating
-correlations ;
-2 . calculating factors and correlations for uk curves ;
-3 . joint estimation of factor loading for selected groups of commodities ;
-4 . alternative method for collecting historical data for correlations
-calculation
-( based on fixed contract instead of collecting prompt , prompt + 1 , etc . prices )
-in order to release these developments research has to have each version under
-clearcase . then we will :
-1 . run vatrfacs code in stage environment ( stage has been refreshed
-recently ) .
-2 . run var code in stage and validate the results .
-it is time to start releasing these 4 versions . projects 3 and 4 require some
-experimental runs
-in stage . a few traders ( in gas , power and liquids markets ) are expecting the
-results .
-meanwhile the following developments have been suggested by reseach , approved
-by risk control ,
-submitted to it as spreadsheet prototypes and waiting in line :
-1 . volatility blending for intramonth power positions ;
-2 . forward volatility smoothing and extracting forward forward volatilities ;
-hope we can follow our procedures to make all these developments go smoothly
-and efficiently .
-tanya .
+Subject: re : follow - up on siam workshop
+thanks for forwarding peter ' s resume . by copy of this memo i am forwarding
+peter ' s resume to danny mccarty and phil lowry . danny and phil : please
+follow - up with vince if you have an interest in meeting with peter . he seems
+to be a very qualified candidate .
+vince j kaminski @ ect
+04 / 30 / 2001 02 : 28 pm
+to : stanley horton / corp / enron @ enron , danny mccarty / et & s / enron @ enron
+cc : vince j kaminski / hou / ect @ ect
+subject : follow - up on siam workshop
+i am forwarding for your attention the resume of peter percell
+who has an extensive experience in modeling physical flows
+of natural gas in pipeline systems . peter is looking currently for a job .
+i met him last week at the meeting of the science and industry advance with
+mathematics
+society at the university of houston .
+the application of recent developments in optimization theory
+and numerical methods can help enron to improve further
+efficiency of our pipeline system and reduce the consumption of compressor
+fuel .
+please , let me know if you interested in introducing peter to executives
+in your organization . i shall be glad to make arrangements for an interview .
+vince kaminski
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 04 / 30 / 2001
+02 : 17 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+peter percell on 04 / 30 / 2001 11 : 16 : 58 am
+to : vincent kaminski
+cc :
+subject : follow - up on siam workshop
+i enjoyed your presentation , and meeting you briefly afterwards , at the
+siam workshop last friday .
+i have extensive experience as a technical leader in the design and
+development of modeling and simulation software products , mostly
+for the oil and gas pipeline industry .
+i am looking for a position that can utilize my software development and
+mathematical skills . getting out of the narrow confines of the pipeline
+simulation industry would be a plus .
+please consider whether i might fit in your group . your answer to a
+question indicated that i have several of the skills you look for .
+also , please let me know , by email , the names and contact information of
+other managers within enron who might benefit from having someone with
+my qualifications in their group .
+attached are my resume and an addendum covering academic & consulting
+experience . publications are available on request .
+i will call you in a couple of days to follow up on this email .
+thank you for your time .
+peter percell 10030 doliver drive
+percell @ swbell . net houston , tx 77042 - 2016
+( 713 ) 532 - 3836 voice & fax
+- percell , peter resume only . doc
+- percell , peter a & c exp . doc

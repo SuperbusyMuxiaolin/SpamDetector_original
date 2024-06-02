@@ -1,180 +1,126 @@
-Subject: re : a request
-zimin ,
-i also enjoyed our talk . thanks very much . i ' ll send you the paper as soon
-as its done .
-duane
-- - on thursday , march 15 , 2001 , 1 : 58 pm - 0600 zimin . lu @ enron . com wrote :
->
->
-> dr . seppi ,
->
-> nice talking to you about swing contracts and your recent work on
-> american - monte
-> carlo approach . i am interested to read your preprint papers .
->
-> my address is
->
-> zimin lu
-> enron corp , eb 1967
-> 1400 smith street
-> houston , tx 77002 - 7361
->
->
-> zimin
->
->
->
->
->
->
->
->
->
->
->
-> ds 64 @ cyrus . andrew . cmu . edu on 03 / 15 / 2001 11 : 59 : 59 am
->
-> to : zimin . lu @ enron . com
-> cc :
-> subject : re : a request
->
->
-> great . i ' ll be in my office . my number is 412 - 268 - 2298 .
->
-> duane
->
->
-> - - on wednesday , march 14 , 2001 , 3 : 57 pm - 0600 zimin . lu @ enron . com wrote :
->
-> >
-> >
-> > dr . seppi ,
-> >
-> > my phone number is 713 - 853 - 6388 . i will call you
-> > tomorrow afternoon around 1 : 30 pm houston time .
-> >
-> > zimin
-> >
-> >
-> >
-> >
-> >
-> >
-> >
-> >
-> >
-> > ds 64 @ cyrus . andrew . cmu . edu on 03 / 14 / 2001 03 : 15 : 02 pm
-> >
-> > to : zimin . lu @ enron . com
-> > cc : vince . j . kaminski @ enron . com
-> > subject : re : a request
-> >
-> >
-> > dr . lu ,
-> >
-> > i would be grateful if i could talk with you some time about the typical
-> > terms one sees in swing , take or pay , virtual storage , etc . options .
-> this
-> > is related to some research some colleagues and i are doing applying
-> recent
-> > innovations in monte carlo valuation of options with early exercise . we
-> > would like to illustrate our techniques on some examples which look
-> > realistic . when would be convenient for you ?
-> >
-> > i look forward to talking with you .
-> > duane seppi
-> >
-> > - - on wednesday , march 14 , 2001 , 8 : 44 am - 0600 vince . j . kaminski @ enron . com
-> > wrote :
-> >
-> > >
-> > > duane ,
-> > >
-> > > i shall be traveling for the rest of the week but my colleague
-> > > dr . zimin lu will call you to talk about different
-> > > structures .
-> > >
-> > > vince
-> > >
-> > >
-> > >
-> > >
-> > >
-> > > ds 64 @ cyrus . andrew . cmu . edu on 03 / 13 / 2001 09 : 54 : 24 am
-> > >
-> > > to : " vince j kaminski "
-> > > cc :
-> > > subject : re : a request
-> > >
-> > >
-> > > vince ,
-> > >
-> > > sorry that i missed your call yesterday . i have a meeting from 2 - 3
-> today
-> > > ( tuesday ) , but otherwise any time in the afternoon works for me . let me
-> > > know what is convenient for you . thanks for your help .
-> > >
-> > > duane
-> > >
-> > > * * * * * * * *
-> > > duane seppi
-> > >
-> > > graduate school of industrial administration
-> > > carnegie mellon university
-> > > pittsburgh pa 15213 - 3890
-> > >
-> > > tel . ( 412 ) 268 - 2298
-> > > fax ( 412 ) 268 - 8896
-> > >
-> > > email ds 64 + @ andrew . cmu . edu
-> > >
-> > >
-> > >
-> > >
-> > >
-> >
-> >
-> >
-> > * * * * * * * *
-> > duane seppi
-> >
-> > graduate school of industrial administration
-> > carnegie mellon university
-> > pittsburgh pa 15213 - 3890
-> >
-> > tel . ( 412 ) 268 - 2298
-> > fax ( 412 ) 268 - 8896
-> >
-> > email ds 64 + @ andrew . cmu . edu
-> >
-> >
-> >
-> >
-> >
->
->
->
-> * * * * * * * *
-> duane seppi
->
-> graduate school of industrial administration
-> carnegie mellon university
-> pittsburgh pa 15213 - 3890
->
-> tel . ( 412 ) 268 - 2298
-> fax ( 412 ) 268 - 8896
->
-> email ds 64 + @ andrew . cmu . edu
->
->
->
->
->
-* * * * * * * *
-duane seppi
-graduate school of industrial administration
-carnegie mellon university
-pittsburgh pa 15213 - 3890
-tel . ( 412 ) 268 - 2298
-fax ( 412 ) 268 - 8896
-email ds 64 + @ andrew . cmu . edu
+Subject: re : fw : invitation to 2001 energy finance conference - the
+university of texas at austin
+joe ,
+i shall probably ask tanya to attend . it coincides with parents '
+weekend at stanford . please , send me the slides anyway .
+i shall help tanya to prepare her presentation .
+vince
+from : joseph hrgovcic / enron @ enronxgate on 02 / 12 / 2001 09 : 47 am
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : fw : invitation to 2001 energy finance conference - the university of
+texas at austin
+vince ,
+i understand you ' ll be speaking at the cefer conference . gary taylor , the
+head of marketing in the weather deriv . group , would like to know if you plan
+on mentioning weather derivatives at all and that if you do , he has numerous
+existing slides and presentations that might be useful to you .
+joe
+- - - - - original message - - - - -
+from : angela dorsey [ mailto : angela . dorsey @ bus . utexas . edu ]
+sent : wednesday , january 10 , 2001 9 : 06 pm
+to : angela dorsey
+cc : ehud ronn ; sheridan titman ( e - mail )
+subject : invitation to 2001 energy finance conference - the university of
+texas at austin
+colleagues and friends of the center for energy finance education and
+research ( cefer ) :
+happy new year ! hope you all had a wonderful holiday season .
+on behalf of the university of texas finance department and cefer , we
+would
+like to cordially invite you to attend our :
+2001 energy finance conference
+austin , texas
+february 22 - 23 , 2001
+hosted by the university of texas finance department
+center for energy finance education and research
+dr . ehud i . ronn and dr . sheridan titman are currently in the process of
+finalizing the details of the conference agenda . we have listed the
+agenda
+outline below to assist you in your travel planning . each conference
+session will be composed of a panel discussion between 3 - 4 guest
+speakers
+on the designated topic .
+as supporters of the center for energy finance education and research ,
+representatives of our trustee corporations ( enron , el paso , reliant ,
+conoco , and southern ) will have the $ 500 conference fee waived .
+the conference package includes thursday evening ' s cocktails &
+dinner and hotel / ut shuttle service , as well as friday ' s conference
+meals ,
+session materials and shuttle service . travel to austin and hotel
+reservations are each participant ' s responsibility .
+a limited number of hotel rooms are being tentatively held at the
+radisson
+hotel on town lake under the group name " university of texas finance
+department " for the nights of thursday , 2 / 22 / 01 and friday , 2 / 23 / 01 ( the
+latter evening for those who choose to stay in austin after the
+conference ' s conclusion ) . to guarantee room reservations , you will need
+to
+contact the radisson hotel at ( 512 ) 478 - 9611 no later than monday ,
+january
+22 nd , and make your reservations with a credit card . please let me know
+when you have made those arrangements so that i can make sure the
+radisson
+gives you the special room rate of $ 129 / night .
+please rsvp your interest in attending this conference no later than
+january 22 nd to angela . dorsey @ bus . utexas . edu , or ( 512 ) 232 - 7386 , as
+seating
+availability is limited . please feel free to extend this invitation to
+your colleagues who might be interested in attending this conference .
+center for energy finance education and research
+program of the 2001 energy finance conference
+february 22 - 23 , 2001
+thursday , feb 22 :
+3 : 00 p . m . reserved rooms at the radisson hotel available for
+check - in
+5 : 30 p . m . bus will pick up guests at the radisson for transport to
+ut club *
+6 : 00 p . m . cocktails , ut club 9 th floor
+7 : 00 p . m . dinner , ut club
+8 : 00 p . m . keynote speaker
+9 : 00 p . m . bus will transport guests back to hotel
+friday , feb 23 :
+7 : 45 a . m . bus will pick up at the radisson for transport to ut
+8 : 30 a . m . session 1 - real options
+panelists : jim dyer , ut ( chair )
+sheridan titman , ut
+john mccormack , stern stewart & co .
+10 : 00 a . m . coffee break
+10 : 15 a . m . session 2 - deregulation
+panelists : david eaton , ut ( chair )
+david spence , ut
+jeff sandefer , sandefer capital
+partners / ut
+peter nance , teknecon energy risk
+advisors
+11 : 45 a . m . catered lunch & keynote speaker
+1 : 30 p . m . guest tour - eds financial trading & technology center
+2 : 00 p . m . session 3 - risk management
+panelists : keith brown , ut ( chair )
+vince kaminski , enron
+alexander eydeland , southern co .
+ehud i . ronn , ut
+3 : 30 p . m . snack break
+3 : 45 p . m . session 4 - globalization of the energy business
+panelists : laura starks , ut ( chair )
+bob goldman , conoco
+ray hill , southern co .
+5 : 15 p . m . wrap - up
+5 : 30 p . m . bus picks up for transport to airport / dinner
+6 : 30 p . m . working dinner for senior officers of energy finance
+center
+trustees
+* we have made arrangements to provide shuttle service between the
+radisson
+hotel and ut during the conference . however , if you choose to stay at an
+alternative hotel , then transportation to conference events
+will become your responsibility .
+* * * * * * * * * * * * * *
+angela dorsey
+assistant director
+center for energy finance education & research
+the university of texas at austin
+department of finance , cba 6 . 222
+austin , tx 78712
+angela . dorsey @ bus . utexas . edu
+* * * * * * * * * * * * * *

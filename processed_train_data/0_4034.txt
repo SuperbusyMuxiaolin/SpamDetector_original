@@ -1,12 +1,20 @@
-Subject: eol wti trading simulation
-- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner / hou / ect on 12 / 22 / 2000
-01 : 28 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
-stinson gibner
-12 / 22 / 2000 01 : 24 pm
-to : ted murphy / hou / ect @ ect
+Subject: re : double - up swap
+thanks
+thor
+vince j kaminski
+12 / 12 / 2000 15 : 18
+to : thor lien / osl / ect @ ect
+cc : vince j kaminski / hou / ect @ ect , paulo issler / hou / ect @ ect
+subject : re : double - up swap
+thor ,
+we have modeled this structure a few times in the past .
+paulo issler will call you shortly to talk about it .
+vince
+thor lien
+12 / 12 / 2000 03 : 02 am
+to : vince j kaminski / hou / ect @ ect
 cc :
-subject : eol wti trading simulation
-ted ,
-maximum daily loss was $ 12 . 2 mm on a daily move of $ 1 . 74 when we would have
-started the day already near the position limit of 5 mm bbl .
-- - stinson
+subject : double - up swap
+vince
+do we have any models to use on this product for power ?
+thor

@@ -1,57 +1,12 @@
-Subject: d - g energy systems
-vince & stinson ,
-just wanted to keep you informed of the status . helyette has said that she
-will send a proposal by saturday .
-karla
-- - - - - - - - - - - - - - - - - - - - - - forwarded by karla feldman / hou / ect on 03 / 08 / 2000 01 : 22
-pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
-geman on 03 / 08 / 2000 12 : 27 : 06 pm
-to : " karla feldman "
-cc :
-subject : re : enron - contract
-dear ms feldman ,
-thank you for your email . vince kaminski had
-mentioned your name to me and i am pleased to
-get in contact with you .
-i am making slight adjustments in the license to
-make it as admissible to you as possible ( it has been
-sold so far to major utilities in europe ) . my husband
-and second passport are us and i am using the help
-of a lawyer in my family .
-i will email you a license proposal by saturday .
-sincerely
-at 15 : 57 06 / 03 / 00 - 0600 , you wrote :
->
->
-> dear ms . geman ,
->
-> hello . my name is karla feldman . i work at enron corp . as a contract
-> administrator . vince kaminski and stinson gibner have asked me to contact
-you
-> to obtain additional information pertaining to the purchase of the d - g energy
-> systems application . they are interested in purchasing one ( 1 ) license .
->
-> could you please send me , or have your attorney here in the states send me
-the
-> pricing and your software license agreement for our review ?
->
-> my address is :
->
-> karla feldman
-> enron corp .
-> 1400 smith street , room 2262
-> houston , texas 77002
->
-> my phone number is ( 713 ) 853 - 6754
-> my fax number is ( 713 ) 646 - 8545
-> my e - mail address is : karla . feldman @ enron . com
->
-> thank you very much . i look forward to hearing from you or your attorney .
->
-> karla feldman
-> enron corp .
-> contract administration
->
-h , lyette geman
-professor of finance
-university paris ix dauphine and essec
+Subject: long - term volatility curves
+grant ,
+can research in houston put together a comparison of the long - term volatility
+curves for gas and power in north america and europe ? based on where europe
+is marked ( especially for the uk ) , i think we ' ll find a significant
+difference out beyond 10 years . fundamentally , it seems like the long - term
+vol should be similar for a given commodity regardless of geographic location .
+has research done any work on this in the past ? if not , we should study this
+since long - term vol feeds into the var - based position limits .
+give me a call so we can discuss .
+thanks
+dale

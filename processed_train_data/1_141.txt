@@ -1,27 +1,7 @@
-Subject: your paypal account
-dear valued
-paypal ®
-member :
-it has come to our attention
-that your
-paypal ® account information needs to be
-updated as part of our continuing commitment to protect your account and
-to
-reduce the instance of fraud on our website . if you could please take 5 - 10
-minutes
-out of your online experience and update your personal records you will
-not run into
-any future problems with the online service .
-however , failure to update your records will result in
-account suspension .
-please update your records .
-once you have updated your account records , your
-paypal ® session will not be
-interrupted and will continue as normal . go to the link below .
-thank you .
-paypal ® security center .
-accounts management as outlined in our user agreement ,
-paypal ® will
-periodically send you information about site changes and enhancements .
-visit our privacy policy and user agreement if you have any
-questions .
+Subject: returned mail : see transcript for details
+the original message was received at tue , 19 jul 2005 12 : 59 : 18 + 0200
+from ntibrko 70111 . ibrk . nt . ftth . ppp . infoweb . ne . jp [ 211 . 2 . 26 . 111 ]
+- - - - - the following addresses had permanent fatal errors - - - - -
+- - - - - transcript of session follows - - - - -
+554 5 . 0 . 0 username or alias unknown
+550 5 . 1 . 1 . . . user unknown

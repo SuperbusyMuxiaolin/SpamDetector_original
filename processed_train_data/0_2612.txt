@@ -1,31 +1,9 @@
-Subject: i ' ve done it . . . .
-vince ,
-thanks for this . the original sender of this resume , brian , works for me !
-say , do you have any hot leads on any good hands - on electrical engineers
-interested in designing sensors ?
-cheers , scott
-- - - - - - - - - - - - - - - - - - - - - - forwarded by scott tholan / corp / enron on 01 / 30 / 2001
-06 : 14 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
-vince j kaminski @ ect
-01 / 30 / 2001 05 : 45 pm
-to : scott tholan / corp / enron @ enron
-cc :
-subject : i ' ve done it . . . .
-scott ,
-please , take a look at this resume .
-vince
-- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 01 / 30 / 2001
-05 : 46 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
-from : paula corey @ enron communications on 01 / 30 / 2001 01 : 03 pm
-to : vince j kaminski / hou / ect @ ect
-cc :
-subject : i ' ve done it . . . .
-vince -
-here you go . . . this has been reformatted
-- - - - - forwarded by paula corey / enron communications on 01 / 30 / 01 01 : 03 pm - - - - -
-brian mihura @ enron
-01 / 30 / 01 11 : 52 am
-to : paula corey / enron communications @ enron communications
-cc :
-subject : i ' ve done it . . . .
-here is matt ' s resume as a msword doc .
+Subject: interview - credit derivatives
+dear vince :
+thank you for the invitation yesterday . it was a pleasure to meet you all and learn more about the group , it ' s structure and to some extent what you are involved in . please extend my thanks to all of them .
+i am particularly interested in the credit swap trading platform that enron has recently started . such a platform will provide unique visibility into the credit markets . as you suggested i tried to learn more about this from tanya . i would like to learn more and if possible meet other people more directly linked to the effort .
+just simple instruments like credit swaps will require serious modelling capability for the pricing and the hedging of these apparently simple intruments . the market visibility i mention above can be explored through credit derivatives trading successfully if enron possesses superior ( vis a vis morgan stanley , salomon smith barney , chase manhatan , etc . ) modelling technology in credit derivatives . i can and would like to consider the possibility of doing this for enron . i would like to help develop and participate in putting together that business .
+as i mentioned to you i have done some work in credit derivatives and am deeply familiar with virtually all the work of the principal academics in credit derivatives namely : duffie , lando , tuffano , duffee , das , lelland , etc . i have read carefully most of their work ( published as well as working papers ) on the subject to date .
+i look forward to hearing from you .
+best regards
+joao

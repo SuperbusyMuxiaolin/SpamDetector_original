@@ -1,26 +1,22 @@
-Subject: sap expense report form
-with the implementation of sap , the employee expense report form has been
-modified to reflect the new coding system . the procedures for its use are
-unchanged , but there are some cosmetic differences . one item to note : the
-form no longer requires entry of your social security number ; instead use
-your new personnel number assigned through human resources ( see
-http : / / hrweb . enron . com ) . for electronically submitted expense reports , enter
-the same number on the receipt envelope .
-the form is now available at the sap website . to access the form :
-from the enron home page , go to the sap intranet site http : / / sap . enron . com
-choose one of the following paths :
-click on quick reference tools on the left menu
-click drop - down arrow for accounts payable forms
-click sap expense report form
-click on forms and procedures library on the left menu
-click drop - down arrow for accounts payable forms
-click sap expense report form
-wait for it to load
-click enable macros ( or yes , allow macros )
-after you enter the data , save as excel workbook ( . xls file extension ) with a
-new filename . do not save as excel template ( . xlt extension ) .
-you may print the spreadsheet for submission to accounts payable , or attach
-it to notes for electronic submission . instructions are available at the
-website , on the same drop down box as the form .
-if you have any questions , contact the center of expertise ( coe ) at 713
-345 - 7427 .
+Subject: agenda for transmission roundtable on wednesday , january 24 , 2001
+sorry everyone , i guess i am having my monday morning today . here are the
+attachments .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by anita dupont / na / enron on 01 / 23 / 2001 09 : 52
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+anita dupont
+01 / 23 / 2001 09 : 56 am
+to : robin . kittel @ enron . com , bill . rust @ enron . com , steve . walton @ enron . com ,
+ron . tapscott @ enron . com , jeffrey . wilson . enron . communications @ enron . com ,
+sevil . yaman @ enron . com , vasant . shanbhogue @ enron . com , tom . dutta @ enron . com ,
+walter . coffer @ enron . com , vkamins @ enron . com , lloyd . will @ enron . com ,
+martin . lin @ enron . com , christi . l . nicolay @ enron . com , george . hopley @ enron . com ,
+fred . mitro @ enron . com , debbie . chance @ enron . com , patrick . hansen @ enron . com ,
+steve . olinde @ enron . com , madhup . kumar @ enron . com ,
+robert . kraszewski @ corp . enron . com
+cc : lance . cunningham @ enron . com , shirley crenshaw / hou / ect @ ect
+subject : agenda for transmission roundtable on wednesday , january 24 , 2001
+please review the attached agenda for tomorrow ' s transmission roundtable and
+let me know if you have any additions or changes . also , please bring to the
+meeting a hard copy of the attached december 8 meeting notes . thanks .
+regards ,
+anita

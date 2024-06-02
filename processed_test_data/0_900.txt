@@ -1,8 +1,12 @@
-Subject: tips
-fyi - us inflation - linked bond
-i can not replicate the nominal yield and inflation adjected cash flow
-calculation from bloomberg . so i called the bond analytics group .
-i got to the point that they admit that they have made mistakes in their
-calculation , and promised to fix it .
-once i got the issues settled , there will be a better us inflation model .
-zimin
+Subject: re : testiing component var
+naveen ,
+as we discussed yesterday , i would like to see the results of components var
+testing .
+i got some from sunil today for agg - gas .
+in addition if you can send me component var results for ng - price for some
+date ,
+as well as ng positions , forward price curve , forward volatility curve for
+ng - price - prc for that
+same date , i can verify the numbers .
+thank you ,
+tanya .

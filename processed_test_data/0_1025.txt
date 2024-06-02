@@ -1,24 +1,34 @@
-Subject: 2001 research support for ebs
-barry ,
-thanks for the timely email . i have your name on my list of people to
-contact this week as kevin hannon had mentioned to me just yesterday that our
-group might be able to help you in translating positions for the new risk
-system for ebs .
-you are right that i haven ' t been spending much time on 44 . martin lin has
-been taking the lead in day to day management of most of the current projects
-that we are supporting . we have been somewhat short handed since samer
-takriti left the group last fall and we were out - bid by mckinsey for cantekin
-dincerler who had helped us with ebs projects as an intern over the
-summer . however , we do have additional help coming . iris mack , a very
-bright new hire who comes with significant consulting and risk management
-experience , will be starting with the group next week . i am hoping that ,
-together with martin , she will allow us to significantly increase the
-research group presence on 44 and address areas which are currently
-undersupported .
-can i get on your schedule some time next week in order to map out the areas
-where we could best contribute to the risk management projects and to
-introduce iris and martin to you ? almost any time would be fine , or you can
-have your assistant coordinate with shirley crenshaw x 35290 .
-regards ,
-stinson
-x 34748
+Subject: xpress and cplex runtime comparison results
+vince ,
+fyi
+below is the comparison of the computation time results from cplex and xpress
+optimization softwares .
+- chonawee
+- - - - - - - - - - - - - - - - - - - - - - forwarded by chonawee supatgiat / corp / enron on
+05 / 19 / 2000 03 : 26 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+chonawee supatgiat
+05 / 17 / 2000 05 : 48 pm
+to : samer _ takriti @ enron . net , stinson gibner / hou / ect @ ect , ravi
+thuraisingham / enron communications @ enron communications
+cc : tom halliburton / corp / enron @ enron , pinnamaneni krishnarao / hou / ect @ ect ,
+ming - lung . lee @ sycamorenet . com , ming 888 lee @ aol . com
+subject : xpress and cplex runtime comparison results
+hi ,
+i have tested both cplex and xpress - mp optimization software in solving our
+network design problem .
+xpress is more user friendly hence it takes less developing time . however ,
+cplex performs significantly better
+in term of computation time , especially in integer programming .
+as a result , eventhougth xpress is easier to use and cheaper , i would
+recommend our ebs group to use cplex .
+please let me know what do you think . . .
+the test problem has 10 nodes , 77 cables , 5 cable speed .
+the table below represents the computation time in seconds for solving this
+problem .
+the second column indicates if the general integer variables are relaxed ( but
+still keep the binary variables ) .
+the " lp " column represents the computational time when solving relaxed
+problem ( no binary & integer variable constraints ) .
+xpress took too much time in solving case 4 and 6 so i had to stop the
+process and report the best solutions it found .
+below are the graph .

@@ -1,35 +1,59 @@
-Subject: 2 - survey / information email 5 - 7 - 01
-current notes user :
-to ensure that you experience a successful migration from notes to outlook ,
-it is necessary to gather individual user information prior to your date of
-migration . please take a few minutes to completely fill out the following
-survey . when you finish , simply click on the ' reply ' button then hit ' send '
-your survey will automatically be sent to the outlook 2000 migration mailbox .
-thank you .
-outlook 2000 migration team
-full name :
-login id :
-extension :
-office location :
-what type of computer do you have ? ( desktop , laptop , both )
-do you have a pda ? if yes , what type do you have : ( none , ipaq , palm pilot ,
-jornada )
-do you have permission to access anyone ' s email / calendar ?
-if yes , who ?
-does anyone have permission to access your email / calendar ?
-if yes , who ?
-are you responsible for updating anyone else ' s address book ?
-if yes , who ?
-is anyone else responsible for updating your address book ?
-if yes , who ?
-do you have access to a shared calendar ?
-if yes , which shared calendar ?
-do you have any distribution groups that messaging maintains for you ( for
-mass mailings ) ?
-if yes , please list here :
-please list all notes databases applications that you currently use :
-in our efforts to plan the exact date / time of your migration , we also will
-need to know :
-what are your normal work hours ? from : to :
-will you be out of the office in the near future for vacation , leave , etc ?
-if so , when ? from ( mm / dd / yy ) : to ( mm / dd / yy ) :
+Subject: re : hello from london
+zimin ,
+i have a copy of the article .
+i agree with you . the model is
+essentially the same ( in intentions ) .
+i shall distributed the copy of the paper
+to the trades here . it explains
+well the logic behind the model and it ' s
+an independent source .
+vince
+zimin lu
+05 / 30 / 2000 10 : 44 am
+to : vince j kaminski / hou / ect @ ect
+cc : stinson gibner / hou / ect @ ect
+subject : re : hello from london
+vince ,
+i got the article . i can make a copy for you when i get back .
+the article is pretty much for marketing purpose . my reading
+from that paper is as follows :
+1 . solve optimal exercise bounday using stocastic dp ;
+2 . runing price trajectory to tracking storage level to give average storage
+cycling ;
+our model addresses the same issues , althrough maybe the implementation is
+not quite the same .
+i will fax to you if i can find the article here .
+regards ,
+zimin
+vince j kaminski
+05 / 30 / 2000 09 : 56 am
+to : zimin lu / hou / ect @ ect
+cc : vince j kaminski / hou / ect @ ect
+subject : re : hello from london
+zimin ,
+there was an interesting article on gas storage modeling
+by people from camminus in the march issue
+of energy and power risk management .
+please , see if you can get this article .
+vince
+zimin lu
+05 / 30 / 2000 04 : 59 am
+to : vince j kaminski / hou / ect @ ect , stinson gibner / hou / ect @ ect
+cc : anjam ahmad / lon / ect @ ect
+subject : hello from london
+vince and stinson ,
+i am in the london office this week . things are quite nice here . my host
+anjam arranged a full itinerary for me .
+tuesday is reserved for anjam to talk about various subjects including
+inflation modeling , power vol curve ,
+mean reverting price & vol model , and i will talk about the spot and
+multi - factor models , xll . wednesday , i
+will concentrate on the gas storage model with natasha danilochkina .
+thursday and friday i will talk to
+haakan olafsson , mark jones , anjam , and natasha about uk gas forward curve
+simulation , gas swing model ,
+and implementation issues of uk virtural storage model . i will give you a
+full report when i get back .
+it is cold and rainy here in london . it makes me feel sunny and hot houston
+actually is not that bad .
+zimin

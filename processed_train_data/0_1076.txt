@@ -1,31 +1,19 @@
-Subject: re : trading algorithms
-andy ,
-sounds good . one comment : vasant is swamped with work coordinating
-several high profile projects .
-bob is very productive and thorough and will get a lot of support
-internally from other members of the group : this contribution
-may not be directly visible but it will be still very important .
-we appreciate your hands - on involvement . it ' s always the most
-important condition of a successful project to have direct and frequent
-interaction
-with the customer . look fwd to working on this project .
-vince
-from : andy zipper / enron @ enronxgate on 04 / 18 / 2001 01 : 57 pm
-to : jay webb / enron @ enronxgate , vince j kaminski / hou / ect @ ect
-cc :
-subject : trading algorithms
-guys ,
-here is what i took away from our meeting :
-1 ) . research will continue working on custom reporting off of enrononline
-data .
-2 ) . research will continue working on market analysis off of enrononline data
-3 ) . research will a contribute a resource to the trading algorithm effort ,
-presumably one at this point in time . i would prefer it to be vasant but i am
-flexible . the trading algorithm group will be run by the enrononline team with
-its product reviewed by research . it is my belief that projects like this
-require a firm commercial hand in their infancy to make sure they stay on the
-right track .
-if this presents a problem for anyone please let me know so that we can
-discuss .
-thanks ,
-andy
+Subject: 3 - urgent - to prevent loss of information
+critical migration information :
+1 . your scheduled outlook migration date is the evening of : may 7 th
+2 . you need to press the " save my data " button ( only once ) to send us your
+pre - migration information .
+3 . you must be connected to the network before you press the button .
+4 . if a pop - up box appears , prompting you to " abort , cancel or trust signer "
+please select trust signer .
+5 . any information you add to your personal address book , journal or calendar
+after you click on the button will need to be manually re - added into outlook
+after you have been migrated .
+6 . clicking this button does not complete your migration to outlook . your
+migration will be completed the evening of your migration date .
+failure to click on the button means you will not get your calendar ,
+contacts , journal and todo information imported into outlook the day of your
+migration and could result in up to a 2 week delay to restore this
+information .
+if you encounter any errors please contact the resolution center @
+713 - 853 - 1411

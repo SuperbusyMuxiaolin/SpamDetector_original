@@ -1,22 +1,17 @@
-Subject: update on mg var model
-hi vince ,
-thanks for the e - mail . we have included live links to price curves through
-reuters quotes via telerate bridge but we still have static curves for gold
-and cocoa . kirstee is talking to andreas in ny to obtain position files on a
-daily basis , addressing point 2 ) in your e - mail , as well as looking into
-longer term integration issues . cantekin and i have agreed the correct
-correlations for the metals between us , but cantekin is currently checking
-the correlations for silver and gold . preliminary results based on positions
-as of 19 th july are as follows :
-we noticed that position mapping at the front months can change var
-significantly .
-as you stated , kirstee hewitt will now be assuming responsibility for further
-modifications to the model on the london side and to this end i have ensured
-that kirstee is put in touch with key personnel like andreas ( andreas will be
-in the london office next week ) and has access to all the information she
-needs .
-regards ,
-anjam ahmad
-research
-x 35383
-spreadsheet :
+Subject: good morning
+vince ,
+attached is a note written by a former phd student of mine . he comments on
+the calif power problem and i thought you and others at enron might enjoy
+his insights .
+john
+- california is worth 50 basis points . doc
+john d . martin
+carr p . collins chair in finance
+finance department
+baylor university
+po box 98004
+waco , tx 76798
+254 - 710 - 4473 ( office )
+254 - 710 - 1092 ( fax )
+j _ martin @ baylor . edu
+web : http : / / hsb . baylor . edu / html / martinj / home . html

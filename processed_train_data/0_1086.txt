@@ -1,34 +1,43 @@
-Subject: visit may 4 th
-vince :
-per susan ' s email below , do you want to go to the luncheon for john
-hennessey ? she doesn ' t say where the lunch is going to be , did you
-get an invite ?
-the only thing you have that day is 9 : 00 am larry thorne and the
-energy derivatives class at 11 : 30 .
-let me know .
-thanks !
-shirley
-- - - - - - - - - - - - - - - - - - - - - - forwarded by shirley crenshaw / hou / ect on 04 / 17 / 2001 11 : 55 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-" susan c . hansen " on 04 / 17 / 2001 10 : 47 : 38 am
-to : shirley . crenshaw @ enron . com
-cc : clovell @ stanford . edu , donna lawrence
-subject : visit may 4 th
-hi shirley ,
-thanks for corresponding with carol during my absence , and confirming our
-meeting with vince kaminski at 1 : 30 on may 4 th . i have a question about
-the logistics . i believe dr . kaminski has received an invitation to an
-event in houston : new stanford president john hennessy is visiting a number
-of cities on a " welcome tour , " and it just so happens he is hosting a
-luncheon in houston on may 4 th . if dr . kaminski wants to attend the
-hennessy welcome tour luncheon , donna lawrence and i could meet with him at
-1 : 30 somewhere in the hotel . if he ' s not attending the presidential event ,
-please let me know where you are located , and we ' ll plan travel time
-accordingly .
-regards ,
-susan
-susan c . hansen
-director , corporate relations
-school of engineering
-stanford university
-stanford , ca 94305 - 4027
-( 650 ) 725 - 4219
+Subject: re : enron exotica options library
+patrick ,
+we have those two models in the exotica library . you need to add exotica . xll
+located in o : \ research \ exotica \ xll to your excel before you can use the
+functions .
+you can find the documentation in o : \ research \ exotica \ doc .
+example spreadsheets can be found in o : \ research \ exotica \ .
+the precedure of addin is as follows .
+1 ) clik tools / addin on your excel
+2 ) choose browse and got to o : \ research \ exotica \ xll
+3 ) select exotica . xll or its identical copy exotical . xll
+4 ) answer the question " copy . . . " no .
+5 ) click ok , then you should see exotica menu bar pop up .
+if you have any more questions please let me know .
+zimin
+vince j kaminski
+11 / 21 / 2000 08 : 06 am
+to : patrick markey / hou / ect @ ect
+cc : vince j kaminski / hou / ect @ ect , zimin lu / hou / ect @ ect
+subject : re : enron exotica options library
+patrick ,
+please , contact zimin lu , 713 853 6388 .
+vince
+patrick markey
+11 / 21 / 2000 05 : 15 am
+to : vince j kaminski / hou / ect @ ect
+cc : patrick markey / hou / ect @ ect
+subject : enron exotica options library
+vince ,
+i am trying to price a crack spread option utilizing either of the following
+models in the exotica library :
+1 . spread options by 1 - d integration - sprdopt
+2 . spread options on asian spreads - asnsprd
+how do i get access to these options models ? who can i visit with in the
+houston group if i have any questions regarding the models . your help would
+be greatly appreciated . i am located in singapore , so i would probably be
+visiting with the houston personnel via e - mail .
+thanks ,
+pat markey
+p . s . - i have access to the o : \ research \ exotica \ xll \ xll _ templates \ directory ;
+however , there are no macros associated with the programs that i can find .
+also , i don ' t have access to the m : drive . please let me know where to find
+these options models .

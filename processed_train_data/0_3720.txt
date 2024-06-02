@@ -1,60 +1,25 @@
-Subject: re : spring 2001 schematic
-mr . kaminski ,
-you will need to speak with david kilgore at kilgore @ rice . edu or by calling
-david at 713 - 348 - 5378 regarding getting set up in embanet and if you can
-have access the database from the outside .
-kathy
-at 02 : 40 pm 1 / 23 / 01 - 0600 , you wrote :
-> kathy ,
->
-> what is embanet ? do i have access from the outside ?
->
->
-> vince kaminski
->
->
->
->
-> kathy spradling on 01 / 11 / 2001 11 : 01 : 48 am
->
-> to : ( recipient list suppressed )
-> cc : cmiller @ rice . edu , castro @ rice . edu , spradlin @ rice . edu
-> subject : spring 2001 schematic
->
->
-> spring 2001 faculty ,
->
-> the spring 2001 schematic has been posted to embanet . to access the
-> schematic please open the jgsm area icon on the embanet desktop . next
-> please open the announcement jgsm icon . you will find the spring 2001
-> schematic located under the subject column . please open the document . if
-> you do not have access to embanet you will need to speak with david kilgore
-> at kilgore @ rice . edu or by calling david at 713 - 348 - 5378 .
->
-> thanks ,
-> kathy
->
-> kathy m . spradling
-> mba program coordinator
-> jesse h . jones graduate school of management
-> rice university
-> 6100 main street , ms 531
-> houston , texas 77005 - 1892
-> phone : ( 713 ) 348 - 3313
-> fax : ( 713 ) 348 - 5251
-> email : spradlin @ rice . edu
-> http : / / www . rice . edu / jgs
-> e - mail : spradlin @ rice . edu
-> http : / / www . ruf . rice . edu / ~ jgs /
-kathy m . spradling
-mba program coordinator
-jesse h . jones graduate school of management
-rice university
-6100 main street , ms 531
-houston , texas 77005 - 1892
-phone : ( 713 ) 348 - 3313
-fax : ( 713 ) 348 - 5251
-email : spradlin @ rice . edu
-http : / / www . rice . edu / jgs
-e - mail : spradlin @ rice . edu
-http : / / www . ruf . rice . edu / ~ jgs /
+Subject: institutional investor journals profile update confirmation
+thank you for updating your ii journals profile information . changes to your
+user id , password and e - mail address have been made . please allow 24 hours
+for any other changes you ' ve made to take effect in our system . here is the
+profile information we have for you :
+account number : 12973228
+first name : vince
+last name : kaminski
+company name : enron corp
+position : managing director
+department :
+address 1 : 1400 smith st eb 1962
+address 2 :
+city : houston
+state : tx
+zip code : 77002 - 7327
+country : usa
+phone : ( 713 ) 853 - 3848
+extension :
+fax : ( 713 ) 646 - 2503
+foreign phone :
+foreign fax :
+email : vkamins @ enron . com
+user id : vkaminski
+password : italia

@@ -1,12 +1,10 @@
-Subject: co - integration
-zimin ,
-andrea reed asked for our help in looking for end - users of steel which might
-be used to take a commodity hedge position . she will work on identifying
-potential equities or indices which might be used , and then we will analyze
-them for correlation or co - integration with steel prices . andrea should be
-contacting you next week regarding the project . hector has done
-co - integration analysis in the past and has the tools to do this project .
-thanks ,
-stinson
-anrdrea : we will also need you to identify which steel prices / indices
-should be used in this analysis .
+Subject: re : var and credit meeting on wednesday , april 11 at 11 : 30 am
+everybody ,
+this week our regular meeting will be devoted primarily to 2 subjects :
+1 . simulating power prices in var ;
+2 . capturing correlations across commodities as well as across term structure of
+forward prices .
+research will present some suggestions based on data analysis .
+detailed agenda is enclosed .
+please , let shirley crenshaw know if you are not planning to attend .
+tanya .

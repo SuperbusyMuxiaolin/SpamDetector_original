@@ -1,24 +1,30 @@
-Subject: lng by rail
-vince ,
-i was thinking about the type of things you could be talking to jeff shankman
-about , in the dabhol lng context . it occurred to me that one way to collect
-on regas charges , and still find alternate cutomers for gas is through the
-railways .
-some time back , i had looked into the possiblility of transporting lng by
-train . apparently , technology exists wherein lng can be put into cryogenic
-containers that can be trucked as well as the same containers being loaded
-from trucks to train bogies . i believe this maybe a way to earn some monies
-with lng by developing just such a market in india for commercial customers .
-it is pertinent to note that the konkan rail line is just about 1 hr . 45
-minutes from the dabhol plant . trucks from dabhol could carry lng to the
-rail line at guhagar from where it could travel up and down the west coast of
-india . if we target end - consumers directly , we could easily sell at retail
-type prices , and build in a large margin , even if the volumes disposed are
-relatively smaller . ( the alternative fuel for most of these establishments
-is diesel or naphtha which is highly priced , and mostly trucked along
-roads , increasing costs ) . the end aim is to keep income targets in india , so
-that the analysts do not have a field day with the stock .
-hence keeping activity up in india , and showing that solutions exist , will
-keep stock price buoyed . we could explore this idea if it appeals !
-regards ,
-sandeep .
+Subject: re : time keeping
+what about me !
+i may need this in the future . . . .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by kevin g moore / hou / ect on 03 / 21 / 2000 08 : 12
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+shirley crenshaw
+03 / 21 / 2000 07 : 27 am
+to : brad mcsherry / hou / ect @ ect
+cc : vince j kaminski / hou / ect @ ect , william smith / corp / enron @ enron , kevin g
+moore / hou / ect @ ect
+subject : re : time keeping
+hi brad :
+i am it for our group ! however , it might be a good idea to train sam smith
+also .
+please let us know .
+thanks !
+shirley
+3 - 5290
+from : brad mcsherry on 03 / 20 / 2000 05 : 38 pm
+to : lydia cannon / hou / ect @ ect , rosalinda resendez / hou / ect @ ect , donna
+baker / hou / ect @ ect , shirley crenshaw / hou / ect @ ect
+cc :
+subject : time keeping
+lydia / rosie / donna / shirley ,
+we are looking to implement sap hr by 7 / 1 / 00 . there is a time keeping module
+in the program . please send me a list of the time keepers for your groups .
+do not forget to send your own name if you keep time . time keepers will be
+contacted in the near future for training on the new system .
+thank you for your help ,
+brad

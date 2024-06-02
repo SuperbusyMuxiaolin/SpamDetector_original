@@ -1,8 +1,9 @@
-Subject: resumes
-karen ,
-i have forwarded all the resumes to charlene jackson about 10 days ago .
-i am resending 4 resumes ( in the case of paolo it ' s a copy of his e - mail
-message )
-i have in electronic format . the resume for gappy will be faxed to you .
-thanks for your help .
-vince
+Subject: ljm model
+ryan :
+this is the updated spreadsheet for pricing the ljm options disregarding any
+credit issues . it produces exactly the same results as before . the only
+difference tis the place it gets the model ' s c code . i am placing all the
+code related to this deal on a specific directory on the " o " drive now .
+please use this version on future pricing . i will delete the old code .
+thanks
+paulo issler

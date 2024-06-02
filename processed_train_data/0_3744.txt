@@ -1,39 +1,46 @@
-Subject: energycast
-please could you sort out an guest id for one month .
-- - - - - - - - - - - - - - - - - - - - - - forwarded by louise kitchen / hou / ect on 27 / 07 / 2000
-13 : 59 - - - - - - - - - - - - - - - - - - - - - - - - - - -
-vince j kaminski
-26 / 07 / 2000 09 : 05
-to : louise kitchen / hou / ect @ ect
-cc : vince j kaminski / hou / ect @ ect
-subject : energycast
-louise ,
-can we grant him guest access to eol again ? he is he same
-person who requested it a few weeks ago . evidently he was busy
-working on another project .
-vince
-- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 07 / 26 / 2000
-09 : 06 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-" edward krapels " on 07 / 25 / 2000 11 : 09 : 47 am
-please respond to ekrapels @ esaibos . com
-to : vince j kaminski / hou / ect @ ect
-cc :
-subject : energycast
-dear vince ,
-i hope your trip to australia was successful . it ' s one of my favorite places
-to go .
-i ' ve copied you on the email to mike initiating enron ' s trial service to
-energycast . thanks for helping to set this up .
-would you ask the authorities in enron to refresh my access to enrononline ?
-my guest user id as ena 61296 and my guest password was tr 84 byl 3 . they no
-longer work , probably because i haven ' t visited the site in months as we
-were in full development mode on energycast .
-vince , you will note in our website references to forward prices of power in
-nepool , nypp , and pjm . we use reuters as a reference - - not satisfactory . if
-your traders like energycast and enron became a client , would enron consider
-linking its prices to our site ? we have to improve over the reuters quotes
-and regard enrononline or bloomberg as the best candidates . over time , as
-our service spreads i believe this could help generate deal flow for your
-traders .
-let me know what you think .
-ed
+Subject: re : enron / stanford program
+hi vince , stinson
+thank you for hosting my visit to enron and arranging for me to meet
+with you and other decision - makers at enron . the meetings been very
+productive on my side , as i try to formulate the project more
+clearly .
+we are entering the period that i have to set up the research assistantships
+( ra )
+for next year for giuseppe and the other student i have committed to support
+on this project . school starts in late september , but already i have to
+start putting together the papers for the ras in the fall , as per departmental
+requirement .
+would it be possible to put the project in place soon , so that i can
+do the raship papers for the students ? i expect i will start having
+pressure from the department to do the paperwork for these raships early
+september , and i have to have them in place by the third week of september ,
+just before school starts .
+i am attaching below the same draft of a letter i had sent you in a previous
+e - mail , which would be required to set up the project at stanford . please ,
+let me know how you would like to proceed .
+again , thanks for your hospitality and i look forward to productive
+collaboration
+during the coming year and beyond .
+best regards ,
+nick
+ps : vince , i look forward to seeing you during your visit to the bay area
+in october .
+draft of letter to be sent from enron to stanford .
+prof . nicholas bambos
+420 terman engineering center
+management science & eng . dept . and
+electrical engineering department
+stanford university
+stanford , ca 94305
+dear nick ,
+we are happy to provide gift funds of $ 100 , 000 per year , over
+three years , to support a program in your research group , related
+to bandwidth markets / trading and networking technologies .
+enron would like to support research activities in the above
+mentioned area , including pd . d . student work , research seminars etc .
+there may also be opportunities to have the supported ph . d . students
+do summer internships at enron , related to their research interests .
+please find enclosed a check of $ 100 , 000 payable to stanford university
+for supporting this research effort in your group during the first year .
+best regards ,
+name and title

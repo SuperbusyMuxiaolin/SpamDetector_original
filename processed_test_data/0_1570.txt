@@ -1,27 +1,39 @@
-Subject: re : research and development charges to gpg
-here it is !
-- - - - - - - - - - - - - - - - - - - - - - forwarded by shirley crenshaw / hou / ect on 08 / 14 / 2000
-07 : 47 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-vince j kaminski
-08 / 10 / 2000 02 : 25 pm
-to : vera apodaca / et & s / enron @ enron
-cc : vince j kaminski / hou / ect @ ect , shirley crenshaw / hou / ect @ ect , pinnamaneni
-krishnarao / hou / ect @ ect
-subject : re : research and development charges to gpg
-vera ,
-we shall talk to the accounting group about the correction .
-vince
-08 / 09 / 2000 03 : 26 pm
-vera apodaca @ enron
-vera apodaca @ enron
-vera apodaca @ enron
-08 / 09 / 2000 03 : 26 pm
-08 / 09 / 2000 03 : 26 pm
-to : pinnamaneni krishnarao / hou / ect @ ect
-cc : vince j kaminski / hou / ect @ ect
-subject : research and development charges to gpg
-per mail dated june 15 from kim watson , there was supposed to have occurred
-a true - up of $ 274 . 7 in july for the fist six months of 2000 . reviewing july
-actuals , i was not able to locate this entry . would you pls let me know
-whether this entry was made , if not , when do you intend to process it .
-thanks .
+Subject: re : stressing correlations
+hi , everybody ,
+following up on our discussions on stressing correlations i made a
+spreadsheet and a dll .
+here is what it does :
+in the input ( " main " sheet ) the user has to specify :
+- the size of the correlation matrix ;
+- the row and column for the element he wants to stress ( row = 1 and col = 3 in
+the example )
+- the integer number n _ iter ;
+- the original correlation matrix .
+in the output ( see sheet " results " ) we see 2 columns :
+- the first column contains possible correlation values ( from - 1 to 1 ,
+n _ iter + 1 numbers ) for the element ( 1 , 3 ) ,
+- the second column contains the smallest eigenvalue for the " stressed "
+correlation matrix
+( which is the same as the original matrix except the elements ( 1 , 3 ) and ( 3 , 1 )
+which take values from - 1 to 1 ) .
+thus , the user can see which values for the chosen element ( 1 , 3 ) are
+permitted
+( those for which the smallest eigenvalue is positive ( marked green in the
+example ) .
+the user might decide that he wants to assign the correlation which is " not
+permitted " to this particular element
+( the smallest eigenvalue is negative ) . then the user might have a few options :
+1 . all the elements of the correlation matrix will be modified so that the
+chosen element has the
+desired correlation in it , but the change in the correlation matrix is the
+" smallest " possible
+( in the sense of matrix norm ) ( this is my next step to do for this
+spreadsheet ) .
+2 . just one column ( and the corresponding row , of course ) will change , while
+the rest of the matrix
+will stay unchanged ( kevin ' s suggestion ) . in this case the user have to
+choose which column ( and row )
+he prefers to modify ( in my example - column - row 1 or column - row 3 ) .
+we can discuss this approach with risk control and see how they like it . i
+send you only the spreadsheet with an example now .
+tanya .

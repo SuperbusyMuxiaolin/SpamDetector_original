@@ -1,29 +1,68 @@
-Subject: re : rabi de
-anything we can do ?
-- - - - - - - - - - - - - - - - - - - - - - forwarded by grant masson / hou / ect on 09 / 15 / 2000 08 : 34
-am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-enron north america corp .
-from : toni graham @ enron 09 / 14 / 2000 07 : 36 pm
-to : grant masson / hou / ect @ ect
-cc : norma villarreal / hou / ect @ ect
-subject : re : rabi de
-grant , i did talk with tanya this evening however since i ' m on vacation
-friday i wanted to outline here what rabi has discussed with me .
-1 ) title . . . . . he is currently at a vp level and we are offering him manager
-2 ) sign on bonus . . . . . . . . . . . the 15 k is not coving the lost bonus he will
-receive at he current co ( $ 25 k )
-3 ) salary . . . . . . . . . . . he will receive a " risk premium " of approx 10 % befor
-tax . he is not able to quantify this for us and i was not able to get a
-number out of him as to what he is looking for .
-he is very enthusiastic and wants to work for enron but wanted to see if we
-could do anything to enhance our offer in these areas .
-toni
-from : grant masson @ ect 09 / 14 / 2000 08 : 58 am
-to : toni graham / corp / enron @ enron
-cc :
-subject : re : rabi de
-toni :
-i am talking to vince today . please call me if there are any further
-developments i should know about .
-regards ,
-grant .
+Subject: re : abstract
+thanks
+vince . this is good but i also need a title . it would be good if you can as
+part of the talk present an example of a technical problem addressed by your
+group describing the problem and the general methodology employed or
+developed . you can also start with an introduction about your organization
+and the program .
+shmuel
+shmuel s . oren , professor
+dept . of industrial engineering
+and operations research
+4117 etcheverry hall
+university of california
+berkeley , ca 94720 - 1777
+e - mail : oren @ ieor . berkeley . edu
+phone : ( 510 ) 642 - 1836 or 5484
+fax : ( 510 ) 642 - 1403
+- - - - - original message - - - - -
+from :
+to :
+cc : ;
+sent : monday , october 02 , 2000 6 : 44 am
+subject : abstract
+> shmuel ,
+>
+> this is the abstract for my presentation on the 23 rd of october .
+> i am in london and paris this week . i can be reached at my
+> private e - mail address vkaminski @ aol . com .
+>
+> please , feel free to suggest modifications to the abstract .
+>
+>
+>
+> vince
+>
+>
+> * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+>
+> > the last three years were characterized by exceptionally high volatility
+> of
+> > the power prices in the us markets . the market developments have created
+> a
+> > number of unique challenges for energy industry economists . one
+immediate
+> > question we have to answer is how to measure volatility of energy
+prices .
+> > although we can all agree that the prices in the power markets are
+> > characterized by high variability , the traditional measures used in
+> financial
+> > economics ( annualized standard deviation of log price returns ) may not
+> fit
+> > well electricity prices . the second challenge is to explain the sources
+> of
+> > high price volatility and to answer the question to what extent it can
+be
+> > attributed to problems that can be addressed in the long run . such
+> problems
+> > include flaws in market design that allow some market participants to
+> abuse
+> > market power , limited availability and / or unequal access to
+transmission ,
+> > temporary shortages of generation capacity . some factors underlying high
+> > volatility of electricity prices may be of permanent nature and may be a
+> > necessary price to pay for increased market efficiency and expanded
+> customer
+> > choice .
+>
+>

@@ -1,11 +1,13 @@
-Subject: enron ' s 2001 goals
-our vision to become the world ' s leading company positions our company for
-great success this year and beyond . our success is dependent on execution .
-with that in mind , we are making enron ' s 2001 corporate and business unit
-goals available to employees .
-please take a few minutes to review our 2001 goals on enron ' s intranet at
-http : / / 172 . 28 . 92 . 190 / bowne / we believe they will help you gain a better
-understanding of our vision for the company and will inspire you to identify
-innovative ways to help your organization and enron achieve our objectives .
-we have a lot to accomplish this year , and with your hard work and
-dedication , we can realize another year of stellar performance .
+Subject: agenda
+christian -
+i was thinking that your expertise in grads and grib formats will help
+enron to obtain
+a competitive edge over our competitors . development of the grads
+visualization tool
+will allow our international offices to obtain the mrf ( medium range forecast
+model ) data first ,
+without being dependant of internet sources . additionally , i think that we
+could obtain
+mrf ensemble data via the same sources as well .
+can we include in the agenda the development of these tools ?
+jose marquez

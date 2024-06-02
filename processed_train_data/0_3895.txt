@@ -1,13 +1,14 @@
-Subject: todd kimberlain
-vince / vasant :
-do you know who todd kimberlain is ? is he supposed to be in the research
-group and charged to our cost center ? he is .
-i have never heard of him , but when you pull his name up , it shows that he
-is reporting to mark tawny , but is in the research group and being charged
-to our cost center .
-he is also on our time site , but i have not been doing his time . i hope
-somebody
-has !
-let me know ,
-thanks !
-shirley
+Subject: re : looking for " fat tails " in time - series for ngi - socal
+naveen ,
+i got ngi - socal prices for prompt , prompt + 1 , . . . , prompt + 59 contracts .
+for each contract i calculated moving average based on 21 log - returns as
+well as moving volatility . then i calculated normalized log - returns :
+[ return ( t ) - ave ( t ) ] / vol ( t )
+and compared the results to normal distribution .
+i could not find fat tails !
+volatility changes a lot from day to day , so when people look at
+log - returns ( not normalized ) it seems that there fat tails ( big spikes , large
+returns more frequent than normal ) ,
+which comes from the fact that volatility is not constant ( at all ) .
+see the spreadsheet is under o : \ _ dropbox \ tanya
+tanya

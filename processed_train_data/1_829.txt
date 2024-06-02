@@ -1,9 +1,10 @@
-Subject: fw : [ 5 ]
-how have you been ?
-i have very exciting news !
-we finally were able to save an extra $ 450 a month .
-we reflnanced our mortgage with a 3 . 75 % lower rate , and closing was fast !
-the application was free and we got several low rate quotes within days
-ciick on this link and check it out !
-time to save .
-if you prefer to be left out of this amazing offer going here will help you to do so .
+Subject: spam mail warning notification ! ( attachment removal )
+* * * * * * * * * * * * * * * * emanager notification * * * * * * * * * * * * * * * * *
+the following mail was blocked since it contains sensitive content .
+source mailbox :
+destination mailbox ( es ) : cva @ urjc . es
+policy : attachment removal
+attachment file name : your _ document . pif - application / octet - stream
+action : replaced with text
+por motivos de seguridad , los ficheros con extensión com , exe , bat , pif , scr y cpl han sido eliminados del correo .
+* * * * * * * * * * * * * * * * * * * end of message * * * * * * * * * * * * * * * * * * * * *

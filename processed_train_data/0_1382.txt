@@ -1,31 +1,22 @@
-Subject: re : argentina modelling
-michael ,
-what about 1 : 00 p . m . thursday ?
+Subject: re : installation of new programs
+i gave you local admin rights on your laptop yesterday . what you have to do is to log into the laptop using the local
+machine account . the id and the password is the same as your corp login now . the password on the local account will
+never change . if you have a minute today i will show you how . let me know a time .
+phillip randle
+desktop support specialist x 39665
+- - - - - original message - - - - -
+from : kaminski , vince
+sent : tuesday , may 01 , 2001 5 : 17 pm
+to : randle , phillip c .
+cc : kaminski , vince
+subject : installation of new programs
+phillip ,
+how can i install new programs on my laptop , without
+the administrator ' s privileges ?
+one example : when i travel i use aol to get access to my mail
+and to communicate with the office . windows 2000 does not allow
+me to install it .
+also , i have my private statistical software
+i often use when i work at night during business trips .
+i would like to load it as well .
 vince
-michael guerriero @ enron _ development
-01 / 05 / 2000 05 : 47 pm
-to : vince j kaminski / hou / ect @ ect
-cc :
-subject : re : argentina modelling
-could we meet tomorrow afternoon ?
-mfg
-vince j kaminski @ ect
-12 / 30 / 99 06 : 41 pm
-to : michael guerriero / enron _ development @ enron _ development
-cc : vince j kaminski / hou / ect @ ect
-subject : re : argentina modelling
-michael ,
-sorry , i was out around the holidays .
-i shall be glad to meet with you in the lst week
-of january . please call me ( 3 - 3848 ) or my assistant ,
-shirley crenshaw , 3 - 5290 .
-vince
-michael guerriero @ enron _ development
-12 / 20 / 99 02 : 31 pm
-to : vince j kaminski @ ect
-cc :
-subject : argentina modelling
-i am responsible for our argentina operation and would like to discuss some
-modelling issues with you . could you be available wednesday for a meeting .
-thanks
-mfg

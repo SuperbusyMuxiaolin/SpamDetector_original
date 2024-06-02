@@ -1,57 +1,41 @@
-Subject: enron / stanford program
-hello vince , stinson ,
-thank you very much for hosting my visit at enron . i had a
-very pleasant time there , and i found the meetings very
-informative .
-as discussed during my visit at enron , i am sending you below
-a draft of the letter that would be needed to get the program
-in place and rolling , and start the students working on it .
-it took a while to find out what the appropriate process was
-and how the letter should be structured . sorry for the delay .
-if i may , i ' d like to visit enron again , sometime in august ,
-to define the research agenda more precisely and prioritize
-the problems to look at . i ' m in frequent contact with giuseppe ,
-who is impressed by the environment there . we are trying to formulate
-the research issues and problems to study , that would be of interest
-to enron . the plan is this :
-1 ) by august , giuseppe will have been there for almost 2 months
-and will probably have a relatively good understanding of the enron problem
-space .
-2 ) i will work together with giuseppe till august to formulate a set of
-good problems of :
-a ) high practical importance
-b ) high innovation potential
-c ) serious scope .
-3 ) i could visit in august ( say mid - august or so ) to :
-a ) discuss these problems with you and get your feedback
-b ) prioritize the problems and evaluate their impact
-c ) make sure we ' re on the same page regarding research strategy
-and execution path .
-i hope we can fully set up the program at stanford before then , so
-that i can bring on board one more ph . d . student to start his
-doctoral work in this area .
-i ' m all excited about our collaboration . i am even thinking of
-starting a research seminar at stanford , specifically on these
-research issues !
-talk to you soon .
-best regards ,
-nick
-draft of letter to be sent from enron to stanford .
-prof . nicholas bambos
-420 terman engineering center
-management science & eng . dept . and
-electrical engineering department
-stanford university
-stanford , ca 94305
-dear nick ,
-we are happy to provide gift funds of $ 100 , 000 per year , over
-three years , to support a program in your research group , related
-to bandwidth markets / trading and networking technologies .
-enron would like to support research activities in the above
-mentioned area , including pd . d . student work , research seminars etc .
-there may also be opportunities to have the supported ph . d . students
-do summer internships at enron , related to their research interests .
-please find enclosed a check of $ 100 , 000 payable to stanford university
-for supporting this research effort in your group during the first year .
-best regards ,
-name and title
+Subject: re : mec
+steve ,
+i spoke with david ealier today . he is planning a meeting with jim tour to
+due diligence the technology .
+i would like to put together a team to drive mec ' s strategy , including a
+consolidation in houston . we would trade this commitment for warrants in the
+company and a right to participate in future fundings . effectively , our team
+could help drive the strategy for the company and due diligence a possible
+investment at the same time .
+thanks ,
+mark
+steven j kean @ ees
+07 / 26 / 2000 05 : 11 pm
+to : mark lay / hou / ect @ ect
+cc : rex shelby / enron communications @ enron communications @ ect , mike
+mcconnell @ ect , vince j kaminski / hou / ect @ ect , philippe a bibi / hou / ect @ ect ,
+kenneth lay / corp / enron @ enron @ ect , fabricio soares / hou / ect @ ect
+subject : re : mec
+i think it would be useful to verify their view that they are really only 2 - 3
+years from commercial production . ideally , we could get that confirmation
+from someone familiar with the technology but without any financial interest
+in its success . their technology pitch sounded good , but i don ' t know enough
+to recognize the potential shortcomings . i want to feel comfortable that you
+all feel this is real , then i would be happy to have me and my team spend
+some time with them .
+to : rex shelby / enron communications @ enron communications , steven j
+kean / hou / ees @ ees , mike mcconnell , vince j kaminski / hou / ect @ ect , philippe a
+bibi / hou / ect @ ect
+cc : kenneth lay / corp / enron @ enron , fabricio soares / hou / ect @ ect
+subject : mec
+thank you for participating in yesterday ' s meeting . we spoke with harvey and
+jim after the meeting and they took to speed to market comments to heart .
+there is an opportunity for enron to participate with mec in the early
+development of their company , but it seems the one thing they want is the one
+thing we also want , people . i would appreciate your thoughts and comments on
+the possiblity of creating a small team that could work directly with mec as
+part of a potential investment and strategic relationship . given our
+resource constraints , this would most likely be part of the organization that
+sees the greatest strategic impact from mec ' s development .
+mark
+x 37408

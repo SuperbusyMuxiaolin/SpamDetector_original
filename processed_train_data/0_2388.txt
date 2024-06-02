@@ -1,61 +1,73 @@
-Subject: your advice is appreciated
-vince ,
-in the morning we were talking about the el paso candidate who thinks he is
-above something and is not
-willing to take certain project or responsibility . in real life , we also
-occasionally have similar stiuation . ( an
-example is attached ) .
-i would like to have your guidance when such a situation occurs .
-zimin
-- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu / hou / ect on 05 / 02 / 2001 02 : 07 pm
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
-zimin lu
-05 / 02 / 2001 01 : 41 pm
-to : paulo issler / hou / ect @ ect
+Subject: re : telephone interview with the enron research group
+hi christine !
+thanks for being so prompt !
+i have scheduled the telephone interview for 2 : 00 pm on thursday ,
+november 30 th . they will call you at ( 504 ) 861 - 9110 . if this is not
+the telephone number that you wish to be contacted at , please let me
+know the number that you do want them to call you on .
+the research group does sponsor green cards and visas . below is
+a short synopsis of what the research group does . however , they will
+be glad to answer any questions you have during the interview .
+" the enron research group is responsible for option modeling , building
+systems for risk quantification and management , development of
+optimization systems , help with statistical analysis and anything that
+requires
+advanced math " . the research group supports all units of enron .
+if you have any other questions , please feel free to contact me , or feel
+free to ask during the interview .
+talk to you on thursday !
+best regards ,
+shirley crenshaw
+" qing chen " on 11 / 27 / 2000 05 : 40 : 09 pm
+to :
 cc :
-subject : re : asian option for pavel
-our convention is whoever finalizes the model should write the
-documentation . it does not make sense
-to write one when changes are anticipated . you have been working on this
-almost a year , it never
-strikes you that we need a documentation ?
-i created exotica . xll , does that also give you an excuse not working on
-exotica documentation ?
-zimin
-paulo issler
-05 / 02 / 2001 11 : 52 am
-to : zimin lu / hou / ect @ ect
-cc : tai woo / enron @ enronxgate @ enron , pavel zadorozhny / enron @ enronxgate
-subject : re : asian option for pavel
-i am surprised that we do not have the documentation ready .
-i can make that for you . it is not there because you did not put that
-together by the time it was created and all the changes i have made did not
-required changes on the functionality .
-paulo issler
-zimin lu
-05 / 02 / 2001 11 : 29 am
-to : tai woo / enron @ enronxgate @ enron , paulo issler / hou / ect @ ect
-cc : pavel zadorozhny / enron @ enronxgate
-subject : re : asian option for pavel
-tai woo ,
-here are the c - codes for the crudeapo . ' sig ' is the spot
-volatility meaning the price volatility within the delivery period .
-you should consult with pavel for the definition of this " extra "
-parameters . we
-would like to see the position monitor once you get it running .
-we might have some additional suggestions .
-paulo ,
-why don ' t we have a documentation on crudeapo you worked on ?
-i can not find it in exotica help file . please supply that to tai , thanks .
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-from : tai woo / enron @ enronxgate on 05 / 02 / 2001 09 : 55 am
-to : paulo issler / hou / ect @ ect
-cc : kara maloney / enron @ enronxgate , zimin lu / hou / ect @ ect
-subject : asian option for pavel
-this morning , zimin told me that pavel is using a special model in evaluating
-his asian option portfolio .
-he asked me to talk to you in order to access to the code so that i can see
-the difference made to the model .
-as i cannot find the doc . describing this model , please tell me what that new
-input parameter ' sig ' is .
-thanks ,
+subject : re : telephone interview with the enron research group
+hi shirley ,
+thanks for the arrangement . i am available to start the interview :
+- from 9 am to 10 am on wednesday and thursday
+- from 2 : 30 pm to 4 pm on thursday
+new orleans is in the central time zone .
+in addition , could you let me know :
+- what is the main responsibilities of the research group ;
+- what positions you are recruiting for ; and
+- what qualifications and skill sets are critical to these positions .
+thanks . i look forward to hearing from you .
+best regards ,
+qing ( christine ) chen
+mba 2001
+a . b . freeman school of business
+tulane university
+tel : ( 504 ) 861 - 9110
+e - mail : qchenl @ tulane . edu
+- - - - - original message - - - - -
+from :
+to :
+sent : monday , november 27 , 2000 10 : 25 am
+subject : telephone interview with the enron research group
+> good morning ms . chen :
+>
+> vince kaminski and several members of the research group would like
+> to conduct a telephone interview with you sometime this week at your
+> convenience . please let me know the times that you are available and
+> they will contact you .
+>
+> the telephone interviews usually last approximately 1 hour and will be
+> conducted via a speaker phone .
+>
+> the interviewers will be :
+>
+> vince kaminski managing director and head of research
+> stinson gibner vice president , research
+> tanya tamarchenko director , research
+> zimin lu director , research
+>
+> look forward to hearing from you .
+>
+> best regards ,
+>
+>
+> shirley crenshaw
+> administrative coordinator
+> enron research group
+>
+>

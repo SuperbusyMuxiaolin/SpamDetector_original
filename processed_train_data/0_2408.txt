@@ -1,24 +1,20 @@
-Subject: re : improving option valuation precision in erms
-stinson ,
-zhiyong wei ' s group will need to make this change . please follow up with
-zhiyong and jeremy wong .
-- - allan .
-stinson gibner
-08 / 23 / 2000 09 : 54 am
-to : allan severude / hou / ect @ ect
-cc : vince j kaminski / hou / ect @ ect , paulo issler / hou / ect @ ect , eric
-moon / hou / ect @ ect , ed mcmichael / hou / ect @ ect , zimin lu / hou / ect @ ect
-subject : improving option valuation precision in erms
-allan ,
-paulo issler in our group , working with eric moon in structuring , recently
-tracked down the reason for a slight mis - match in option pricing in erms vs .
-the structuring spreadsheets . it is due to the fact that the option
-valuation functions in erms use a slightly less accurate approximation for
-the cumulative normal distribution . we would be happy to work with the right
-person to update the erms code in order to close this discrepancy . please
-let me know how you would like to proceed .
-if you are not the correct person to address the mainenance of erms , please
-let me know who to contact .
-thank you ,
-stinson gibner
-x 34748
+Subject: amr research preview information
+vince ,
+feel free to use this username and password to surf around the amrresearch
+site
+ken
+- - - - - - - - - - - - - - - - - - - - - - forwarded by kenneth parkhill / na / enron on 04 / 12 / 2001
+01 : 23 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+webmaster @ www . amrresearch . com ( craig mackay ) on 04 / 11 / 2001 05 : 34 : 08 pm
+to : kenneth parkhill
+cc :
+subject : amr research preview information
+the following is your user name and password for an amr research preview
+account .
+username : parkhilll 51647
+password : remain
+the preview section will give you access to the executive summaries section
+and the presentation library . if you have any questions about amr research ,
+please email info @ amrresearch . com or call ( 617 ) 542 - 6600 .
+to access the preview section , please go to the following url .
+http : / / www . amrresearch . com / members

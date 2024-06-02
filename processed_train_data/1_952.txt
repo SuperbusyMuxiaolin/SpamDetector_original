@@ -1,12 +1,13 @@
-Subject: undelivered mail returned to sender
-this is the postfix program at host mx 2 . oi . com . br .
-i ' m sorry to have to inform you that your message could not be
-be delivered to one or more recipients . it ' s attached below .
-for further assistance , please send mail to
-if you do so , please include this problem report . you can
-delete your own text from the attached returned message .
-the postfix program
-: host frontend . oi . com . br [ 200 . 222 . 115 . 18 ] said : 550 - mailbox
-unknown . either there is no mailbox associated with this 550 - name or you
-do not have authorization to see it . 550 5 . 1 . 1 user unknown ( in reply to
-end of data command )
+Subject: i would like to help your marketing efforts !
+hello fellow entrepreneur ,
+my name is jon roberts and i represent one of the largest
+lead companies on the internet . we specialize in national , local area code , and
+gender based real time leads . we also run custom marketing campaigns for
+organizations that want a more targeted lead due to their line of service or
+product .
+you can reach me at the number below or simply reply to
+this email . we hope to serve you soon - thanks ! jonathan
+robertsl - 800 - 663 - 0311 theleadmanl @ yahoo . com * if you have received
+this message in error or would like to be removed from the mailing list please
+reply to this email with your removal request and it will be processed
+immediately ! *

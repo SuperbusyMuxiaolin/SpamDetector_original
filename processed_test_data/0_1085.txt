@@ -1,9 +1,9 @@
-Subject: resumes
-charlene ,
-i am sending you as promised the information i have about 3 of our summer
-interns .
-i shall fax you this morning two additional resumes i have in hard copy .
-in the case of paulo rocha we don ' t have a formal
-resume , just a letter from him with the summary of his skills .
-thanks for your help . enron desperately needs this talent .
-vince
+Subject: your approval is overdue : access request for
+tom . halliburton @ enron . com
+this request has been pending your approval for 2 days . please click
+approval to review and act upon this request .
+request id : 000000000003619
+request create date : 9 / 27 / 00 9 : 18 : 21 am
+requested for : tom . halliburton @ enron . com
+resource name : unlisted application / software
+resource type : applications

@@ -1,18 +1,17 @@
-Subject: ibuyit approvers
-ah , these wonderful new systems ! i submitted an order on the " new " ibuyit
-site and sent it for approval and it went to every manager in our group !
-i called them and told them that only you were the approver and they do not
-even have a user id set up for you . please fill out the below security document
-and i will forward it on to them .
-thanks !
-shirley
-- - - - - - - - - - - - - - - - - - - - - - forwarded by shirley crenshaw / hou / ect on 04 / 16 / 2001 03 : 26 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
-from : michael loft / enron @ enronxgate on 04 / 16 / 2001 03 : 18 pm
-to : shirley crenshaw / hou / ect @ ect
-cc :
-subject : ibuyit approvers
-hi shirley
-in processing your ibuyit approval change request , i discovered that vince kaminski has not been set up with a user id in the eprocurement system . please have him fill out the attached security form and send it to - - sap security @ enron . com
-i have already selected the approver role on the second page . we just need the personal information on page one filled out for security purposes . once this is done we can get vince assigned as the approver for cost center 107043 .
-thanks ,
-michael
+Subject: message 4
+dear dr . kaminski ,
+this is a message of discussing the problem in lacima ' s paper . i think that
+glen dixon has told you there is a fault in the paper written by dr . clewlow
+and dr . strickland . it is understandable to have some errors in their work .
+people always make mistakes .
+actually , i found the problem in appendix a of their paper . they can ' t prove
+the eq . a 4 rigorously . there is something wrong in mathematical
+interpretation . if you like , i can give you a full analysis of this problem .
+ps : attached with their paper .
+best regard
+quentin
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+quentin kerr , email : qkerr @ maths . uq . edu . au
+room : 67 - 622 tel : ( 07 ) 33461428
+department of mathematics , the university of queensland
+- energy _ single _ factor . zip

@@ -1,21 +1,19 @@
-Subject: re : vol rollup
-john ,
-we can approach this problem this way . basically you are asking how
-the total variance ( 66 % ) 2 * 143 are distributed among 113 days and the last ? 30 days . assuming volatility for the first period is simgal and that in the ? last 30 ? days is sigma 2 , then ? ? ( 66 % ) 2 * 143 = sigmal 2 * 113 + sigma 22 * 30
-futhermore , we can use nov - 00 implied volatility as a proxy to sigmal , then
-we can
-calculate sigma 2 which is the volatility for dec - 00 contract in the last 30
-days .
-sigam 2 = sqrt ( ( 66 % ) 2 * 143 - sigmal 2 * 113 ) / 30 .
-make sense ?
-zimin
-john disturnal
-07 / 09 / 2000 04 : 10 pm
-to : zimin lu / hou / ect @ ect
+Subject: rice / eron finance seminar series
+fyi !
+- - - - - - - - - - - - - - - - - - - - - - forwarded by shirley crenshaw / hou / ect on 12 / 04 / 2000
+07 : 59 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+barbara ostdiek on 12 / 01 / 2000 05 : 38 : 08 pm
+to : ostdiek @ rice . edu
 cc :
-subject : vol rollup
-zimin , i am trying to understand what the near winter ng implied vols will
-look like as they approach expiration . for example , is it possible to infer
-what the implied volatility of the deco 0 ng contract will look like with 30
-days to expiry given we know current vol ( 66 % ) and term to maturity ( 143
-days ) ?
+subject : rice / eron finance seminar series
+enron seminar series in finance
+jones graduate school of management , rice university
+tim bollerslev
+duke university
+will give a seminar at the jones school on friday , december 8 , ?
+ & measuring , modeling , and forecasting realized volatility .  8
+the seminar will begin at 10 : 30 in room 113 .
+please note the different time and different room for this seminar .
+a pdf of the paper is available through the seminar website
+http : / / www . ruf . rice . edu / ~ jgsfss / .
+?

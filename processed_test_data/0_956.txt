@@ -1,27 +1,25 @@
-Subject: re : support for exotica
-i briefed vince this morning that we have supplied a fully functional exotica
-options library to london office ( executable and source codes ) .
-if you have any questions , my team is ready to help .
-zimin
-steven leppard
-10 / 13 / 2000 03 : 50 am
-to : vince j kaminski / hou / ect @ ect , stinson gibner / hou / ect @ ect , dale
-surbey / lon / ect @ ect , tani nath / lon / ect @ ect
-cc : paulo issler / hou / ect @ ect , sharad agnihotri / lon / ect @ ect , zimin
-lu / hou / ect @ ect
-subject : support for exotica
-all
-sharad ' s investigations of exotica ' s status in london have turned up a very
-confused state of affairs . this isn ' t being helped by the fact that :
-1 . anjam is rarely at his desk , and can ' t be found anywhere in the building .
-2 . when he is around he isn ' t willing or able to provide all the information
-sharad might need to support exotica .
-this is worrying since much of our business depends on the validity of
-exotica ' s valuations .
-sharad will now request information from anjam via email to leave a trail ,
-and i want to alert you to the fact that sharad will be cc ' ing you in on
-these emails .
-if things don ' t improve soon , i may need to request some assistance in
-extracting this information from anjam .
-many thanks ,
-steve
+Subject: re : mission impossible - hr associate groups recommendation and
+next steps
+david ,
+no problem . we shall send the required fire power .
+the person who will attend is amitava dhar .
+vince
+p . s . amitava , please , take note .
+david oxley
+09 / 26 / 2000 11 : 38 am
+to : andrea yowman / corp / enron @ enron , bob sparger / corp / enron @ enron , gerry
+gibson / corp / enron @ enron , tim o ' rourke / corp / enron @ enron , ted c
+bland / hou / ect @ ect , vince j kaminski / hou / ect @ ect
+cc : daniel brown / na / enron @ enron , tana cashion / na / enron @ enron , rhonna
+palmer / hou / ect @ ect , cindy olson / corp / enron @ enron
+subject : mission impossible - hr associate groups recommendation and next
+steps
+rhonna ,
+please arrange a meeting later this week for all of those addressed by this
+message ( vince , it would great if one of your team could attend since we will
+need some heavy statistical and analytical help to complete this project ) .
+the prupose of the meeting will be to discuss and delegate next steps
+required to implement the hr associate groups recommendations for the
+development of an hr " value index " at enron .
+i would anticipate we will need approx 45 minutes .
+david

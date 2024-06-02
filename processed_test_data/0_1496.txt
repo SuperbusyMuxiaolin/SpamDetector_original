@@ -1,21 +1,32 @@
-Subject: research intelligence
-stinson ,
-please , take a look at this memo and forward with changes , if any , to ross
-prevat .
-enron corp . research group publishes weekly newsletter , " research
-intelligence , " available to the internal users on the intranet , at the
-following location : xxx . xxx . xxx . this site contains not only the new issues
-of the newsletter as they become available , but also the archived copies of
-the previous editions .
-each issue of " research intelligence " contains a regular feature called
-technical corner which is devoted to discussion of various quantitative
-techniques that can be applied across different business units of enron .
-i am sending you a binder with the archive copies of the technical corner
-articles . please , review these articles and let us know whether some of the
-techniques discussed in them could find application in your area . we shall be
-glad to use our technical expertise to support your business .
-binders would go to skilling , sutton , hannon , baxter , delainey , bowen , w .
-curry , buy , bowen , overdyke , whalley , shankman , pai , etc . this is a partial
-list . i think we should ask the head of each unit to make recommendations .
-thanks .
-vince
+Subject: meeting confirmation / discussion points
+fyi .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by pinnamaneni krishnarao / hou / ect on
+08 / 03 / 2000 08 : 16 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+david foti @ ees
+08 / 02 / 2000 05 : 06 pm
+to : pinnamaneni krishnarao / hou / ect @ ect , minal dalia / hou / ees @ ees , sanjay
+agarwal / hou / ees @ ees , naveen andrews / corp / enron @ enron
+cc : scott stoness / hou / ees @ ees
+subject : meeting confirmation / discussion points
+tariff var project kick - off meeting
+time : 8 / 3 ; 2 - 3 pm
+location : eb 612
+= = = = = = = = = = = = =
+per the 8 / 2 lunch meeting between research , rac , and the tariff group , there
+developed a consensus to :
+develop a high level value - at - risk model within a 4 - 8 week time frame to use
+for initial risk measurement and hedging purposes
+accommodate links for critical variables such as interest rates , load growth ,
+and inflation
+provide " knobs " for less quantifiable factors such as rate case frequency ,
+rate methodology , etc .
+collaborate with the tariff forecasting team , to have consistent assumptions
+and logic .
+proposed agenda for our meeting :
+discuss the relationship of this project to other ongoing projects
+review existing t & d forecast model ( decide whether it ' s a starting point or
+not - attached for your review )
+discuss approach ( methodology and technology )
+assign responsibilities
+develop project guidelines and timeline
+see worksheets , " diagram " , " graph " , " exposure "

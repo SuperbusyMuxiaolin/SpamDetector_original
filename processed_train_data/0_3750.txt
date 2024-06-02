@@ -1,50 +1,24 @@
-Subject: erac koch p + spread options
-- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner / hou / ect on 01 / 29 / 2001
-10 : 42 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-stinson gibner
-01 / 29 / 2001 09 : 47 am
-to : bob lee / na / enron @ enron , paulo issler / hou / ect @ ect , zimin lu / hou / ect @ ect
-cc :
-subject : erac koch p + spread options
-booking spreadsheet in in o : \ research \ common \ projects \ exotic 2001 _ 0125 . xls
-sheet where options are booked is called " index deals " .
-- - stinson
-- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner / hou / ect on 01 / 29 / 2001
-09 : 43 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-mark fondren
-01 / 26 / 2001 10 : 53 am
-to : stinson gibner / hou / ect @ ect
-cc :
-subject : erac koch p + spread options
-- - - - - - - - - - - - - - - - - - - - - - forwarded by mark fondren / hou / ect on 01 / 26 / 2001 10 : 53
-am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-mark fondren
-01 / 25 / 2001 12 : 07 pm
-to : john l nowlan / hou / ect @ ect
-cc : spencer vosko / hou / ect @ ect
-subject : erac koch p + spread options
-price 1 = wti cushing physical cash price ( wti nymex
-contract ) for example , the april 2001
-wti cushing price equals the aprol wti nymex
-contract .
-price 2 = koch oil posting for west texas / new mexico intermediate .
-koch p + = price 1 - price 2
-price 2 is calculated by subtracting 3 spreads from price 1
-1 . koch posting / wti nymex basis spread
-2 . 66 . 6 % ( aprilol / mayol wti nymex spread )
-3 . 33 . 3 % ( aprilol / junol wti nymex spread )
-example using 1 / 24 / 2001 wti settles aprol 28 . 31
-mayol 27 . 72
-junol 27 . 19
-april 2001 koch posting = april 2001 wti nymex settlement -
-koch / nymex basis spread - . 666 ( apr / may ) - . 333 ( apr / jun )
-= 28 . 31 -
-2 . 75 - . 666 ( . 59 ) - . 333 ( 1 . 12 )
-= 28 . 31 -
-2 . 75 - . 3929 - . 37296
-= 24 . 794
-koch p + = 28 . 31 - 24 . 794
-= 3 . 516
-please call with any questions
-mark f
-ext 853 - 1982
+Subject: re : agenda for houston visit
+mike ,
+sounds good .
+christian
+mike a roberts @ ect
+21 / 12 / 2000 09 : 26 am
+to : christian werner / enron _ development @ enron _ development
+cc : vince j kaminski / hou / ect @ ect , paul
+quilkey / enron _ development @ enron _ development , mark tawney / hou / ect @ ect
+subject : re : agenda for houston visit
+christian ,
+just finished meeting with pual , vince & mark
+new plan :
+let ' s plan on your coming to houston march 12 th - april 2 nd ( after our
+summer / winters respectively
+but . .
+let ' s proceed with the project without pause :
+1 . please send up the software that needs to be installed along with
+operating system requirements
+2 . please copy me on forecasting provided to sydney office on a daily basis
+if we work on these two fronts , it will optimize your time here and permit
+transotion to cover your forecasting there
+thanks
+- - - mike

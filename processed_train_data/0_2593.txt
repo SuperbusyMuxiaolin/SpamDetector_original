@@ -1,16 +1,15 @@
-Subject: december 6 th meeting
-dear mr . kaminski :
-this is to confirm the december 6 th meeting here at our center .
-the location for the meeting is room # 3212 steinberg hall - dietrich hall and
-the time will run from 9 : 00 am - 11 : 00 am .
-please let us know if you need anything further .
-we look forward to seeing you then .
-regards ,
-theresa convery
-~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
-theresa convery
-administrative assistant
-risk and decision processes center
-the wharton school of the university of pennsylvania
-( 215 ) 898 - 5688 / fax : ( 215 ) 573 - 2130
-tconvery @ wharton . upenn . edu
+Subject: sas online tutorial
+hi -
+we have access to the sas online tutorial for the next 30 days . point your
+browser to
+and use the username " enron " and password " enron " to enter .
+the way this product works is designed for a single user ( it sets a " cookie "
+allowing you to " resume " your place in the tutorial when you re - enter . )
+since several of us may use it , we ' ll need to work around this , each of us
+remembering where we were before and recreating any sample data sets , etc
+necessary for the lesson in progress .
+clayton
+ps the module eis / olap will be a part of our installation next month , but is
+not currently available
+pps please remember to use your local browser to browse the sas online
+documentation . invoking a browser on the unix server is inefficient .

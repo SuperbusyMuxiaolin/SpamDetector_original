@@ -1,14 +1,13 @@
-Subject: ppi index short - term models
-hi martina i believe that the
-forecasts are accurately reflecting this . please see graphs below :
-both models really need our rpi curve to be linked ( at the moment i have just
-copied the 2 . 3 % number forward ) . because the auto - regressive error term is
-not very important , we can run the models forward with reasonable
-confidence . as i mentioned , i don ' t think we can really run this model more
-than 12 months , in fact , i think we should run for 9 - 12 months and blend the
-next 3 - 4 months out with the long - term model .
-hope i can fix the long - term ones now with some new insight !
+Subject: new businesses in london : weather & insurance
+hi vince ,
+talking to the staff in london , i heard that lynda clemmons and a few of the
+key weather desk members left to start their own business . i am hearing that
+london may gain more independence from houston and gain its own book and ,
+interestingly , also having ideas about developing the insurance / insurance
+derivatives market . i therefore thought this might be a useful opportunity
+to formalise a gradual transfer of responsibility for weather deal pricing
+from joe to myself plus start talking to vasant about the new markets on the
+insurance side . i will call you later to discuss this with you .
 regards ,
 anjam
 x 35383
-pllu : dzcv :

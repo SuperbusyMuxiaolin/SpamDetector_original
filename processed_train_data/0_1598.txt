@@ -1,108 +1,110 @@
-Subject: re : uk power / gas
-vince , just fyi :
-oliver ( risk control in london ) was asking if it is appropriate to use a set
-of factors corresponding to some commodity for another commodity .
-this " mapping " we do quite frequently in our var system when forward prices
-for a commodity are not correlated ( because of poor price history ) .
-i think using this kind of mappings is ok because we can not trust these
-correlations based on illiquid price information .
-if we believed the matrix with low correlations represents what goes on in
-the market and we simply can not reconstruct it with our 7 factors - then
-we might use more factors then 7 or the matrix itself .
-tanya
-tanya tamarchenko
-12 / 15 / 2000 02 : 36 pm
-to : oliver gaylard / lon / ect @ ect
-cc : david port / market risk / corp / enron @ enron , rudi zipter / hou / ect @ ect , wenyao
-jia / hou / ect @ ect , kirstee hewitt / lon / ect @ ect , debbie r brackett / hou / ect @ ect ,
-naveen andrews / corp / enron @ enron
-subject : re : uk power / gas
-oliver ,
-i completely agree with you : validating var inputs like positions , prices and
-volatilities which are used by risktrac is the first thing to do .
-you also rise a valid question : if the factor loadings for some commodity do
-not make sense should we use the factor loadings for another commodity ?
-the factor loadings " do not make sense " when the correlations across the term
-structure are not high . so if we believe that the forward prices for this
-commodity are market prices and statistical analysis on these prices produces
-the correlations which we trust , then it would be proper to use this
-correlation matrix in var engine , not the factors . using factors is simply
-the way to speed up calculations for highly correlated prices without
-sacrificing the accuracy .
-tanya .
-oliver gaylard
-12 / 15 / 2000 07 : 11 am
-to : naveen andrews / corp / enron @ enron
-cc : david port / market risk / corp / enron @ enron , rudi zipter / hou / ect @ ect , wenyao
-jia / hou / ect @ ect , kirstee hewitt / lon / ect @ ect , tanya tamarchenko / hou / ect @ ect ,
-ganapathy ramesh / hou / ect @ ect , debbie r brackett / hou / ect @ ect
-subject : re : uk power / gas
-naveen
-regarding the calculation of uk vars in risk trac i agree that we should be
-using this calculation engine for all commodity vars . however we should not
-focus solely on the uk but ensure that we use risk trac for continental power
-and gas , uk power and gas , nordic power .
-to use risk trac i think the following need to be resolved first , to
-implement it " right the first time " , as i think it is incorrect to consider
-the risk trac numbers " as the most accurate " since it depends on the validity
-of these items :
-positions ( delta and gamma ) and curve mapping - these need to include all
-positions including those outside the main risk systems
-positions , curves and mapping should now be no problem given the feeds ,
-apart from continental power , have been uat ' d and we have the spreadsheet
-feeds up and running .
-price and vol curves - as used by the risk systems
-as above
-inter commodity correlation - prompt month
-correlation should be easy to calculate given an accurate and complete data
-set ( however the incomplete historic data for europe in risk trac , prior to
-the formation of the task force , would mean a full data set needs to be
-obtained and used ) . term structure of correlation would be good but i
-understand this is difficult to use in the calculation .
-factor loadings
-i think factor loadings should be calculated , on the same data sets used
-for inter commodity correlation , for all commodities . if this analysis does
-not appear to work i am not sure that using factor loadings for other markets
-is adequate . do we need to consider an alternative approach to calculating
-var for these markets ?
-to ensure this moves forward i think a list of the mile stones ,
-responsibilities and time lines needs to be drawn up otherwise i fear the
-process of moving across to risk trac from the spreadsheet var will
-experience some slippage .
-i will call today to start the process off .
-rgds
-oliver
-naveen andrews @ enron
-06 / 12 / 2000 21 : 50
-to : oliver gaylard / lon / ect @ ect
-cc : david port / market risk / corp / enron @ enron , rudi zipter / hou / ect @ ect , wenyao
-jia / hou / ect @ ect , kirstee hewitt / lon / ect @ ect , tanya tamarchenko / hou / ect @ ect ,
-ganapathy ramesh / hou / ect @ ect , debbie r brackett / hou / ect @ ect
-subject : uk power / gas
-oliver ,
-i had a couple of issues pertaining to uk power / uk gas . first ,
-just a few notes as it pertains to risk trac uk - implementation :
-( 1 ) in risktrac , currently all the gas curves are mapped to nbp .
-( 2 ) all the power curves are mapped to r 4 ( cinergy ) .
-factor loading analysis lends itself only to nbp and the norewgian curves ( for
-reasons of liquidity , etc ) . we have decided that nbp and cinergy are the
-best curves available at this time .
-the spreadsheet which is utilized in the uk also has curves mapped to a
-2 - 3 - year old set of factors derived from us nat gas , which is clearly not
-optimal . hence
-( 1 ) we should be using risktrac numbers for var , as it is the " most
-accurate " , both in terms of ene - wide model usage and in terms of the most
-recent updated data . ever since uk power came on board in risktrac 3 weeks
-ago , the uk power number has been consistently 7 - 8 mm above the numbers in
-your spreadsheet . this difference is to be ecpected , given the different
-inputs .
-( 2 ) the consistent numbers do not point to a data error in any obvious way ,
-however , if you believe that positions are not captured correctly , please let
-our it staff know that .
-( 3 ) checks which ramesh has done indicate that positions are tying in .
-however , as you know , there could be disconnects with enpower , etc .
-in any event , it would be ideal and optimal to have all the simulations run
-out of risktrac for reasons of aggregation and analysis .
-your help is appreciated .
-regards
-naveen
+Subject: re : aiesec
+dear mr . kaminski ,
+we will be glad to have you with us this saturday for the mock sales day .
+this event is part of our recruitment process . so far this semester the
+recruitment has been very successful - we have 16 new members , compared to 10
+experienced ones .
+the next goal is to keep these people interested in what we do and build the
+aieseec spirit in them . i hope that this saturday will greatly contribute to
+that .
+here is the schedule so far :
+9 : 00 - 10 : 00 breakfast
+10 : 00 - 12 : 00 sales training session
+12 : 00 - 1 : 00 lunch break ( board of advisors and alumni coming )
+1 : 00 - 3 : 30 practice sales calls
+some details :
+i don ' t have the training program finalized yet , but i ' m sure it will be
+good . i have a teacher from uh program for excellence in selling and the
+local committee president , tim , organizing it . it should be interactive and
+motivating : ) . if you are interested you are more than welcome to come in
+the morning and have fun with us .
+i ' m inviting the board of advisors members and some alumni to join us at
+noon . lunch will be provided . our members are cooking ! and it is a very
+international crowd ! so far we have german meatballs , some venesuelan soup
+( don ' t remember the name , but it ' s supposed to be very good and a lot of it ) ,
+spanish tortilla de patata and other international dishes .
+the part when you would help is the practise sales calls . this is a way to
+provide experience to our new members , we are inviting our board of advisors ,
+alumni and everyone who is interested in aiesec to play as company
+representatives . i will give you case scenarios , everyone will have an office
+and the new members will have to " sell " aiesec to you . one of the goals of
+the organization is to create as many exchange opportunities as possible , so
+the new members will try to get you to sign a contract for taking an
+international intern into your imaginary company .
+i hope you find it interesting : ) .
+directions to uh , college of business :
+take i - 45 south , exit spur 5 , at the street light at the end of the freeway
+take a right , at calhoun street light take a right again , the college of
+business will be on your left hand side . park in the parking lot in front
+( you don ' t need a permit on the weekends ) .
+please , let me know if you are coming and what time and i will make sure
+someone will meet you at the entrance of the building .
+thank you for your time ,
+biliana
+at 04 : 01 pm 2 / 2 / 00 - 0600 , you wrote :
+>
+>
+> biliana ,
+>
+> i have prior commitments on saturday , february the 5 th . please , send me more
+> information about the following saturday . there is a remote possibility i
+shall
+> have
+> to go to london that weekend . otherwise , i shall be glad to join you .
+>
+> vince
+>
+>
+>
+>
+>
+>
+> biliana pehlivanova on 01 / 28 / 2000
+> 11 : 54 : 58 am
+>
+> to : vince j kaminski / hou / ect @ ect
+> cc :
+> subject : aiesec
+>
+>
+>
+> dear mr . kaminski ,
+>
+> the following are the personal and work e - mail addresses of the polish
+> trainees in college station .
+>
+> sylwester rutkowski sylwesterr @ usa . net , sylwester . rutkowski @ destia . com
+> patricia dalecka pdalecka @ hotmail . com , patrycia . dalecka @ destia . com
+> danusia mas danusia . mas @ destia . com
+> lidia olczyk lolczyk @ usa . net , lidia . olczyk @ destia . com
+> robert lyczak rlyczak @ yahoo . com , robert . lyczak @ destia . com
+>
+> i would like to invite you to join us for a paintball game next saturday ,
+> feb 5 th . the purpose of this event is to develop team building among our
+> student members , board of advisors , and corporate clients .
+>
+> in addition , i would like to invite you to participate in our mock
+> sales day on saturday , feb . 12 th . during this day , the new members will
+> first receive training on aiesec sales / knowledge and then role play with our
+> board of advisors and alumni acting as company
+> representatives . sharing your aiesec and work experience would be a
+> valuable contribution to our training program .
+>
+> i will get in touch with you regarding these events in the beginning of
+> next week , as soon as i have the time and place finalized .
+>
+> i appreciate your interest in working with us .
+>
+> best regards ,
+>
+> biliana pehlivanova
+> vice president of incoming exchange
+> aiesec houston
+>
+>
+>
+>
+>
+>
+>
+>

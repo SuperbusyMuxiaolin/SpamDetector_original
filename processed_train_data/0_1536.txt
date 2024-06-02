@@ -1,30 +1,20 @@
-Subject: re : cplex floating license
-samer ' s suggestion makes a lot of sense . we can start with something like one
-floating dev . license + 2 opl licenses and buy more later based on actual
-usage . on the pricing agreement , it probably makes sense to get a guarantee
-on the discounts for additional licenses for one year ( or till dec . ) . i am
-definitely interested and can provide the share of funding necessary from my
-clients .
-thanks ,
-krishna .
-from : samer takriti @ enron communications on 05 / 19 / 2000 11 : 14 am
-to : ravi thuraisingham / enron communications @ enron communications
-cc : chonawee supatgiat / corp / enron @ enron , pinnamaneni
-krishnarao / hou / ect @ ect @ enron , samer _ takriti @ enron . net , stinson
-gibner / hou / ect @ ect @ enron , tom halliburton / corp / enron @ enron , vince j
-kaminski / hou / ect @ ect
-subject : re : cplex floating license
-chonawee and i just had a phone conversation with cplex . there are other
-alternatives ( products ) that may help in saving time and cost . chonawee and i
-feel that one floating develoment license , and one or two opl ( a package on
-sale that provides modeling and optimization features ) licenses will do . in
-addition , we need floating deployment licenses . for the development licenses ,
-the charges should be split " equally " between the different groups that may
-ask for optimization help ( although it is hard to predict who may ask for
-future help ) . we are suggesting equally since these licenses are used to
-develop the needed solution but are not ( in general ) used to run the
-software . the deployment licenses can be charged on per - use basis for
-different groups .
-cplex is going to send us a new quote . we ' ll make the decision soon after
-that .
-- samer
+Subject: re : update - meteorologist search
+great work mike !
+i will arrange interviews with the london folks while i ' m there .
+jen
+from : mike a roberts 12 / 14 / 2000 09 : 54 am
+to : jennifer fraser / hou / ect @ ect , jeffrey a shankman / hou / ect @ ect
+cc : vince j kaminski / hou / ect @ ect , jose marquez / corp / enron @ enron , stephen w
+bennett / hou / ect @ ect
+subject : update - meteorologist search
+we have identified two good candatites who would be available for a london
+interview the week of the 18 th :
+1 . kerryn hawke
+2 . stephen cusack
+also strong but not available for that week is
+3 . piero chessa ( working for ecmwf in italy )
+we have a couple others here in the states if the london interviews don ' t
+work out .
+i am forwarding under separate cover kerryn and stephen ' s cv ' s with telephone
+numbers to jen
+- - - mike

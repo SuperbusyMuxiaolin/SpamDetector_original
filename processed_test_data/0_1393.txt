@@ -1,25 +1,75 @@
-Subject: reminder for dinner on saturday dec 2 nd
-this is to remind all of you of the dinner plan ( with
-family ) at my house on saturday dec 2 nd . we will
-expect you at about 6 : 00 pm .
-address : 3410 s . briarpark ln , sugar land
-directions ( from downtown ) :
-take 59 south all the way past sam houston beltway 8 ,
-and past highway 6 . take the next exit - - - first
-colony blvd / sweetwater blvd . take a left at the
-traffic light onto sweetwater blvd ( over the highway ) .
-go straight on sweetwater blvd past a few traffic
-lights and a few stop signs . after passing a golf
-course on the right , you will get a subdivision
-" crescents on the green " on the right , and a
-subdivision " briarwood " on the left . take a left into
-the briarwood subdivision and an immediate right onto
-s . briarpark ln . ( there is only one street in the
-subdivision ) . our house ( 3410 ) is right there - - - 3 rd
-house from cul - de - sec .
-phone : 281 265 8959
-cell : 713 569 2438
-vasant
-do you yahoo ! ?
-yahoo ! shopping - thousands of stores . millions of products .
-http : / / shopping . yahoo . com /
+Subject: re : argentina power & gas market modelling
+okay
+julian poole
+17 / 03 / 2000 10 : 35 am
+to : michael guerriero / enron _ development @ enron _ development
+cc : vince j kaminski @ ect , grant masson @ ect , jeff
+kabel / enron _ development @ enron _ development , rodolfo
+freyre / enron _ development @ enron _ development , diego
+hollweck / enron _ development @ enron _ development , bernardo
+andrews / enron _ development @ enron _ development , mario aguilar
+benitez / enron _ development @ enron _ development , santiago
+subject : re : argentina power & gas market modelling
+all ,
+let ' s arrange a conference call next week to discuss the process .
+how does tuesday afternoon fit everyone ' s schedule ?
+julian
+enron international
+from : michael guerriero 03 / 17 / 2000 03 : 49 pm
+to : vince j kaminski @ ect , grant masson @ ect , jeff
+kabel / enron _ development @ enron _ development , julian
+poole / enron _ development @ enron _ development , rodolfo
+freyre / enron _ development @ enron _ development , diego
+hollweck / enron _ development @ enron _ development , bernardo
+andrews / enron _ development @ enron _ development , mario aguilar
+benitez / enron _ development @ enron _ development , santiago
+cc :
+subject : argentina power & gas market modelling
+i would like to initiate a team to address the continued improvement of the
+argentine power & gas market models . i spoke with vince this morning and we
+reviewed that history of work to date and what we will need to do from here .
+a summary is as follows :
+team :
+ba members : julian poole lead
+mario benitez associate
+ba associates : diego hollweck associate
+bernardo andrews associate
+santiago porta associate
+houston members : to be named .
+time schedule : as soon as possible . completed before june 1 , 2000 winter in
+argentina .
+scope of work :
+power model : advance the current model from basic load forecasting to
+incorporate weather , hydrology , improved short term and long term forecasting .
+natural gas model : build a supply and demand load forecasting model
+incorporating weather , thermal demand , pipeline flow rates , well head
+supply , improved short term and long term forecasting .
+phase i - data request
+power
+historic weather : temperature - daily , hourly , min , max , average
+humidity
+precipitation
+cloud cover
+regionally
+forward weather : temperature - daily , hourly , min , max , average
+humidity
+precipitation
+cloud cover
+regionally
+historic hydrology : reservoir levels
+reservoir capacity
+current hydrology : reservoir levels
+remote monitoring : aireal , pressure device , laser
+snow pack : density volume and mass
+power supply : current and future capacity
+transmission
+capacity : current and future capacity
+natural gas data list to be developed
+phase ii - power model development
+phase iii - natural gas model development
+we will take advantage of the fact that the associates are in houston for the
+next two weeks . vince is out next week but we can start with a process
+discussion with grant masson next week . julian please get a meeting scheduled
+as soon as possible . we should immediately start collecting data .
+thanks
+mfg

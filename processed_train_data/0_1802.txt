@@ -1,37 +1,66 @@
-Subject: re : follow - up
-thanks , vince , that is great information .
-eric
+Subject: re :
+thanks , please tell me if you need anything from ees .
 vince j kaminski @ ect
-08 / 25 / 2000 02 : 51 pm
-to : eric thode / corp / enron @ enron
-cc : vince j kaminski / hou / ect @ ect
-subject : re : follow - up
-eric ,
-mandeep chahal , ainsley gaddis , sofya tamarchenko , elena chilkina , james
-aimone
-should not count . m . chahal was transferred to the new company , the rest are
-summer interns
-( gone back to school ) , or part - time high school or college kids . i shall
-walk around and remind the rest
-of the crowd about the deadline .
-vince
-eric thode @ enron
-08 / 25 / 2000 02 : 31 pm
+01 / 09 / 2001 02 : 30 pm
+to : denise furey / hou / ees @ ees
+cc : vince j kaminski / hou / ect @ ect , vasant shanbhogue / hou / ect @ ect
+subject : re :
+denise ,
+no problem .
+we shall prepare a short presentation to address these issues .
+vince kaminski
+denise furey @ ees
+01 / 09 / 2001 11 : 12 am
 to : vince j kaminski / hou / ect @ ect
 cc :
-subject : follow - up
-vince - -
-we have been working the last few days to get ena ' s united way participation
-rate up as high as possible . i called earlier about your cost center because
-the following 16 employees were listed in power trading , but i believe are
-part of the research organization .
-if you have a chance , could you encourage them to log onto
-http : / / unitedway . enron . com on the intranet and make a contribution to the
-united way . the deadline is today .
-thanks .
-eric
-employees in your cost center :
-ainsley gaddis elena chilkina james aimone jose marquez
-kevin moore mandeep chahal maureen raymond osman sezgen
-paulo issler peyton gibner pinnamaneni krishnarao samer takriti
-sofya tamarchenko thomas halliburton william smith yana kristal
+subject :
+i hope you have seen the email below . do you have any problem with what
+jeremy has asked you or your group to address . is there anything that you
+want us to supply to you to assist you ?
+- - - - - - - - - - - - - - - - - - - - - - forwarded by denise furey / hou / ees on 01 / 09 / 2001 11 : 11
+am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+denise furey
+01 / 08 / 2001 11 : 46 am
+to : gayle w muench / hou / ees @ ees , michael tribolet / corp / enron @ enron , william s
+bradford / hou / ect @ ect , vince j kaminski / hou / ect @ ect , vasant
+shanbhogue / hou / ect @ ect
+cc : don black / hou / ees @ ees , tony spruiell / hou / ees @ ees
+subject :
+i believe all of you received a request from jeremy blachman to hold the
+afternoon of january 10 th open for an off - site to discuss the manner in which
+rac and research assess / test the credit quality of ees transactions . i
+realize that rac and ees have had many discussions as to the methodology , but
+it might be helpful for all of us to understand the actual derivation of some
+of analysis . please call me with any questions or comments at ext # 30349 .
+the agenda will be as follows :
+12 : 00 - 1 : 00 lunch
+1 : 00 - 3 : 30 presentations
+3 : 30 - to close discussion
+rac / research presentations
+the following topics would be of interest to ees :
+1 - the derivation of default probabilities including ( research )
+- - a discussion of the actual mathematical process ,
+- - the analytics behind why these computations are deemed the best for
+enron ,
+- - a comparison to historic default rates and why they differ ( in respect
+to actual default rates , shape of the cumulative default curves etc .
+2 - the volatilities which are used to determine possible loss scenarios for
+the commodity portion of ees deals including ( research )
+- - the selection of curves
+- - the application of those curves to the actual credit reserve model and
+- - why these particular tests are applicable to our products .
+3 - the recovery rates used in the credit reserve model . how are these
+figures derived ? ( rac )
+4 - how rac and research have adjusted the credit reserve model to
+accommodate unusual aspects of the deal including ( rac )
+- - promotion payments ,
+- - accounts receivable
+- - committed capital
+- - and other factors
+ees also understands that some of you may be familiar with our processes ,
+however , there are perhaps areas that you would like to understand more
+fully . please tell us what you would like to hear from us .
+also , rac has sent us the credit reserve model and i have seen completed
+models . perhaps prior to our meeting on wednesday , someone from rac and / or
+research could sit with me and someone from phil layton ' s group and go
+through the process of how the various pieces are put together .

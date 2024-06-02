@@ -1,34 +1,50 @@
-Subject: eol wti historical trade simulation - more profitable trading
-strategy
-please ignor my previous mail regarding the same issue , which contains some
-typos .
-greg and john ,
-i found that by reducing the volume per trade and increasing daily number of
-trades ( keeping the
-total volume per day constant ) , we can be more profitable . this is partially
-because in a trending market
-we lose less money by following the market more closely . for example , suppose
-market move from
-$ 30 to $ 35 . if per trade volume is 10 , 000 bbl and the half bid - offer spread
-is $ 1 for simplicity , we take 5
-trades of short positions , the total mtm for that day is
-( - 5 - 4 - 3 - 2 - 1 ) * 10 , 000 = - $ 150 , 000 and total trading
-volume is 50 , 000 bbl short . if per trade volume is 50 , 000 bbl , we take one
-trade , the total mtm is
-- 5 * 50 , 000 = - $ 250 , 000 . thus the net difference between the two trading
-strategies is $ 10 , 000 for that
-particular day .
-therefore it seems that by reducing per trade volume and increasing the
-number of trades , we can be more
-profitable as a market maker .
-i rerun a scenario that stinson sent to you on dec . 27 where he used per
-trade volume of 30 , 000 bbl .
-i reduce the number of trade to 10 , 000 while increasing the number of trades
-by factor of 3 . almost in all
-cases , i saw increased profitability . see the colume marked " change " for
-dollar amount change in millions .
-please let stinson or me know your thoughts on this .
-regards ,
+Subject: re : improve communication
+zimin ,
+i will make sure that you have the opportunity to present your contributions .
+it makes also sense to ask paulo every time to say a few words .
+vince
 zimin lu
-x 36388
-as compared to
+06 / 22 / 2000 10 : 06 am
+to : vince j kaminski / hou / ect @ ect
+cc : stinson gibner / hou / ect @ ect
+subject : re : improve communication
+vince ,
+thanks for your reply . that is what i feel too : vince knows what we are
+doing , so he does not have to ask us again .
+in another dimension , i want to make sure that people like paulo get enough
+incentive to perform . the group meeting , i
+think , will provide a sense of accomplishment when other members in the group
+know what we have been through .
+thanks again for your understanding .
+zimin
+vince j kaminski
+06 / 21 / 2000 06 : 30 pm
+to : zimin lu / hou / ect @ ect
+cc : stinson gibner / hou / ect @ ect
+subject : re : improve communication
+zimin ,
+sorry if you get this impression . the real reason is that i treat
+the lunch meetings as an opportunity to get updates on things
+that are going on at more remote locations . i interact with each of the
+members of your group daily and i know what ' s going on .
+i agree with you , however , that the lunch meetings are not exclusively
+for my benefit , but also for the benefit of the other members of
+the group . i shall make sure that you have the opportunity
+to communicate your contribution to the company .
+vince
+zimin lu
+06 / 20 / 2000 02 : 47 pm
+to : vince j kaminski / hou / ect @ ect , stinson gibner / hou / ect @ ect
+cc :
+subject : improve communication
+vince and stinson ,
+the valuation group has accomplished a lot during last six months . the
+number of
+projects we are working on is keeping increasing . however , when comes to the
+staff meeting ( thursday lunch meeting ) , we are often left out for updating
+our projects .
+this makes me feel that what we are doing is no longer interesting or worth
+mentioning .
+i am hoping that we can get more exposure , despite we are still in the old
+economy .
+zimin

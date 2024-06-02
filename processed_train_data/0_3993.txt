@@ -1,21 +1,20 @@
-Subject: re : joint probabilities
-bob -
-thanks for your help on this - it is exactly what we were looking for . i
-also wanted to let you know that i will be revising some of these numbers and
-asking you to rerun the probability table . i hope that this is not a problem .
-thanks again
-bob lee @ enron
-08 / 31 / 00 11 : 00 am
-to : michael anderson / hou / azurix @ azurix
-cc : zimin lu / hou / ect @ ect , vince j kaminski / hou / ect @ ect , stinson
-gibner / hou / ect @ ect
-subject : re : joint probabilities
-the attached spreadsheet has been updated to include probabilities for
-exceeding stated stock prices in each year .
-these numbers represent the probability for all combinations of rab ratio and
-exchange rate . for example , 2003 shows a stock value of 7 . 38 for a rab = 1 . 1
-and fx = 1 . 5 . we previously showed the prob of exceeding a stock price of
-7 . 38 , and rab > 1 . 1 , fx > 1 . 5 as 14 % . the probability of exceeding 7 . 38 for
-all possible values of rab and fx is 35 % ( interpolating between 40 % and 27 %
-in the price table ) .
-bob
+Subject: alp presentation
+on behalf of enron corp . i would like to invite you to an alp project
+presentation by a group of students
+of jesse h . jones graduate school of management , rice university .
+the students will present the results of a research project regarding
+electronic trading
+platforms in the energy industry .
+the presentation will be held on may 7 , at 4 : 00 p . m . at enron , 1400 smith .
+we would also like to invite you to dinner , following the presentation .
+vince kaminski
+vincent kaminski
+managing director - research
+enron corp .
+1400 smith street
+room ebl 962
+houston , tx 77002 - 7361
+phone : ( 713 ) 853 3848
+( 713 ) 410 5396 ( cell )
+fax : ( 713 ) 646 2503
+e - mail : vkamins @ enron . com

@@ -1,16 +1,22 @@
-Subject: historical curve databases & historical ff vols
-dear all ,
-as promised , i cleaned up the data and put it into 6 spreadsheet files ( we
-will do gold and cocoa separately ) . i also ran 10 , 20 , 30 and 60 day fwd fwd
-volatility calculations based on historical log return data - you can see the
-results at the bottom of the sheet called " log returns " for each of the six
-spreadsheets attached below .
-the data in the files is ready for pca analysis . we can use either the fwd
-fwd vols from recent history or implied option quotes to complete the
-analysis .
+Subject: consulting project
+dear vince :
+i have now spent 16 hours on the valuation project and wanted to touch
+base with you to make sure that the basic approach makes sense and that you
+think we are making an appropriate amount of progress . my invoice is
+attached .
+by the way , john martin just mentioned that you have agreed to be our
+luncheon speaker at the texas finance festival . i really appreciate your
+help on this and would like to schedule some time next week to talk about
+it in more detail .
+i look forward to hearing from you .
 regards ,
-anjam
-p . s . we have already done the pca on aluminum h ( high grade , so please don ' t
-repeat the analysis for that one )
-final files :
-al _ h :
+sheridan
+- invoice for february and march 2001 . doc
+sheridan titman
+department of finance
+college of business administration
+university of texas
+austin , texas 78712 - 1179
+512 - 232 - 2787 ( phone )
+512 - 471 - 5073 ( fax )
+titman @ mail . utexas . edu

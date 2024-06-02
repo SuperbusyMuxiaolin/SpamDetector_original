@@ -1,41 +1,4 @@
-Subject: re : followup
-vince ,
-i have left a message w / bruce requesting the password for the neural network
-site , and am waiting for his reply .
-trish
-vince j kaminski
-06 / 16 / 2000 10 : 16 am
-to : patricia tlapek / hou / ect @ ect
-cc :
-subject : re : followup
-trish ,
-i could not access his neural network site .
-it requires access password .
-vince
-from : patricia tlapek 06 / 12 / 2000 03 : 57 pm
-to : vince j kaminski / hou / ect @ ect
-cc :
-subject : followup
-- - - - - - - - - - - - - - - - - - - - - - forwarded by patricia tlapek / hou / ect on 06 / 12 / 2000
-03 : 57 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
-barcharts @ aol . com on 06 / 09 / 2000 10 : 01 : 59 am
-to : patricia . tlapek @ enron . com , mike . roberts @ enron . com
-cc :
-subject : followup
-good morning ,
-i enjoyed visiting you yesterday afternoon to discuss the opportunity at
-enron . sounds exciting , challenging and a good use of a lot of my skills and
-experience . i look forward to further talks , hopefully this coming week .
-i mentioned a couple web sites and don ' t know if they came through clearly on
-the phone with my sore throat .
-the neural network approach to timing can be found at
-http : / / www . pfr . com / ptonline /
-the introductory piece on technical analysis i wrote for forbes . com and the
-glossary can be found at htttp : / / www . forbes . com / tool / html / 00 / jun / 0603 / feat . htm
-i am also working with long time friend and neighbor steve nison with his
-site and you can see the first on line lesson for free at
-http : / / www . candlecharts . com /
-have a nice weekend . hope to hear from you next week .
-bruce m . kamich , cmt
-barcharts @ aol . com
-732 - 463 - 8438
+Subject: seasonal factors and curve fitting
+i have written a c + + code to do the following : for a given curve ,
+the code will filter out the seasonal factor . it then fits the deseasoned
+curve to a smooth function of the form f ( t ) = a + a / ( t + b ) c , with 00 , which is useful in calculating forward - forward ? vol . ? the outputs are season patterns ( 2 different patterns are allowed ) ? and the smoothed curve . one can then calculate forward - forward vol ? from the smoothed curve and superimpose the seasonal factors back ? onto the curve . ? ? this procedure is not useful for var calcuation . however , i believe it ? is useful for other situations which require the knowledge of seasonal ? forward - forward vols . for example , in power plant valuation and ? credit exposure simulations , it would reflect the reality more closely ? if we add seasonality to our forward - forward vol in simulating the forward ? prices . ? ? attached are the spreadsheet and xll file . i will forward the c code if ? any of you is interested . ? ? alex ? ?

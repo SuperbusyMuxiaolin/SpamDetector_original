@@ -1,39 +1,20 @@
-Subject: re : india model
-vince ,
-i forwarded this to sandeep so he could reply .
-- - stinson
-- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner / hou / ect on 12 / 28 / 2000
-03 : 04 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
-" robert schenck " on 12 / 27 / 2000 11 : 21 : 18 pm
-to :
-cc :
-subject : re : india model
-stinson ,
-i am trying to contact our data base experts at the moment to clarify some
-issues with the region and may need another day to get something more
-concrete in front of you .
-what i would like to know is the extent of your company knowledge re the
-following
-generation units ' nameplate capacity , fuel type , efficiency , o vince . j . kaminski @ enron . com
-> subject : india model
->
->
-> robert ,
->
-> enron would like to do a study of power prices and dispatch for
-> india we
-> have spoken with david branchcomb to see if henwood can help with this
-> project in our time frame ( results needed by end of january ) , and he
-> suggested that we speak directly with you about the project .
->
-> i will try and give you a call later today ( wednesday afternoon
-> in houston ,
-> thurday morning , adelaide ) at around 9 : 00 a . m . your time to see we can
-> describe for you the project in more detail .
->
-> regards ,
->
-> stinson gibner
-> enron research group
-> ( 713 ) 853 - 4748
->
+Subject: re : calpx prices
+jason ,
+i think what you may be asking for are caliso power prices . the calpx is a
+scheduling coordinator and they submit balanced schedules and bid curves to
+the caliso . the iso combines the curves from participating scs ( of which i
+believe enron is one ) and calculates the uncongested and congested prices .
+the caliso prices are available from rdi powerdat , the enron lim database , and
+a number of other sources . recent historical prices are available from the
+caliso web site .
+i am copying your mail to tim hiezenrader , who runs the westdesk fundamentals
+group . i believe he would know how you might be able to access the more
+real - time caliso data that enron collects .
+tim , can you help jason out ? he is a manager in the ena research group .
+thanks ,
+michael
+> > > sokolov , jason 01 / 26 / 01 02 : 01 pm > > >
+michael ,
+i an trying to locate some historical real - time ( spot ) power prices for calpx .
+do you know who may have them ?
+jason sokolov

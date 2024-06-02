@@ -1,15 +1,11 @@
-Subject: meeting with petronas
-rick ,
-i was contacted by petronas who requested a meeting
-with enron on risk management . i have met with them
-a few years ago and they want to discuss with us
-their progress implementing risk management practices .
-can we arrange for them a standard presentation , like the one we have for
-banks
-( you or david port , bill bradford , research ) ?
-unfortunately , they gave us no choice as far as the timing is concerned
-( given a very tight schedule ) . they want to visit on thursday , feb . 8 ,
-at 10 a . m . i shall take them out to lunch after the meeting .
-i shall also contact jeff shankman and john nowlan
-to arrange a short courtesy meeting with them .
-vince
+Subject: enhanced energy scheduler tool in production today
+message sent from the pjm - customer - info mailing list at
+pjm - customer - info @ majordomo . pjm . com :
+the new pjm enhanced energy scheduler ( ees ) will go into production at 10 : 00
+this morning 4 / 17 / 00 at https : / / ees . pjm . com / mui / index . htm . schedules may be
+submitted for energy that begins on or after tomorrow , 4 / 18 / 00 . for questions
+please contact pjm at 610 - 666 - 2270 .
+questions may be directed to pjm customer service at ( 610 ) 666 - 8980 .
+to unsubscribe from this list , send an e - mail to majordomo @ majordomo . pjm . com
+containing only the following line in the body of the e - mail :
+unsubscribe pjm - customer - info

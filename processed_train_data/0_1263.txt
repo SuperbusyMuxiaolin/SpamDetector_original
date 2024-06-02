@@ -1,16 +1,17 @@
-Subject: requirements for clayton
-hi vince ,
-i have communicated the following requirements to clayton . please give me
-your thoughts on additions / modifications .
-for eol model ,
-1 . working program , with easily usable interface
-2 . user docs , for new user to easily start using system
-plus includes details about program structure and modules
-3 . reports for tabulation of data by commodity , counterparty , period , etc .
-should be easy to run daily .
-4 . time series description , including graphs , plus some time series analysis
-( say , relationship of volume to time of day , day of week )
-5 . cross commodity trading relationships ( identify potential arbitrage )
-for gas model ,
-1 . calibrate model
-2 . user docs , with complete description of data
+Subject: thanks again
+vince and stinson ,
+i would like to thank you for helping me trying to find an internship . i
+really appreciate the attention you gave to me .
+i am happy to tell you that i found an internship in my area of interest
+with mfrgroup . it is a consulting company that provides management
+consulting , advisory , finance , operations management and information
+technology services . i will be helping them to develop a new business
+related with e - commerce b - to - b .
+from now on , i will be concentrating my efforts in finding a full time
+position , because i will graduate at the end of the year . i do not want to
+miss enron ' s deadline , and i am still very interested in enrononline
+business . please keep me updated if any opportunity arises .
+thanks again
+carla di castro
+ps : vince , i tried to call you today , but it looks like you will be out of
+the office until monday . i just wanted to say thank you .

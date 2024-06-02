@@ -1,55 +1,55 @@
-Subject: henwood stuff and thoughts about valuation
-did you guys get this ?
-i was too interested in the conversation to interrupt with comments about
-risk / return if the decision would be covered in rates , it is the
-customers ' curves or equivalently the puc ' s curve .
-i think if i were going to approach valuation in commodities where the
-assumptions of black / scholes do not apply , i would start with the capm for
-large industries in an area , use pro formas to translate this to utility
-curves for the input commodities , and add the utility curves .
-another issue : the factor that explains why enron is lowest bidder is its
-role in the market . in the 1930 s , keynes argued that if most market
-participants with long position were hedgers , futures prices would be higher
-than spot ; if they were speculators or traders , future prices would be lower
-than spot . traders must be compensated for holding the risk ; hedgers
-( including utilities and consumers ) are willing to pay a premium for the
-certainty . consequently , enron traders have bigger bid / ask spreads and lower
-bid prices .
-just some random thoughts ,
-michael
-- - - - - original message - - - - -
-date : 01 / 04 / 2001 10 : 41 am ( thursday )
-from : " heather mason "
-to : hq 3 . em 5 ( michael schilmoeller )
-mark your calendar - tuesday january 23 , 2001 downtown houston hyatt hotel
-henwood will be hosting a comprehensive ercot symposium on tuesday , january
-23 , 2001 . a team of henwood regional power market specialists will be
-presenting the latest analysis and
-information to assist you in preparing for the new ercot restructured power
-market , in addition to an anlysis of the issues now playing out in the wscc
-markets . coffee and registration will
-begin at 9 : 30 am and the program will run until 3 : 00 pm . lunch and snacks
-will be provided .
-agenda topics include :
-* what will be the critical - success factors for qualified scheduling entities
-operating in ercot ' s new wholesale & retail markets ?
-* how will market restructuring impact mid to long - term wholesale prices ?
-* what is the outlook for new generation ?
-* what are the impacts of upcoming emission regulations on ercot ' s generation
-resources ?
-* what are the new analytical tools available to capture market uncertainty
-impacts to your supply contracts and generation assets ?
-* what are the restructuring lessons learned from the california experience
-and the implications to ercot ?
-in conjunction with this program , henwood will have a demonstration room
-available to present its latest software applications and e - business
-solutions . a nominal $ 75 registration fee is required
-to reserve a space in the workshop .
-for more information or to reserve your spot , please contact heather mason at
-henwood : hmason @ hesinet . com or 916 / 569 - 0985 .
-about henwood : henwood offers integrated business solutions , strategic
-consulting , and innovative e - business applications to meet the challenges of
-the restructured energy markets throughout
-north america , australia , and europe , serving clients that include eight of
-the ten top utilities in north america , in addition to energy services
-providers and power marketers .
+Subject: re : eprm article
+chris ,
+this is very well written and will serve the reader well . a few comments .
+1 . when i think about the taxonomy of the var models , i typically use the
+classification based on 3 categories :
+a . variance / covariance method
+b . historical simulation
+c . monte carlo simulation .
+delta approach is the way of representing a position in a nonlinear
+instrument .
+2 . i would define monte carlo as an approach based on statistical simulation
+of behavior of
+all the market prices / rates , etc . , and revaluation of the entire portfolio .
+the revaluation may be based on an approximation ( using taylor ' s expansion )
+that may
+involve delta , delta / gamma , delta / gamma / omega or may be exact ( based on the
+same
+model that produces the mark - to - market portfolio valuations ) .
+the main benefit of using the mc simulation in the energy markets is the
+ability to capture
+the gapping behavior of the energy markets in a straightforward way . i would
+emphasize that
+there are attempts to incorporate jumps in the v / c model ( i shall send you
+the references
+from home ) .
+3 . i would mention that historical simulation may break down in the markets
+that are evolving
+quickly ( new instruments for which we have no comparable prices ,
+behavior of prices may change as markets mature or de - mature ) .
+4 . for bigger portfolios , virtually all methods require some level of
+aggregation into
+atomic , elemental instruments to reduce the dimensionality of the problem .
+this process may be a source of a big error .
+5 . the computational burden of mc can be reduced through clever preprocessing
+of a portfolio that introduces no error . many swaps with the same underlying
+can be aggregated into one positions ( they are portfolios of forwards and
+they are linear
+instruments ) .
+please , feel free to use any comment ( or none ) .
+vince
+" chris strickland " on 08 / 28 / 2000 02 : 58 : 56 pm
+please respond to " chris strickland "
+to :
+cc :
+subject : eprm article
+dear vince ,
+?
+d you think you might be able to look at this in the next day or so ? robin
+is after something by the end of this week .
+?
+best regards .
+?
+chris .
+?
+- eprm _ 01 _ var . doc

@@ -1,34 +1,30 @@
-Subject: re : var
-let ' s meet at 4 : 00 .
+Subject: re : lunch
+przepraszam , ze tak dlugo nie odpowiadalem . nasz team mial zaplanowany
+wspolny wieczor w piatek , ale nic nie bylo pewne , poniewaz mamy duzo osob sie
+rozchorowalo . z tegoz powodu wieczor zostal odwolany , a ja jestem wolny .
+jesli nadal nie ma pan planow na piatkowy wieczor , to ja jestem jak
+najbardziej za spotkaniem .
+j
 vince j kaminski
-06 / 01 / 2000 09 : 19 am
-to : john arnold / hou / ect @ ect
-cc : vince j kaminski / hou / ect @ ect , tanya tamarchenko / hou / ect @ ect , jim
-schwieger / hou / ect @ ect , jeffrey a shankman / hou / ect @ ect
-subject : var
-john ,
-we have been working for the last few days on var related issues .
-the focus is on jim schwieger ' s storage book as of 5 / 25 and 5 / 26
-where we had some counterintuitive results . this book is a good
-candidate for a systematic review of the var process .
-it seems that the problem arises from forward - forward vols used by the var
-system . you can see in the attached spreadsheet that the var , on a cumulative
-basis ,
-jumps on jan 04 , when an abnormal ff vol hits a relatively large position .
-this ff vol is also much different from the previous day number producing a
-big
-jump in var .
-this row ( jan 04 ) is in magenta font in the attached spreadsheet . please , look
-at column d .
-the abnormal ff vol may result from one of the two factors :
-a . a bug in the code . we are working with the person in it who wrote the
-code to review it .
-b . a poorly conditioned forward vol curve ( a kink or discontinuity in
-the fwd vol curve will do it ) . one solution i can
-propose , is to develop for
-the traders a fwd - fwd vol generator allowing them to
-review the fwd vol curve
-before it is posted . if it produces a weird fwd - fwd vol ,
-it can be smoothed .
-can you meet at 4 p . m . to review our findings ?
+12 / 19 / 2000 10 : 05 am
+to : julius zajda / lon / ect @ ect
+cc :
+subject : re : lunch
+juliusz ,
+sorry , i have to cancel the lunch meeting today .
+pleas , give a call sometimes today . maybe we can meet for drinks friday
+afternoon .
+i am taking the next week off .
 vince
+julius zajda
+12 / 19 / 2000 09 : 25 am
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : lunch
+dzien dobry ,
+mam nadzieje , ze nic sie nie zmienilo i jestesmy umowieni na dziesiejszy
+lunch . proponuje sie spotkac o godzinie 12 . 00 na parterze obok biurka
+" security ladies " ( bo wiem gdzie to jest ) . ubrany jestem w czarne spodnie ,
+bezowe buty i szara bluze . nie jestem pewien czy bede mogl przeczytac
+potwierdzenie , bo od 10 do 11 . 45 przeprowadzam szkolenie .
+juliusz

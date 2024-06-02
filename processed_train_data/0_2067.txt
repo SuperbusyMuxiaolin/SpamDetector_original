@@ -1,41 +1,22 @@
-Subject: enron trial of energycast service
-mike ,
-here are the particulars of the trial run of our service , including the
-times for the telephone contact from wsi . remember this will be a bilateral ,
-not a conference , call .
-on the esai side , while i will be out of town , peter ingraham ( 781 245 2036 )
-is available to answer questions or take suggestions . we look forward to
-working with you next week .
-ed
-- - - - - original message - - - - -
-from : shorter , jeffrey [ mailto : jshorter @ wsicorp . com ]
-sent : tuesday , july 25 , 2000 11 : 36 am
-to : bosse , john ; ed krapels ( e - mail ) ; peter ingraham ( e - mail )
-cc : weather effects
-subject :
-ed ,
-we are set with a evaluation of the service covering the period from
-monday to thursday july 31 to aug 3 . we will activate the web access on
-friday afternoon and initiate calls monday morning . the call schedule is :
-short range : 8 : 40 east coast time
-mid range : 9 : 20 east coast time
-if there is a conflict with these times , please notify me . we will need a
-number to call into , typically we call directly onto the trading floor . the
-username and password are the same as the initial viewing :
-username : enron
-password : stroso 0 ( zero zero )
-it is important to make the point this is for evaluation purposes since we
-are not under a contract with liability issues addressed .
-i am sure enron will love it like the rest of our clients ! !
-jeff
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-jeffrey a . shorter , ph . d .
-vice president
-wsi - weathereffects
-55 walkers brook road
-reading , ma 01867
-jshorter @ wsicorp . com
-781 - 205 - 7385 ( direct voice )
-781 - 942 - 2000 ( switchboard )
-781 - 942 - 2571 ( fax )
-617 - 320 - 4653 ( cell )
+Subject: ljm
+vince / stinson :
+the following is an update on ljm deal :
+1 ) i participated on a conference call with aa ( jitendra and others ) and our
+accounting / credit group ( wes , bill bradford and others ) yesturday , in which
+we discussed the best approach for definining credit reserves at year - end for
+the puts we own .
+2 ) a big chunck of the meeting was dedicated to explain aa the details of the
+deal . little progress was made on achieving the meeting ' s goal .
+3 ) apparently , accounting did want to expose the calculation we made for puts
+value that considers credit risk - the two factor model we developed . that
+line of action was implied on a pre - meeting we had early that morning . from
+my understanding , accounting argues that we should not make any credit
+reserve because we could not liquidate our position by year - end .
+4 ) at a certain point jintendra suggested me to use a two factor
+mc - simulation for calculating the position with credit risk . the approach is
+actually a more simplified version of the model we have . i and nobody
+mentioned the results we got from our 2 - factor model .
+5 ) at that same afternoon i knew from accounting that we are in a process of
+unwinding our position .
+these are the main points . please let me know if need more details .
+paulo issler

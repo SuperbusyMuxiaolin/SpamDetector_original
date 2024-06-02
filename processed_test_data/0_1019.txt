@@ -1,20 +1,15 @@
-Subject: re : lunch
-super . jestesmy umowieni .
-juliusz
-vince j kaminski
-12 / 14 / 2000 11 : 06 am
-to : julius zajda / lon / ect @ ect
-cc :
-subject : re : lunch
-juliusz ,
-wtorek jest najlepszym dniem .
-vince
-julius zajda
-12 / 14 / 2000 10 : 18 am
-to : vince j kaminski / hou / ect @ ect
-cc :
-subject : lunch
-przepraszam , ze sie tak dlugo nie odzywalem , ale musialem znalezc sobie
-mieszkanie , przeprowadzic sie i kupic jakies meble . czy lunch w przyszlym
-tygodniu odpowiadalby panu ? mi pasuje kazdy dzien oprocz czwartku .
-juliusz
+Subject: exotica ( yet again )
+hi guys
+i need some advice .
+sharad is in the process of finding differences between your and our versions
+of exotica . at some point we will need to migrate london office over to your
+more up - to - date version , and i ' m concerned that there may be rac - style
+implications . i ' m in favour of using the it testers to carry out formal
+regression testing , and they are apparently able to do this .
+do we need to get our heads together to " form a view " before we involve rac
+or the business groups ?
+anjam tells sharad that london exotica was built using excel 95 , and that
+neither he nor zimin knows how to build / compile the xla using later versions
+of excel . is this true ? if so , then we need to migrate to xlls sooner
+rather than later because of the maintenance implications .
+steve

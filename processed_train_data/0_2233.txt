@@ -1,44 +1,58 @@
-Subject: risk management it offsite meeting notes
-fyi .
-- - - - - - - - - - - - - - - - - - - - - - forwarded by pinnamaneni krishnarao / hou / ect on
-08 / 24 / 2000 10 : 06 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-enron north america corp .
-from : maureen craig @ ees 08 / 23 / 2000 06 : 19 pm
-to : dennis benevides / hou / ees @ ees , scott yeargain / hou / ees @ ees , ress
-young / hou / ees @ ees , timothy j hamilton / hou / ees @ ees , barend
-vanderhorst / hou / ees @ ees , ford cooper / hou / ees @ ees , megan corley / hou / ees @ ees ,
-steven r meyers / hou / ees @ ees , burt bailey / hou / ees @ ees , dave
-roberts / hou / ees @ ees , james w lewis / hou / ees @ ees , mallik avs / hou / ees @ ees ,
-travis julian / efs / ees @ ees , ryan tull / hou / ees @ ees , glenn dickson / hou / ees @ ees ,
-scott stoness / hou / ees @ ees , neil hong / hou / ees @ ees , sanjay agarwal / hou / ees @ ees ,
-david draper / hou / ees @ ees , monica hwang / hou / ees @ ees , cathy
-pittenger / hou / ees @ ees , kenneth lee / hou / ees @ ees , pinnamaneni
-krishnarao / hou / ect @ ect , osman sezgen / hou / ees @ ees , tony spruiell / hou / ees @ ees ,
-sean a holmes / hou / ees @ ees , wanda curry / hou / ect @ ect , meredith m
-eggleston / hou / ees @ ees , chuck hahn / sfo / ees @ ees
-cc : marty sunde / hou / ees @ ees , mike harris / hou / ees @ ees , mohsin
-manzoor / hou / ees @ ees , stephen douglass / hou / ees @ ees , john krakoski / hou / ees @ ees ,
-brian haskett / hou / ees @ ees , kelly cunningham / hou / ees @ ees , bernard
-felefli / hou / ees @ ees , rudy tobias / hou / ees @ ees , michael clark / hou / ees @ ees ,
-terry caudill / hou / ees @ ees , wpicker @ us . ibm . com , james welsh / hou / ees @ ees , james
-johnson / hou / ees @ ees , ben castro / hou / ees @ ees , carol moffett / hou / ees @ ees
-subject : risk management it offsite meeting notes
-the ees / ibm it team would again like to thank all of you for your vigorous
-participation in last weeks it needs analysis workshop . in particular , we
-would like to extend appreciation to jay , dave roberts , and dennis for their
-business presentations . thanks , as well , to meghan corley , barry
-vanderhorst , burt bailey , and glenn dickson for presenting their individual
-area needs , to meredith for overall assistance in creating and delivering the
-agenda , and to marty for his sponsorship and support .
-the team is currently assimilating the results and formulating an action plan
-to address priority 1 , 2 , and 3 needs . actions to address many priority 1
-items are underway . we will be reporting on this in marty ' s weekly staff
-meeting .
-attached below are the results from the meeting , as well as copies of all
-materials that were presented . any additional feedback is welcome and
-encouraged .
-apologies to any participants that do not appear on this distribution . one
-thing we failed to do was to take an attendees list . please forward to your
-team mates , accordingly .
-thank you ,
-maureen craig and john krakoski
+Subject: special epri mtg on ancillary services
+dear dr . kaminski ,
+thanks for your email address . would like to invite you or others from enron
+to our one - day planning meeting in houston , sept . 7 , to review state of the
+art assessment of ancillary services markets , hear preliminary research on
+related topics , and help define a course of research that epri could
+undertake .
+here is one of our announcements . pls feel free to call with any questions .
+- - jeremy platt
+> re . ancillary services markets and management - -
+> changing market structures , pricing , settlement , operational and
+> cost issues
+>
+> epri has organized a workshop on ancillary services markets and management
+> issues , to be held september 7 in houston . file attached .
+>
+> dr . rajat deb , pres . of lcg consulting , is our featured
+> speaker / investigator . additional experts contributing to this special
+> workshop are :
+> * andy van horn , van horn consulting
+> * phillip mcleod , mhb consultants
+> * jens kure - jensen , encotech , and
+> * carl pechman , power economics
+>
+> >
+> this workshop is part of a program of epri research on ancillary services
+> markets and management topics . * you or your colleagues are welcome to
+> attend and contribute to the discussions . the workshop is timely , offers
+> unique content , and will help shape future work of value . we encourage you
+> to register promptly . please call me if you have any questions .
+>
+> if you are unable to attend or feel someone else in the company may have a
+> more direct responsibilty , please forward this note . thanks ,
+>
+> jeremy platt
+> manager , power and fuel markets
+> 650 / 855 - 2628
+>
+> dale gray
+> manager , generation asset management
+> 704 - 547 - 6016
+>
+> * background on epri research on ancillary services . epri , known formerly
+> as the electric power research institute , offers research on a wide range
+> of energy , technology , environmental and business / market topics . epri ' s
+> 2000 research on a / s is value package 64 . 3 , strategic value and
+> measurement of ancillary services . this value package is part of a larger
+> program of research ( a " target " ) , called understanding power and fuel
+> markets and generation response . other 2000 ancillary services projects
+> underway are : a report on markets and pricing ( now in preparation ) and a
+> demonstration this fall of measurement procedures at a generating site for
+> reactive supply and voltage control and for spinning and supplemental
+> reserves .
+>
+>
+>
+>
+- ancillary - wkshp . pdf

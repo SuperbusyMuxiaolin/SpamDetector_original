@@ -1,28 +1,14 @@
-Subject: re :
-thanks vince . . . jeff
-vince j kaminski
-09 / 01 / 2000 10 : 23 am
-to : jeffrey a shankman / hou / ect @ ect
-cc : vince j kaminski / hou / ect @ ect
-subject : re :
-jeff ,
-christ , mark and myself are planning to visit tom piazze in october . i talked
-to christy about wharton
-and she will be calling tom to set it up .
-vince
-from : jeffrey a shankman 09 / 01 / 2000 09 : 25 am
-to : vince j kaminski / hou / ect @ ect , mark palmer / corp / enron @ enron
-cc : celeste roberts / hou / ect @ ect , charlene jackson / corp / enron @ enron
-subject :
-hi vince ,
-i just got off the phone with donna piazze at wharton , ( i don ' t know if there
-is a relationship with tom at wharton ) , and we were discussing there tiger
-teams . it is a required research program , 2 nd semester for mbas , and wharton
-would love to have enron participate . i told her there is probably some real
-life reasearch project we could have the students do . she did also mention
-that it is one of the best recruiting tools under development at wharton . . i
-gave her your number .
-her number is 215 573 8394 . please call her when you get a chance within the
-week .
-mark , can we get christy involved ? thanks everyone .
-jeff
+Subject: projects list
+stinson ,
+just want to give you a quick update about the current projects on my plate ,
+so that you can update your blackbroad
+1 ) wti trading simulation v . 2 , ready for you to review
+2 ) storage valuation for paul bieinawski ( new )
+3 ) product production margin modeling for doug friedman ( new )
+need to model explicitly the jump piece . some new ideas for discussion .
+4 ) espeed warrant valuation for randy petersen ( new )
+5 ) correlation skew for larry may
+6 ) credit exposure model , alex finished the coding , testing next
+have you had a chance to review brad ' s back testing results for the storage
+model ?
+zimin

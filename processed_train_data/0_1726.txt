@@ -1,31 +1,54 @@
-Subject: re : university of texas conference on energy finance , february 2001
-sherri ,
-thanks . yes , it ' s february the 22 nd .
-vince
-enron north america corp .
-from : jeff skilling @ enron 09 / 20 / 2000 12 : 49 pm
-sent by : sherri sera @ enron
-to : vince j kaminski / hou / ect @ ect
-cc : vince j kaminski / hou / ect @ ect , richard causey / corp / enron @ enron
-subject : re : university of texas conference on energy finance , february 2001
-vince , i am checking the date on jeff ' s calendar ( i ' m assuming the date is
-february 22 ? ) . i am holding that date whole week for a trip abroad , but i
-think we have some flexibility on that and am checking it out . i ' ll be back
-in touch as soon as i ' ve resolved that . srs
-vince j kaminski @ ect
-09 / 20 / 2000 11 : 41 am
-to : jeff skilling / corp / enron @ enron
-cc : vince j kaminski / hou / ect @ ect , richard causey / corp / enron @ enron
-subject : university of texas conference on energy finance , february 2001
-jeff ,
-our friends at the university of texas are planning a conference on energy
-economics and finance in february of next year . they would like very much to
-have
-you as a keynote speaker .
-given our good , long - term relationship with ut , i would recommend
-that you speak at this conference . i talked to prof . ehud ronn
-a few times about the program and i think that this will be
-an excellent forum to present enron ' s accomplishments and
-agenda for the future .
-i am sure that rick causey will join me in making the same recommendation .
-vince
+Subject: bad supervisor : me !
+norma ,
+i have attached an updated org chart for my team .
+i think the following changes need to be made
+1 . paulo issler is reporting to zimin lu
+2 . shalesh ganjoo is reporting to me ( who does the system show as his
+supervisor , zimin ? )
+also , i just found out that chonawee did not get his mid - year review . i
+didn ' t realize that samer takriti never gave him a review . i have found all
+of the mid - year feedback for chonawee , but i don ' t have an official " form " to
+fill out for him to sign . can you send one to me , or what should i do ?
+thanks ,
+stinson
+x 34748
+norma villarreal
+10 / 26 / 2000 08 : 30 am
+to : stinson gibner / hou / ect @ ect
+cc :
+subject : re : peoplefinder feedback
+please confrim that you are the supervisor for shalesh ganjoo . also , please
+send an updated organizational chart of your group so that i can verify the
+correct information .
+thank you for your assistance in this matter .
+norma villarreal
+x 31545
+- - - - - - - - - - - - - - - - - - - - - - forwarded by norma villarreal / hou / ect on 10 / 26 / 2000
+08 : 28 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : shalesh ganjoo 10 / 25 / 2000 09 : 29 pm
+to : norma villarreal / hou / ect @ ect
+cc :
+subject : re : peoplefinder feedback
+fyi . . .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by shalesh ganjoo / hou / ect on 10 / 25 / 2000
+09 : 26 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+people . finder @ enron
+10 / 23 / 2000 10 : 19 am
+sent by : curtis fincher @ enron
+to : shalesh . ganjoo @ enron . com
+cc :
+subject : re : peoplefinder feedback
+shalesh ,
+sap is showing ms . norma villarreal as your hr rep . we don ' t have the
+authority to change supervisor names .
+please work with your hr rep to correct this information .
+regards ,
+curtis fincher
+shalesh . ganjoo @ enron . com on 10 / 21 / 2000 03 : 25 : 29 pm
+to : people . finder @ enron . com
+cc :
+subject : peoplefinder feedback
+my chain of command is :
+stinson gibner vp ( supervisor )
+vince kaminski md ( stinson ' s supervisor )
+please correct this immediately . thank you .

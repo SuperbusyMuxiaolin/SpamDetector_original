@@ -1,11 +1,12 @@
-Subject: in the heart of your business !
-corporate image can say a lot of things about your
-company . contemporary rhythm of life is too dynamic . sometimes it takes only
-several seconds for your company to be remembered or to be iost among
-competitors . get your logo , business stationery or website done right
-now ! fast turnaround : you wiii see severai ioqo variants in three
-business days . satisfaction quaranteed : we provide uniimited amount of
-chanqes ; you can be sure : it wili meet your needsand fit your
-business . fiexibie discounts : loqo improvement , additional formats , buik
-orders , special packages . creative design for competitive price : have a look at it right
-now ! _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ not interested . . . _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Subject: undelivered mail returned to sender
+this is the postfix program at host mx 2 . oi . com . br .
+i ' m sorry to have to inform you that your message could not be
+be delivered to one or more recipients . it ' s attached below .
+for further assistance , please send mail to
+if you do so , please include this problem report . you can
+delete your own text from the attached returned message .
+the postfix program
+: host frontend . oi . com . br [ 200 . 222 . 115 . 18 ] said : 550 - mailbox
+unknown . either there is no mailbox associated with this 550 - name or you
+do not have authorization to see it . 550 5 . 1 . 1 user unknown ( in reply to
+end of data command )

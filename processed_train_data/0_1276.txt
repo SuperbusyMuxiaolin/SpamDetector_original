@@ -1,95 +1,83 @@
-Subject: visiting enron may 4 th
-christie ,
-fyi . a message i received from stanford .
-vince
-- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 04 / 09 / 2001 11 : 20 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-" susan c . hansen " on 04 / 06 / 2001 06 : 14 : 10 pm
-to : vince . j . kaminski @ enron . com
-cc : clovell @ stanford . edu , donna lawrence , hillh @ stanford . edu , bambos @ stanford . edu
-subject : visiting enron may 4 th
-dear vince ,
-this is great news ! donna and i are delighted that you have time to see us
-on may 4 th .
-i ' ll be out of the office next week . by copy of this email to my
-assistant , carol lovell , i will ask her to get in touch with shirley for
-scheduling as well as directions on where to meet you . we ' ll be glad to
-meet with christie patrick as well .
-looking forward to meeting you ,
-susan
-at 05 : 36 pm 4 / 6 / 01 - 0500 , you wrote :
-> susan ,
->
-> thank you for your message . i shall be glad to meet with you on may the
-> 4 th .
-> i shall ask my assistant , shirley crenshaw ( 713 ) 853 5290 , to call you to
-> set up the meeting .
->
-> also , for your information , we have recently set up a special unit to
-> coordinate enron ' s
-> relationships with the universities . the person running this unit is
-> christie patrick .
-> please , feel free to contact her and give my name as a reference . i shall
-> coordinate the meeting
-> on may the 4 th with her .
->
-> vince
->
->
-> additional information re christie :
->
-> phone : ( 713 ) 853 - 6117
->
-> email : christie _ patrick @ enron . com
->
->
->
->
->
-> " susan c . hansen " on 04 / 03 / 2001 04 : 33 : 54 pm
->
-> to : vkamins @ enron . com
-> cc :
-> subject : visit from stanford ?
->
->
-> dear dr . kaminski ,
->
-> let me briefly introduce myself , i am the director of corporate relations
-> for the school of engineering at stanford university . in this role , i am
-> always on the watch for ways to bring our faculty together with companies
-> that have an appetite for engagement with top tier research institutions .
->
-> i believe you know hill huntington , who is a senior researcher with
-> stanford ' s energy modeling forum . he suggested i get in touch with you for
-> some ideas about contacts at enron . i ' m in the process of planning a trip
-> to texas in early may along with my colleague donna lawrence , the
-> university ' s director of corporate relations . we were hoping to be able to
-> include a stop at enron on our itinerary . right now it appears that friday ,
-> may 4 th would work best for us but we ' re at the very beginning of our trip
-> planning .
->
-> the purpose of our visit would be to review the current relationship
-> between enron and stanford , to give you an overview of current priorities
-> in the school of engineering , and ask for your help in identifying the best
-> points of contact .
->
-> i look forward to hearing from you about your availability ,
->
-> sincerely ,
-> susan hansen
->
->
->
->
-> susan c . hansen
-> director , corporate relations
-> school of engineering
-> stanford university
-> stanford , ca 94305 - 4027
-> ( 650 ) 725 - 4219
-susan c . hansen
-director , corporate relations
-school of engineering
-stanford university
-stanford , ca 94305 - 4027
-( 650 ) 725 - 4219
+Subject: computerworld article
+fyi : several errors like ' brokering ' in the report but given the fact that
+the guy had no clue what enron does or companies like it do , this came out
+okay . in all of the pr group ' s marketing effort , enron as a market - maker is
+the message .
+ravi .
+- - - - - forwarded by ravi thuraisingham / enron communications on 02 / 05 / 01 10 : 54
+am - - - - -
+shelly mansfield
+02 / 05 / 01 10 : 49 am
+to : ravi thuraisingham / enron communications @ enron communications
+cc :
+subject : computerworld article
+shelly mansfield
+enron broadband services
+713 - 853 - 4589 office
+713 - 646 - 8887 fax
+877 - 929 - 7889 pager
+713 - 303 - 4720 cellular
+- - - - - forwarded by shelly mansfield / enron communications on 02 / 05 / 01 10 : 51 am
+- - - - -
+norman levine
+02 / 05 / 01 10 : 08 am
+to : shelly mansfield / enron communications @ enron communications
+cc :
+subject : computerworld article
+following is the computerworld article :
+link :
+enron seeks to broker storage deals between users , ssps
+by lucas mearian
+while technology service providers have long been talking about data storage
+as a utility that should be sold in the open marketplace like electricity or
+natural gas , little has been done to pool market resources in order to hawk
+surplus disk - array capacity .
+but that ' s exactly what a subsidiary of houston - based energy and
+communications conglomerate enron corp . is doing by launching a
+business - to - business exchange that it said will seek to match spare capacity
+owned by storage service providers ( ssp ) with corporate users who want to be
+able to quickly scale up and down the amounts of storage they have available .
+enron broadband services this week announced that it has already signed a
+deal with waltham , mass . - based storagenetworks inc . and is negotiating
+similar agreements with at least six other ssps . if successful , analysts
+said , enron ' s business proposition could go far toward generating a set of
+operating standards for the emerging ssp business .
+" it ' s a market with mix of small and large players and companies that define
+their roles differently , " said ken weilerstein , an analyst at gartner group
+inc . in stamford , conn . enron ' s plan also could help enterprise - level users
+get additional benefits along with the storage capacity they ' re renting , such
+as security and disaster recovery support , he added .
+ravi thuraisingham , director of global bandwidth risk management at enron
+broadband services , said the new offering won ' t include additional security
+features . but enron does plan to standardize on a set of ssp services and
+bundle them with disaster recovery and communications bandwidth capabilities ,
+he said .
+initially , enron - - which had total revenue of $ 101 billion last year - -
+expects to charge users monthly fees of $ 25 to $ 55 per gigabyte of managed
+storage , depending on market conditions and the length of time a company
+expects to need the capacity . " we ' re there to try to discover a market
+clearing price , " said thuraisingham , adding that the service is tentatively
+due to go online in the third quarter .
+enron said it has already signed best buy co . , one of the leading retailers
+of consumer electronics , computers and software in the u . s . , to buy the
+storage capacity it needs to support a customer relationship management
+application through storagenetworks . connecting users such as best buy to
+available storage could take anywhere from three days to three months ,
+according to thuraisingham .
+under enron ' s plan , storage capacity owned by participating ssps will be
+connected to an existing network of switching hubs through which the company
+currently trades telecommunications bandwidth . enron said it has 18 switching
+centers , or " pooling points , " in the u . s . , and another seven overseas .
+at first , the company plans to focus its attention on ssps in boston and
+other metropitan areas where the necessary networking plumbing can be easily
+installed . but even there , thuraisingham said , enron is " pretty much in the
+initial stages of getting ssps up to speed on what the market is about . "
+enron has been managing online trades of telecommunications bandwidth since
+the spring of 1999 . later that year , it also launched a web site called
+enrononline that oversees the trading of natural gas , electricity and other
+commodities . that quickly became the world ' s largest e - commerce site and is
+now said to be processing more than $ 1 billion worth of transactions daily .
+norman levine
+enron broadband services
+713 - 853 - 5010
+norman _ levine @ enron . net

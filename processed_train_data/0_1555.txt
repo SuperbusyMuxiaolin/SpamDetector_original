@@ -1,40 +1,73 @@
-Subject: combinatorial auction - jan 11 mtg background
-- - - - - forwarded by greg woulfe / enron communications on 12 / 28 / 00 09 : 58 am - - - - -
-chonawee supatgiat @ enron
-12 / 22 / 00 05 : 08 pm
-to : stinson gibner / hou / ect @ ect , greg woulfe / enron communications @ enron
-communications
-cc :
-subject : combinatorial auction
-stinson and greg ,
-i have read the paper " combinatorial auction with multiple winners for
-universal service " from richard steinberg and frank kelly . they propose a
-combinatorial auction which is an auction for multiple items that allows
-bidders to realize their synergies on combinations of items . the
-combinatorial auction is appropriated for bandwidth commodity because most
-bidders in the market have synergies on the combination of items . for
-example , if we want to get bandwidth between boston and dc , we would bid for
-boston - ny and ny - dc . it will be valuable to us only if we won both links . if
-we won only one link , it will be useless .
-in the paper , they propose the auctioning method but their method has not
-been tested or validated yet . i have not checked their proposition
-mathematically but their paper was published in management science so i think
-it should be all right . i will look at it in more details and let you know .
-anyhow , there are also other combinatorial auctions that are actually used ,
-for example , the alberta government ' s ppa auction that enron canada was
-participated 3 - 4 months ago .
-based on our long position on bandwidth , auction and exchange might be a good
-channel to dispose our unused ( or unsold ) bandwidth . i know there is not much
-demand in the market . but if we open a combinatorial auction or exchange , we
-might be able to increase our market share . ( by taking demand from our
-competitors ) . i believe , at the moment , there are no bandwidth exchanges that
-allow " combinatorial " bids . if we are the first one to do it , we might
-improve our sale channel and gain some market share . ( note : auction - > one
-seller and many buyers : exchange - > many sellers and many buyers . )
-moreover , i think auctioning the unsold bandwidth will not hurt us because we
-cannot sell them anyway . in addition , we ourselves can be a dummy bidder in
-the system and bid in the auction . if the current wining bid is too low , we
-can just over - bid it and keep the product . this way , we can indirectly put a
-reserve price on the products .
-let ' s meet sometime in the first week of january .
-- chonawee
+Subject: re : opportunities at enron
+vince kaminski ,
+i am one of the stanford students that you interviewed last october .
+i really apologize for contacting you that late , but for
+some reason when i wrote the email that i transcribe below i did not send
+it , and just realized about that until now .
+also , i want to thank you again for opening the
+possibility of a summer internship at enron .
+regards ,
+jorge picazo
+> vince kaminski ,
+>
+> i am one of the students that you interviewed at stanford university
+> last october .
+>
+> during our meeting i asked for the possibility of an internship position
+> at enron during this summer , and you asked me to send you an email
+> by february .
+>
+> however and after a long talk with my advisor , i have decided to focus
+> on my academic research during the summer , and i am writing to let you
+> know about my decision .
+>
+> in any case , i really want to thank you for opening the possibility of a
+> summer internship at enron . if my academic duties had not keep me at
+> stanford , i am sure that it would have been a great experience .
+>
+> thanks anyway ,
+>
+> jorge picazo
+>
+>
+>
+>
+> > hello ,
+> >
+> > my name is vince kaminski and i am in charge of quantitative research at
+enron
+> > corp . i shall visit the stanford campus on october 21 and 22 ( thursday and
+> > friday )
+> > and hope to talk to a number of faculty members about recruiting stanford
+> > graduates for enron .
+> >
+> > i shall be accompanied by two other enron employees : greg whalley , a
+stanford
+> > graduate , head of risk management at enron and my boss , and celeste
+roberts ,
+> > head of our associate / analyst program .
+> >
+> > if you are interested in meeting with me and two other members of the
+enron
+> > team to talk about opportunities at enron , send me a message to two
+e - mail
+> > addresses : vkaminski @ aol . com ( home ) and vkamins @ enron . com ( office ) . i
+shall
+> > send you in the beginning of the next week information about the time and
+> > place of the meeting .
+> >
+> > you can also reach me at ( 713 ) 853 3848 .
+> >
+> > vince kaminski
+> >
+=
+jorge a . picazo hidalgo
+ph . d . candidate adress : 1600 villa st apt 391
+department of statistics 94041 , mountain view ca
+stanford university
+sequoia hall rm 237 phone : ( 650 ) 965 - 4119
+m . s . email : jpicazo @ leland . stanford . edu
+department of engineering - economic jpicazo @ stat . stanford . edu
+systems and operations research
+stanford university
+=

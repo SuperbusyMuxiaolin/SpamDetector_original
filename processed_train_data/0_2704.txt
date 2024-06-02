@@ -1,28 +1,30 @@
-Subject: re : seneca lake storage
-deirdre ,
-i run two senarios using two different curves .
-i got $ 1 . 39 / mmbtu per year for if - cng / north , and
-$ 1 . 41 / mmbtu per year for if - cng / n _ cityga .
-therefore if we look at 20 years time horizon , the storage
-can generate $ 1 . 40 * 1 . 4 * 20 = 39 . 2 mm dollars .
-let us discuss if you have any questions .
-zimin
-enron north america corp .
-from : deirdre mccaffrey 06 / 12 / 2000 10 : 45 am
-to : zimin lu / hou / ect @ ect
+Subject: re : meeting with you last week ?
+scott ,
+not at all . i left to make a quick call and it required a number
+of follow - up calls .
+the presentation was very interesting and professional .
+one of the guidelines we have in my group is to avoid using too many software
+packages .
+otherwise , everybody will have his own pet package and we shall lose
+economies of scale .
+i shall talk to my associates about your product and get back to you .
+vince
+scott wakefield on 10 / 23 / 2000 12 : 09 : 46 pm
+to : vkamins @ enron . com
 cc :
-subject : seneca lake storage
-zimin -
-the gas assets group is looking at investing in a storage facility in western
-ny . here are the specs :
-total capacity : 1 , 400 , 000 mmbtus
-mdqw : 140 , 000 mmbtus
-mdiq : 70 , 000 mmbtus
-injection fuel : 1 . 5 %
-injection fee : $ . 003
-w / d fuel : 0 %
-w / d fee : $ . 003
-injection curve : cng north city gate
-w / d curve : cng north pool point
-please call with any questions - x 39685 .
-thanks - deirdre
+subject : meeting with you last week ?
+hello vince ,
+i ' m writing to follow up with you regarding our meeting last week . did we
+do something wrong in our presentation or in the set up of this presentation ?
+for a group of 50 researchers we were expecting a larger crowd and also
+some peole perhaps from your it department . also when you left i was
+wondering if we had offended you .
+the ability to use our products to create open models , integrate databases ,
+c , vb , etc . and then quickly deploy them to others has been embraced by
+the risk management world . we met the following day with a large group
+from ees and they seemed quite enthusiastic about the innovation possible
+with our tools .
+i realize you are quite busy , but could you please let me know what
+happened and how we can prevent this in the future ?
+thanks
+scott wakefield

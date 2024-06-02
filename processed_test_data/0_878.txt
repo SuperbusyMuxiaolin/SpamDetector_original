@@ -1,8 +1,12 @@
-Subject: re : price processes for ng
-grant & vince ,
-i am sending you the results of fitting different price process models into ng
-prompt month prices . the fit is quite good for some models .
-we might think of using these mean - reverting jump - diffusion models in our
-credit model .
-i should examine other contracts behavior ( beyond prompt month ) as well .
-tanya .
+Subject: re : lunch
+john ,
+thanks . see you on monday .
+vince
+enron north america corp .
+from : john goodpasture @ enron 03 / 31 / 2000 01 : 11 pm
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : re : lunch
+we are confirmed for lunch this coming monday , april 3 . i ' ll meet you in the
+lobby at 11 : 15 and drive us to otto ' s barbecue on memorial .
+thanks , jng

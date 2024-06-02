@@ -1,22 +1,49 @@
-Subject: prc review : list of key projects
-hi dale & vince ,
-for your benefit i have compiled a shortlist of the main projects worked on
-over the past five months :
-1 ) inflation curve modelling ( february and march )
-2 ) uk power monthly vol curve generator
-3 ) nordic power monthly vol curve generator
-4 ) energydesk . com models & support
-5 ) compound options for uk power desk ( options to build power stations )
-6 ) continental power non - generic options ( using arbitrary trader - specified
-distributions )
-7 ) global products : non - generic options modelling and new commodity forward
-curve construction ( benzene fwd curve from naphtha )
-8 ) exotic options library upgrade / model test / bug fixes ( e . g . testing new / old
-asian models )
-9 ) continental gas volatility curve construction
-the best summary for this is in the attached presentation that i gave to the
-london and oslo staff recently .
-regards ,
-anjam
-x 35383
-presentation attached :
+Subject: re : telephone interview with the enron corp . research group
+ms . crenshaw ,
+thank you very much for the message . i am very interested in the
+opportunity to talk to personnel from the research group at enron . between
+the two days you suggest , i prefer wednesday 12 / 6 . considering the
+two - hour time difference between california and texas , 11 : 00 am pacific
+time ( 1 : 00 pm your time ) seems to be a good slot . however , i am open most
+of the day on 12 / 6 so if some other time slot is prefered on your end ,
+please let me know .
+thanks again . i look forward to talking to you and your
+colleagues .
+jingming
+on tue , 28 nov 2000 shirley . crenshaw @ enron . com wrote :
+> good afternoon jingming :
+>
+> professor wolak forwarded your resume to the research group , and
+> they would like to conduct a telephone interview with you , sometime next
+> week , at your convenience . the best days would be tuesday , 12 / 5 or
+> wednesday , 12 / 6 .
+>
+> please let me know which day and what time would be best for you and
+> they will call you . let me know the telephone number that you wish to be
+> contacted at .
+>
+> the interviewers would be :
+>
+> vince kaminski managing director and head of research
+> vasant shanbhogue vice president , research
+> lance cunningham manager , research
+> alex huang manager , research
+>
+> look forward to hearing from you .
+>
+> best regards ,
+>
+> shirley crenshaw
+> administrative coordinator
+> enron research group .
+> 713 - 853 - 5290
+>
+>
+>
+jingming " marshall " yan jmyan @ leland . stanford . edu
+department of economics ( 650 ) 497 - 4045 ( h )
+stanford university ( 650 ) 725 - 8914 ( o )
+stanford , ca 94305 358 c , economics bldg
+if one seeks to act virtuously and attain it , then what is
+there to repine about ? - - confucius
+_ ? oo ? ? ooo ? ? t  xo - ? ? - -  ? ?

@@ -1,13 +1,11 @@
-Subject: term project :
-this is the list of projects for the members of the " quant " team .
-if you are working on different project , please , ignore this message .
-please , develop in a spreadsheet solutions / examples for the following :
-1 . black - scholes formula
-2 . black ' s formula
-3 . develop a spreadsheet to simulate price trajectory using :
-a . gbm
-b . gbm + jump ( formula 2 . 16 in the book , figure 2 . 7 )
-c . mean reversion + jump ( formula 2 . 17 , figure 2 . 8 )
-4 . schwartz single factor model ( formula 6 . 12 )
-5 . develop models corresponding to the figures 7 . 1 , 7 . 3 , 7 . 5 , 7 . 6 , 7 . 8
-vince
+Subject: internship opportunities
+please respond to dear mr . kaminski ,
+i have found the enrononline project a very interesting one and have enjoyed
+working with everyone in the research department as well as those from other
+departments . i am keenly interested in this area and was wondering if there
+would be any summer internship opportunities . i have attached my resume to
+this mail for your review and look forward to hearing from you soon .
+thank you
+ivy ghose
+rice mba 2002
+- resume . doc

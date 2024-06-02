@@ -1,16 +1,10 @@
-Subject: re : the spreadsheet for talon deal
-rakesh ,
-thanks . i took a quick look at the spreadsheet and i agree
-with your approach .
-i shall spend more time looking at it over the weekend
-and if i see a problem i shall call you on monday .
-vince
-rakesh bharati @ enron
-03 / 23 / 2001 06 : 44 pm
-to : vkaminski @ aol . com
-cc : vince j kaminski / hou / ect @ ect , paulo issler / hou / ect @ ect
-subject : the spreadsheet for talon deal
-vince ,
-here is the spreadsheet for your review .
-thanks .
-rakesh
+Subject: request submitted : access request for tony . harris @ enron . com
+you have received this email because you are listed as an alternate data
+approver . please click
+approval to review and act upon this request .
+request id : 000000000006452
+approver : stinson . gibner @ enron . com
+request create date : 11 / 2 / 00 1 : 12 : 58 pm
+requested for : tony . harris @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

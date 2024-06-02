@@ -1,15 +1,14 @@
-Subject: project
-hi michelle ,
-chris , helen and i met this afternoon and discussed about
-the project . we think the following course of action is appropriate .
-the model interface will be in excel spreadsheet , with most
-of the inputs ( from enron as well as from the consultant ) hiding
-in an access data base . the access data base can be update
-when needed . the engine will be written in visual basis code and
-be linked to excel through xll ( or dll ) .
-helen has been discussing with ken about various
-aspects of the model and will finalize the access data table
-form with ken . in the mean time , helen and i will start working
-on code this thursday ( she will be in training wednesday ) .
-best ,
-alex
+Subject: vacation time available
+here is a list of vacation time that i have at available for the ( research )
+weather team .
+mike roberts - 240 hours
+jose marquez - 54 hours
+william smith - 117 hours
+elena chilkina - 0 hours
+kevin moore - 53 hours
+charlie weldon - 20 hours
+joe hrgovcic - 136 hours
+please if you feel you are due more hours of vacation time ,
+please inform me whereby , i can get your hours corrected .
+thanks
+kevin moore

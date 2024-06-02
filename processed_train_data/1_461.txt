@@ -1,15 +1,16 @@
-Subject: returned mail : can ' t create output
-the original message was received at tue , 19 jul 2005 05 : 57 : 28 - 0500
-from [ 221 . 3 . 33 . 27 ]
-- - - - - the following addresses had permanent fatal errors - - - - -
-jodyanddavid . herring @ verizon . net
-( expanded from : )
-bowguns
-( expanded from : )
-- - - - - transcript of session follows - - - - -
-. . . while talking to relay . verizon . net . :
-> > > rcpt to :
-< < < 550 5 . 1 . 1 unknown or illegal alias : jodyanddavid . herring @ verizon . net
-550 jodyanddavid . herring @ verizon . net . . . user unknown
-procmail : quota exceeded while writing " / var / spool / mail / bowguns "
-550 bowguns . . . can ' t create output
+Subject: server update fri , 01 jul 2005 .
+subject : server update fri , 01 jul 2005 .
+thank you for using our online store and for your previous order . we have updated our online software store - now we have more latest version of programs . our
+full catalog with 2100 freshest software titles available for instant download at
+web - site http : / / triangulum . tabloidez . com /
+we hope that you will tell others about your positive experience with us .
+with best wishes ,
+managing director . . ceo
+lakeisha saenz
+latest news :
+despite fears of mad cow , grillers get set for holiday
+stewart ’ s first win at daytona worth the wait | video
+http : / / www . msnbc . msn . com / id / 4999736 /
+lai : amazing start for armstrong in tour | images
+http : / / www . msnbc . msn . com / id / 3303540 /
+idaho girl found ; brother feared dead

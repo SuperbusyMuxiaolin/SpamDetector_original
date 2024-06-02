@@ -1,45 +1,55 @@
-Subject: my model for spikes
-dear dr . kaminski ,
-i was recently allowed to release into the public domain on the limited basis
-the first of the preprints that i recently authored on my model for spikes in
-power prices and for the valuation of the contingent claims on power . in this
-regard , i have just given a talk on this model at the joint seminar of the
-center for energy finance education and research and the institute for
-computational finance at the ut austin . right now i am also in the process of
-forming a list of specialists both in the industry and academia who might be
-interested in receiving this preprint . please let me know if you might be
-interested in receiving this preprint .
-i look forward to hearing from you .
-sincerely yours ,
-valery kholodnyi
-manager of quantitative analysis
-research and analytics group
-txu energy trading
-ps . here are the main preprints that i have recently authored on my model for
-spikes in power prices and valuation of contingent claims on power :
-1 . valery a . kholodnyi , the stochastic process for power prices with spikes
-and
-valuation of european contingent claims on power , preprint , txu - rag - 01 / 00 ,
-july
-2000 .
-2 . valery a . khlolodnyi , valuation of a swing option on power with spikes ,
-preprint txu - rag - 05 / 00 , august , 2000 .
-3 . valery a . kholodnyi , valuation of a spark spread option on power with
-spikes ,
-preprint txu - rag - 21 / 00 , november 2000 .
-4 . valery a . kholodnyi , valuation of european contingent claims on power at
-two
-distinct points on the grid with spikes in both power prices , preprint
-txu - rag - 24 / 00 , november 2000 .
-5 . valery a . kholodnyi , valuation of a transmission option on power with
-spikes ,
-preprint txu - rag - 25 / 00 , november 2000 .
-as i have indicated to you in my previous e - mail , contrary to the standard
-approaches , i model spikes directly , as self - reversing jumps on top of a
-stochastic process for the regular dynamics of power prices in the absence of
-spikes . in this way the dynamics of power prices is modeled as a non - markovian
-process , even if the process for the regular dynamics of power prices is
-markovian . among other things my model for spikes allows for the explicit
-valuation and hedging of contingent claims on power with spikes , provided that
-the corresponding contingent claims on power can be valued and hedged in the
-absence of spikes .
+Subject: vince kaminski ' s " bio " and requirements for the siam invitation
+hello professor fitzgibbon :
+attached please find a " bio " for vince kaminski . he will require an lcd
+projector for his presentation .
+if you need anything else , please let me know .
+regards ,
+shirley crenshaw
+administrative coordinator
+enron research group
+713 - 853 - 5290
+email : shirley . crenshaw @ enron . com
+- - - - - - - - - - - - - - - - - - - - - - forwarded by shirley crenshaw / hou / ect on 04 / 12 / 2001
+03 : 30 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+vince j kaminski
+04 / 11 / 2001 02 : 17 pm
+to : shirley crenshaw / hou / ect @ ect
+cc :
+subject : siam invitation
+fyi
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 04 / 11 / 2001
+02 : 19 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+" william fitzgibbon " on 03 / 13 / 2001 02 : 45 : 57 pm
+to :
+cc :
+subject : siam invitation
+dear dr . kaminski
+here is an email invitation for teh siam event . a hard copy will follow
+dr . v . kaminski
+enron
+p . o . box 1188
+houston , texas 77251 - 1188
+dear dr . kaminski
+march 12 , 2001
+i am writing to formalize your invitation to attend , participate , and speak
+in the siam southwest regional mathematics in industry workshop . a time
+span of thirty minutes is being allotted to invited talks with an additional
+ten minutes or so for discussion . the workshop , funded under the auspices
+of a national science foundation grant to siam will not be a standard
+applied mathematics event with representatives from industry , academe , and
+governmental agencies presenting their latest research results . instead the
+meeting will emphasize the mathematics and technology currently applied to
+the projects of industry and governmental laboratories . additionally the
+event will focus upon the mechanisms facilitating interaction and
+collaboration between the academy , industry , and government laboratories .
+the workshop will be held at the university of houston hilton hotel , april
+27 - 28 . funds will be available to support both travel expenses and the cost
+of food and lodging of invited speakers . we will be happy to make travel
+arrangements on this end if so desired .
+we hope that you can accept our invitation . if this is the case please
+furnish us with a title , a short abstract , and a list of the necessary
+equipment for your presentation .
+we look forward to seeing you at the university of houston .
+sincerely
+w . fitzgibbon

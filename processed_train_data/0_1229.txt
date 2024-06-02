@@ -1,38 +1,73 @@
-Subject: powerisk 2000 - october 3 rd - 6 th - paris
-dear mr kaminski
-i am delighted to say that the printed conference brochure is now available
-and our logistics team will be mailing them out , along with the speaker
-guideline packs ( including information on hotel discounts etc ) , in the next
-couple of weeks . you will also no doubt receive copies via our main mailing
-campaign .
-in the interim , please find attached a shortened pdf copy of the conference
-brochure for your perusal . ( i did not want to send you the complete 12 pages
-as it would clog up your email ! ) the full colour version can be found on our
-website at www . icbi . uk . com / powerisk
-i hope you agree that the speaker plenum and line - up of topics is possibly
-one of the best ever and not surprisingly the event is already drawing strong
-international interest . in particular the executive summit day on e - business
-and power trading is taking numerous bookings . i would be happy for you to
-attend either the summit day or one of our two intensive post conference
-workshops , but in order to avoid overcrowding on the day ask that all
-reservations be made in advance .
-i am certain that you have friends or colleagues who would be interested in
-attending the conference this year , and would like to ask that you email the
-enclosed details to them . to make things easy , i have attached a booking form
-which should be faxed to + 44 20 7915 5101 . icbi would be happy to offer a 10 %
-discount on registrations received through speaker recommendations .
-finally for any enquiries relating to travel or hotel matters please contact
-our logistics manager clare capel on + 44 20 7915 5198 . of course for any
-programme related issues , please drop me an email or call me on + 44 20 7915
-5194 .
-i look forward to seeing you in october for what promises to be excellent and
-informative week .
-kind regards
-rosemary fitzgerald
-director , powerisk 2000
-+ 44 20 7915 5194
-fax : + 44 20 7915 5101
-email : rosef @ icbi . co . uk
-!
-- poweriska 300 . pdf
-- speakerreg . doc
+Subject: re : visual numerics cnl licensing issues
+rakesh ,
+to confirm our conversation :
+please , go ahead and buy a copy .
+vince
+rakesh bharati @ enron
+03 / 29 / 2001 02 : 06 pm
+to : vince j kaminski / hou / ect @ ect
+cc : tanya tamarchenko / hou / ect @ ect , vasant shanbhogue / hou / ect @ ect
+subject : visual numerics cnl licensing issues
+vince ,
+tanya and i feel that there is a need for a constrained optimization routine
+for our var related research . numerical recipes does not contain
+subroutines where equality and inequality contraints can be easily
+incorporated . also , the number of arguments that can be handled is also
+limited .
+imsl provides a comprehensive library of more than 300 c / c + + statistical and
+mathematical analysis functions . we think that it would be of great value to
+our efforts and to the efforts of our research group . presently the cost is
+aproximately around $ 1500 and mike bothwell ( visual numerics rep ) assures us
+as the version is not license protected , we all can use it as long as
+simultaneous usage is within the license .
+please let me know if you should need further information .
+thanks ,
+rakesh
+- - - - - - - - - - - - - - - - - - - - - - forwarded by rakesh bharati / na / enron on 03 / 29 / 2001
+01 : 44 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+mike bothwell on 03 / 29 / 2001 12 : 56 : 03 pm
+to : " ' rakesh . bharati @ enron . com ' "
+cc :
+subject : visual numerics cnl licensing issues
+rakesh , i ' m just following up to see how things looked on this . any change
+in status ? let me know i can furhter help you .
+best regards ,
+mike bothwell
+account manager
+visual numerics inc .
+phone : 713 - 954 - 6423
+fax : 713 - 781 - 9260
+cell : 713 - 417 - 9069
+mbothwell @ houston . vni . com
+visual numerics celebrates 30 years
+as an independent software vendor
+rakesh ,
+as we discussed , the cnl 4 . 0 pc libraries are not license managed . version
+5 will be . the pc version 4 . 0 can be installed on a network drive and
+called from networked pcs . as expected , we would ask that enron honor the
+license agreement by allowing only the number of simultaneous uses permitted
+by the license . version 5 . 0 will be license managed and can be licensed as
+node locked or floating .
+with regard to unix licensing , the current version of cnl for unix is
+license managed . it can be licensed as node locked or floating . if you
+install the libraries on a unix server as node locked , the number of
+simultaneous sessions on that server is not limited except by the
+capabilities of the machine . a floating unix license would be checked out
+by the individual user to be executed on a local machine .
+also as mentioned , your investment is protected by allowing you to upgrade
+in the future by paying only the price difference between your current and
+desired platforms . this upgrade option only applies to licenses covered
+under support .
+if you have any additional questions , please let me know . i look forward to
+providing you the best math and statistical libraries available today to
+help you solve your problems and understand your data .
+best regards ,
+mike bothwell
+account manager
+visual numerics inc .
+phone : 713 - 954 - 6423
+fax : 713 - 781 - 9260
+cell : 713 - 417 - 9069
+mbothwell @ houston . vni . com
+visual numerics celebrates 30 years
+as an independent software vendor

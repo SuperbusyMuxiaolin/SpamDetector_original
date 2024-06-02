@@ -1,40 +1,6 @@
-Subject: rw : howard confirmation for vince
-hi vince - please examine . i think it ' s going to happen and you have
-confirmation below - need sleep it ' s 3 : 30 pst - i ' ll need 7 hours sleep and
-then i ' ll be up . . . add 2 more for time difference and i ' ll be available for
-you , at your service ( your time around ( 1 : 30 afternoon ) .
-i called rachel @ enron london - she said it is set up too . i am confident .
-thank you for the opportunity .
-jeff wesley 949 813 2241
-hi howard ,
-> please find following confirmation as promised .
->
->
-> date of interview : tuesday 30 january 2001
->
-> time of interview : 2 . 30 pm
->
-> interviewers : 2 . 30 pm nigel price - credittrading
-> 3 . 00 pm ben parsons - research & trading
-> controls - senior specialist
-> 3 . 30 pm vasant shanbhogue research
-> group houston
->
->
-> address : 40 grosvenor place
-> london
-> swlx 7 en
->
-> switchboard : 020 7783 - 0000
->
-> closest tube / train station : victoria
->
->
-> location map attached
-> ( see attached file : location map . pdf )
->
-> manager
-> robert walters
-> manager
-> risk & quantitative analysis
-* get free , secure online email at http : / / www . ziplip . com / *
+Subject: re : smoothing methodology for extracting forward forward
+volatilities
+tanya ,
+the exponentials we tried earlier ( a + bexp ( - cx ) , etc , fit well but
+gave negative numbers in the bootstrapping .
+i tried a + b ( t + c ) ( - 1 ) , a standard power law , and as the ? accompanying graph shows ( for the 12 months ) , the fits are quite good . ? in this case , the ffvols do not become negative ( i believe this ? corresponds to your 0 beta ) . ? i would have preferred exp ( - t ) and variants ( can explain owing to ? mean - reverting vols ) , but the power law might be a practical alternative ? ( from an implementation standpoint ) . ? naveen ? ? ? ? ? ? ? ? tanya tamarchenko @ ect ? 11 / 17 / 2000 02 : 59 pm ? to : naveen andrews / corp / enron @ enron , alex huang / corp / enron @ enron ? cc : vince j kaminski / hou / ect @ ect , vasant shanbhogue / hou / ect @ ect , vladimir ? gorny / hou / ect @ ect ? ? subject : re : smoothing methodology for extracting forward forward ? volatilities ? ? following up on our discussions i implemented one method for creating forward ? forward curve ? from implied vol curve . ? i sorted out 12 forward curves from an original forward vol curve , each of 12 ? curves corresponding ? to certain month . then i fitted each of 12 curves with a function : ? ? y = a + a / power ( x + b , beta ) ? ? i figured out that when beta is from ( 0 , . 5 ) the above function is suitable ? for performing our bootstrapping ? routine of deriving ff vols from implied , because : ? ? y ( x + t ) * y ( x + t ) * ( x + t ) - y ( x ) * y ( x ) * tx > 0 for all x , t . ? ? ( i have to double check on this again . also when beta > 0 . 5 there are some ? combinations of parameters a , a , b , beta ? for which above equality holds ) . even with restriction on beta this class of ? functions represents quite a variety of shapes . ? ? below you see the example of fitting as well as the example of ff vol curve ? constructed from implied vol curve for ng . ? ? i ' ll try this for power as well . ? ? any comments ? ? ? ? ? ? ? ? ? ? ? ?

@@ -1,17 +1,16 @@
-Subject: telephone interview with the houston research group
-good morning quentin :
-vince kaminski and the research group would like to conduct a telephone
-interview with you sometime next week . considering the time difference
-between
-houston and australia , it probably makes sense to try and schedule it very
-early in the morning your time , say 7 : 00 am ? it would be 5 : 00 pm here in
-houston .
-how does next wednesday or thursday , ( 8 / 16 or 8 / 17 ) at 7 : 00 am your time
-sound ?
-also , please let me know if you want to be reached at home or work .
-thanks quentin and have a great day !
-shirley crenshaw
-administrative coordinator
-enron research
-713 / 853 - 5290
-email : shirley . crenshaw @ enron . com
+Subject: wharton collaborative research
+here is a short note on potential research with wharton . please review and
+edit and then we can send some indication to the wharton guys . - - - - - - - - - -
+the objective would be to define the amount of risk an enterprise can take ,
+and the difference between this and the actual amount of risk the enterprise
+chooses to take based on the capital structure and reporting structure . in
+particular , one can view enron as a hierarchy of companies , and assuming we
+can separately quantify the risks of each unit , what framework would one use
+to analyze risk at enron ?
+a related question is how one should represent risks in the different
+units ? risks may be of different types - - - short - term volatility risk ,
+catastrophic risk , liquidity risk , etc - - - what should one focus on for a
+first cut ?
+another related question is to decide on the optimal amount of insurance
+both at the unit level and the enterprise level , and relate the decision to
+get insurance to the cost / benefit of insurance .

@@ -1,71 +1,45 @@
-Subject: re : ca for henwood engagement
-badri ,
-in the event dpc signs the contract , we would need to make it indian tax
-efficient . please suggest the structure / clauses / information required by which
-we need not pay withholding taxes . if you need more info on the scope of work
-contemplated you can talk to wade / neil / sandeep .
-regards
-mohan
-sandeep kohli
-01 / 22 / 2001 07 : 11 am
-to : wade cline / enron _ development @ enron _ development , mohan gurunath
-cc : stinson gibner @ ect , vince j kaminski @ ect , bruce
-lundstrom / enron _ development @ enron _ development , bonnie
-nelson / enron _ development @ enron _ development , lauren haggety
-subject : re : ca for henwood engagement
-wade / mohan ,
-please find below the last draft copy of the henwood consulting agreement .
-we need to sign this asap so as to not be in violation of ene policies .
-as you will see , the draft agreement is made out with enron in mind , even
-though we have left the company name blank in the agreement .
-mohan - last when we spoke ( friday ) , you were going to explore the tax
-aspects of having dpc be the signing company . please tell us if that works .
-separately , you and wade may need to consider how dpc lenders may look upon
-some of the information emerging from this study , and whether you want all of
-it in lender domain .
-based on the same you may want to decide whether this needs to be eipl , ene
-houston , or dpc . we could also have a version where ene houston is signing
-the contract on behalf of dpc .
-please let me know what you decide , and we will proceed accordingly . if you
-would like someone in eipl / dpc to be signing the contract , please let me
-know , who the signing authority is . i suspect , that even i could sign on
-behalf of dpc or ene ? ? if so , i will be in houston on wednesday , and sign
-at the time . if not , you can assign someone to sign .
-regards ,
-sandeep .
-- - - - - - - - - - - - - - - - - - - - - - forwarded by sandeep kohli / enron _ development on
-01 / 22 / 2001 06 : 59 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-lauren hagerty
-01 / 20 / 2001 01 : 01 am
-to : bonnie nelson / enron _ development @ enron _ development
-cc : bruce lundstrom / enron _ development @ enron _ development , sandeep
-kohli / enron _ development @ enron _ development , stinson gibner / hou / ect @ ect , vince
-j kaminski / hou / ect @ ect
-subject : re : ca for henwood engagement
-i suspect that enron india llc would be the entity to use . however , is
-anyone from tax involved in this ? if not , we need to get someone in the
-loop .
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-lauren hagerty
-enron india / ebs asia
-three allen center , room 2119
-houston , texas 77002
-phone : 713 - 646 - 6529
-fax : 713 - 646 - 7549
-bonnie nelson
-01 / 19 / 2001 11 : 54 am
-to : stinson gibner / hou / ect @ ect , bruce
-lundstrom / enron _ development @ enron _ development , lauren
-cc : vince j kaminski / hou / ect @ ect , sandeep
-subject : re : ca for henwood engagement
-stinson ,
-please find attached a revised version of the draft consulting agreement with
-henwood . fyi , i am attaching both a clean version and one marked toshow
-changes from the last draft i sent you . please let me know if you have any
-questions or comments on the agreement or the most recent changes .
-what is the status of henwood ? do you still want to engage them and what is
-the timeframe for their work ( the dates in the draft may need to be
-corrected ) .
-bruce and lauren : please advise on which enron entity should be the party to
-this consulting agreement .
-thanks , bonnie
+Subject: re : schedule and more . .
+jinbaek ,
+may 30 sounds good . i shall inform our hr department .
+i don ' t see any project i could get going with your advisor on such a short
+notice .
+when you come here you can determine in what area he could make
+the biggest contribution to enron . i shall call or e - mail
+him independently and talk to him .
+vince
+" jinbaek kim " on 05 / 07 / 2001 02 : 25 : 53 am
+to :
+cc :
+subject : schedule and more . .
+dr . kaminski ,
+i think i ' ll be able to start work from the last week of may ,
+but not from monday ,
+probably , i ' ll be able to work from 5 / 30 ( wed ) .
+will it be good ? i know it is not that much earlier than i mentioned . . 6 / 4
+i am sorry .
+and actually , there is an e - business conference at haas school of business ,
+organized by my advisor
+could you distribute the link and the attached invitation letter to groups
+interested in e - business and especially procurement ?
+the link is as following .
+i am afraid you might forgot this i told you in the last email . . .
+my advisor ( arie segev at haas school of business ; segev @ haas . berkeley . edu )
+wants me to ask whether you have any idea on joint research with him
+during the summer , while i am staying there .
+his interest is in e - business . . ( what else . . ? )
+and has expertise in e - procurement system and marketplace . . .
+xml based standard such as obi , cxml , xcbl , rosettanet , biztalk . .
+system interoperability study , auction and negotiation , workflow system ,
+e - catalog management , digital signature , edi , etc etc . . .
+many technical aspects of e - business . . .
+he wants to do some kind of technical case study
+that is beneficial for both enron and him .
+he may travel one or two times to houston to have a meeting during the
+summer .
+( and to be frankly , this will be good for me too ,
+because i can have a meeting for my dissertation while he is in houston . . )
+could you think about the possibility of joint research , with him ?
+thank you . .
+sincerely ,
+jinbaek
+- fcp - invite . pdf

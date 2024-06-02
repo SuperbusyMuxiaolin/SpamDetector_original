@@ -1,8 +1,12 @@
-Subject: meeting on feb 8 , 2001
-dear sir ,
-i would like to apologize for the delay in responding to your fax .
-i was on vacation for the last few days .
-i shall be honored to meet your delegation on thursday , february 8 at 10 : 00
-a . m .
-please , let me know if you will be free for lunch after the meeting .
-vince kaminski
+Subject: potential new analyst
+hi guys
+a number of us interviewed a guy named matthew williams last week for an
+analyst position . he has a phd in particle physics and experience with monte
+carlo simulation ( albeit in fortran 77 ) from his academic work . he ' s also a
+good communicator , having completed a postgrad course in acting , and has been
+active in the theatre as performer and director .
+if he accepts our job offer then ( after discussion with dale and bryan ) we ' ve
+decided to give him his first rotation in research here in london . i hope he
+accepts .
+i ' ll keep you posted .
+steve

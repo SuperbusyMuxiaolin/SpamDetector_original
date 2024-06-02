@@ -1,34 +1,41 @@
-Subject: rendez - vous reporter : sunday 3 rd september 2000
-> sunday 3 rd september 2000
->
-> the monte carlo rendez - vous reporter from reactions , in association with
-> guy carpenter [ http : / / www . guycarp . com ] . simply click on the link next to
-> each headline to read the full story .
->
-> top stories of the day :
->
-> the only way is up for rates
-> http : / / www . reactionsnet . com / conferences / viewstory . asp ? id = 659
->
-> vox pops : testing the renewals air
-> http : / / www . reactionsnet . com / conferences / viewstory . asp ? id = 660
->
-> the view of the middleman
-> http : / / www . reactionsnet . com / conferences / viewstory . asp ? id = 661
->
-> new look rendez - vous
-> http : / / www . reactionsnet . com / conferences / viewstory . asp ? id = 657
->
-> please visit http : / / www . reactionsnet . com for all the latest news from the
-> world ' s largest insurance and reinsurance conference .
->
-> alternatively , you can read these stories on the official rendez - vous
-> website at http : / / www . rvs - monte - carlo . com
->
->
-> book of the industry :
->
-> reinsurance
-> fourth edition of professor robert l carter ' s industry - standard textbook .
-> https : / / ecommerce . waterside . net / reactions / reins _ fourth . asp
->
+Subject: fw : having iris visit london
+anita ,
+it seems that i am going to london next week . please see forwarded emails .
+can you please assist me with my travel arrangements .
+thanks ,
+iris
+- - - - - original message - - - - -
+from : kaminski , vince
+sent : tuesday , april 24 , 2001 5 : 25 pm
+to : shanbhogue , vasant ; mack , iris ; dhar , amitava ; kaminski , vince
+subject : having iris visit london
+it ' s ok to delay the materials for duffie . he is very busy anyway and is not
+going to complain .
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 04 / 24 / 2001
+05 : 23 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+scott salmon @ enron
+04 / 24 / 2001 01 : 23 pm
+to : amitava dhar / corp / enron @ enron
+cc : vince j kaminski / hou / ect @ ect , vasant shanbhogue / enron @ enronxgate , ben
+parsons / lon / ect @ ect , george albanis / lon / ect @ ect , tomas valnek / lon / ect @ ect ,
+bryan seyfried / lon / ect @ ect
+subject : having iris visit london
+hi amitava ,
+we ' ve been doing some thinking and discussing here regarding the information
+on our modelling process we ' ll provide to darryl duffie . we think it would
+be extremely valuable for iris to come out to london for a couple weeks to
+gain a better understanding of the how the models integrate and are truly
+employed . i think this would greatly enhance the " product " we ' ll send to
+duffie as well as giving iris a firm view of enron credit . in addition , she
+could also explore some of the data sources such as amadeus and others that
+might be helpful in private firm modelling . if we ' re extremely
+efficient / lucky in receiving data from d & b or experian , she might be able to
+begin analysis on that for the private model efforts .
+i would recommend she plan on coming out for 2 weeks starting the week of 30
+apr perhaps . depending on the progress with the private firm data sources ,
+it probably makes sense to send her back to houston to work on calibration
+sets with a likely return visit to london as required .
+please let me know your thoughts .
+cheers ,
+scott
