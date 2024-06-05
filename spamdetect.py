@@ -109,7 +109,6 @@ class Spamdetect:
             num_emails = json.load(f)
             print("spam:", num_emails["spam"])
             print("ham:", num_emails["ham"])
-
         with open('log_class_p.json', 'r', encoding='utf-8') as f:
             log_class_p = json.load(f)
         with open('word_counts.json', 'r', encoding='utf-8') as f:
@@ -137,7 +136,6 @@ class Spamdetect:
                 # log_word_given_spam = math.log(
                 #     (word_in_spam + 1) / (num_emails['spam'] + len(all_words)))
                 # log_word_given_ham = math.log((word_in_ham + 1) / (num_emails['spam'] + len(all_words)))
-                count = single_word_counts.get(word, 0.0)
                 spam += log_word_given_spam
                 ham += log_word_given_ham
             if spam > ham:
