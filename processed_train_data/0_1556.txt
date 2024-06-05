@@ -1,47 +1,34 @@
-Subject: fw : meeting follow - up
-dan sent this information as a follow up to our meeting this week . if there
-is any additional information you would like to see , please let me know .
-in the absense of any objections , i would like to begin having our analysts
-use the financial stress score to underwrite small exposures where financial
-statements are not received . in addtion to saving some expense , this will
-allow greater consistentency . and moving forward , i believe we can map
-expected defaults from fstress score ranges to those implied in credit
-spreads , and in doing so map to e - ratings for use in credit reserve
-analytics . i ' ve had prelimiary discussions with rabi and amititava regarding
-this .
-any additional insights would be helpful , and thanks for your help .
-- - - - - original message - - - - -
-from : " barry , dan " @ enron
-on . com ]
-sent : thursday , march 15 , 2001 10 : 26 am
-to : mark _ wilson @ enron . com
-cc : marcom , karen ; johnson , judy
-subject : meeting follow - up
-mark ,
-attached are a presentation on the financial stress score and the countries
-that have risk scores available today . please let me know if you have any
-questions .
-in response vince ' s question regarding false positives from the model , that
-is a little difficult to answer . the model is predicting the likelihood of
-a company experiencing financial distress . we are not saying that all
-companies with a high risk score will experience financial distress . in
-other words , it is not really a yes or no proposition . it ' not like a drug
-test where the test either comes back positive or negative and ocassionally ,
-you get a false positive test result . we are identifying companies that are
-at high risk for failure . some of those high risk companies will fail and
-some will not fail . how many in each classification that will ultimately
-fail is addressed in the performance charts attached below .
-please let me know if you have any other questions or need any additional
-information .
-dan barry
-dun & bradstreet
-analytical services
-barryd @ dnb . com
-phone ( 713 ) 953 - 5458
-fax ( 713 ) 953 - 5454
-> > >
->
-- enron fss . ppt
-- globalfailure . ppt
-- fin stress understanding . doc
-- fss performance . doc
+Subject: re : uk portfolios and books setup in risktrac
+david and vince ,
+in my e - mail below i pointed out to a inconsistency in the portfolio
+hierarchy for uk positions in risktrac that i found out ,
+namely : some books ( for example elsb 1 and elsb 2 ) belong to uk - gas portfolio
+and to uk - power portfolio .
+i wanted to clarify this in order to reconcile positions in risktrac and in
+the spreadsheet .
+tanya .
+tanya tamarchenko
+01 / 03 / 2001 02 : 09 pm
+to : naveen andrews / corp / enron @ enron , matthew adams / corp / enron @ enron
+cc : rabi de / na / enron @ enron , jaesoo lew / na / enron @ enron , vince j
+kaminski / hou / ect @ ect
+subject : re : uk portfolios and books setup in risktrac
+naveen and matthew ,
+i started looking systematically through uk positions and corresponding var
+numbers in the risckrac .
+i found a few inconsistencies so far .
+1 . the portfolio elsb 1 - nbp has a book elsb 1 under it . the sum of delta
+positions for this book is
+239 , 021 , 655 , the sum of gamma positions is - 211 , 031 , 450 . var for the
+portfolio elsb 1 - nbp is zero .
+the same refers to a few other portfolios , for example elsb 2 - nbp , elsb 3 - nbp ,
+e 2 xxl - nbp .
+2 . the portfolio elsbp 1 - ppp also has the book elsb 1 under it . this book
+contains the positions on pppwdl
+through pppwd 6 and pppwel through pppwe 4 .
+the same refers to the other books , for example elsb 2 .
+this looks messy . can someone in rac go over all the portfolios , all the
+corresponding books and curves
+in risktrac and make sure they are set up properly ?
+thank you ,
+tanya .

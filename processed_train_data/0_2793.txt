@@ -1,21 +1,29 @@
-Subject: oracle nt client software upgrade - manual upgrade steps
-this weekend , the enron global information technologies department will be
-distributing a new version of the oracle 8 i client . due to the mobile
-environment of our user base , not all machines will receive the automatic
-update . if you are a user of an oracle based application and your machine is
-not available to the network this weekend , you can manually upgrade your
-machine via the following steps :
-1 ) click on start - programs - utilities
-2 ) then click on " install oracle 8 i client " .
-if you are a user of microsoft excel spreadsheets or microsoft access
-databases that retrieve information from our oracle databases , you can
-manually convert your oracle odbc connections to the proper drivers via the
-following steps :
-1 ) click on start - programs - utilities
-2 ) then click on " update odbc data source names to oracle 8 i " .
-if you do not see these icons , there is another icon under start - programs -
-utilities called " update start menu " that will re - populate your start menu .
-thank you for your co - operation -
-scott williamson
-director , database infrastructure
-enron global technology
+Subject: re : prospective 6 / 22 houston visit
+ehud ,
+we can meet for dinner on the 21 st . then you can visit with us on the 22 nd
+in the morning and have individual meetings . at 11 : 30 you can meet the entire
+research group at our weekly lunch meeting . we can continue
+individual meetings in the afternoon .
+please , make a reservation at hyatt regency downtown or double tree
+downtown ( there are several hotels with the same names ) .
+vince
+" ehud i . ronn " on 06 / 09 / 2000 02 : 01 : 09 pm
+to : vince . j . kaminski @ enron . com
+cc :
+subject : re : prospective 6 / 22 houston visit
+vince ,
+> june 22 works for me . do you want to firm it up ?
+if it ' s not too late , i do .
+i believe the " game plan " was for me to come in the previous evening . if
+you confirm the date , please advise at your convenience how you see the
+6 / 21 - 6 / 22 schedule .
+best ,
+ehud
+ehud i . ronn
+department of finance
+mccombs school of business
+university of texas at austin
+austin , tx . 78712 - 1179
+voice : ( 512 ) 471 - 5853
+fax : ( 512 ) 471 - 5073
+internet : eronn @ mail . utexas . edu

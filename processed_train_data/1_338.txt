@@ -1,15 +1,6 @@
-Subject: mail system error - returned mail
-this message was undeliverable due to the following reason :
-ce message n ' a pu átre transmis pour les raisons suivantes :
-each of the following recipients was rejected by a remote mail server .
-the reasons given by the server are included to help you determine why
-each recipient was rejected .
-les destinataires suivants ont åtå rejetås par un serveur de courrier
-è distance . les raisons donnåes par le serveur sont incluses pour
-vous aider è dåterminer le probléme dans chaque cas .
-recipient :
-reason : unknown local - part " 1742560 " in domain " primus . ca "
-please reply to postmaster @ sprint . ca
-if you feel this message to be in error .
-veuillez råpondre è postmaster @ sprint . ca
-si vous pensez que ce message est erronå .
+Subject: rely on us for your online prescription ordering .
+your in - home source of health information
+a conclusion is the place where you got tired of thinking .
+a man paints with his brains and not with his hands .
+a poet more than thirty years old is simply an overgrown child .
+one should always play fairly when one has the winning cards .

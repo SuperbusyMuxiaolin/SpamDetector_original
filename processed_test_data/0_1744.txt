@@ -1,62 +1,60 @@
-Subject: re : agenda for ny mg metals visit
-i agree with vince . ideally , this visit would supplement rather than
-duplicate effort . however , on the front end , i would prefer a little
-overkill to underkill - especially with respect to the var process . i would
-defer to anjam / tanya ' s opinion as to what is necessary to get an initial
-comfort level . remember that this is the first cut , but it will need to be
-refined over time to the point where it is credible enough to force someone
-to take a position down based on the calculatiion . if this causes some
-heartburn please refer those people to me .
-ted
-vince j kaminski
-07 / 14 / 2000 09 : 04 am
-to : lloyd fleming / lon / ect @ ect
-cc : richard sage / lon / ect @ ect , vince j kaminski / hou / ect @ ect , anjam
-ahmad / lon / ect @ ect , bjorn hagelmann / hou / ect @ ect , ted murphy / hou / ect @ ect , dale
-surbey / lon / ect @ ect , stinson gibner / hou / ect @ ect
-subject : re : agenda for ny mg metals visit
-lloyd ,
-speaking from experience , i think that it ' s critical for tanya and anjam to
-visit mg in new york
-and establish direct relationship with technical people . merging two risk
-management systems
-requires handling many very technical issues and face to face discussions
-between it and quants
-will be very helpful .
+Subject: re : weekly report
+vasant ,
+yes , it ' s perfect . please , indicate that the wording was unfortunate .
 vince
-from : lloyd fleming 07 / 14 / 2000 03 : 42 am
-to : tanya tamarchenko / hou / ect @ ect
-cc : andreas . barschkis @ mgusa . com @ enron , richard sage / lon / ect @ ect , vince j
-kaminski / hou / ect @ ect , anjam ahmad / lon / ect @ ect , bjorn hagelmann / hou / ect @ ect ,
-ted murphy / hou / ect @ ect , dale surbey / lon / ect @ ect , stinson gibner / hou / ect @ ect
-subject : re : agenda for ny mg metals visit
-tanya ,
-i think most of your queries can be dealt with on the phone - i ' ll be at mg
-with andreas today and we ' ll call you . most of these points have already
-been covered with anjam in any case . i ' m also attaching a file downloaded
-from mercur ( mg ' s risk aggregation system ) showing monthly total positions
-for each metal in each entity . you can fairly easily create tables and graph
-what you want to see . we can talk today about getting a full deal download .
-regards
-tanya tamarchenko
-13 / 07 / 2000 22 : 45
-to : andreas . barschkis @ mgusa . com @ enron
-cc : dale surbey / lon / ect @ ect , lloyd fleming / lon / ect @ ect , richard
-sage / lon / ect @ ect , vince j kaminski / hou / ect @ ect , anjam ahmad / lon / ect @ ect ,
-stinson gibner / hou / ect @ ect , bjorn hagelmann / hou / ect @ ect , ted
-murphy / hou / ect @ ect
-subject : agenda for ny mg metals visit
-hi andreas ,
-here are the issues we would like to discuss on our thursday meeting in ny :
-1 . inputs for options valuation , in particular the origins of volatility
-curves ;
-2 . information on exotic options structures ( existing
-3 . the data flow ( are we going to get data from london or ny ) .
-4 a . storage of positions information at mg . how to extract the positions
-info from
-mg database into spreadsheets .
-4 b . existing positions structure for each metal .
-5 . introduction to concentrates trading business , key personnel .
-best regards ,
-tanya & anjam
-713 853 3997
+vasant shanbhogue
+03 / 08 / 2001 11 : 20 am
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : re : weekly report
+hi vince ,
+regarding david port ' s response to kevin kindall ' s email , i feel that i
+should respond , at least to make our position clear . please indicate if the
+following response is appropriate - - - - - - -
+" hi david ,
+i understand that you were slightly upset over a comment kevin kindall made
+in one of his weekly reports . the intention was never to disparage anybody .
+it is just that since research gets data from a large number of sources , we
+feel obligated to the data donor to ask any requester for clarification of
+need . i completely understand that rac typically has access to much
+sensitive information and they have a right to know much information . we
+just want to make sure there is open flow of information ( it is in
+everybody ' s best interests and the company ' s best interests ) and that
+everybody is aware of how data is flowing .
+best wishes ,
+vasant "
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vasant shanbhogue / hou / ect on 03 / 08 / 2001
+11 : 11 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : david port / enron @ enronxgate on 03 / 08 / 2001 08 : 46 am
+to : kevin kindall / corp / enron @ enron
+cc : vince j kaminski / hou / ect @ ect , vasant shanbhogue / hou / ect @ ect , rudi
+zipter / enron @ enronxgate
+subject : re : weekly report
+kevin - thanks for the update .
+on the stock option plans , if your angle is what i suspect , i suggest you get
+with rudi zipter , who has done a great deal of work on this exposure ,
+including characterising and actually booking the short option positions in
+enron ' s equity system . we are already working with ben glisan ' s team firming
+up a hedging program . we are well advanced in this effort so if you get with
+my people it could save you a great deal of time .
+secondly , i am afraid i do take some exception to your references to naveen ' s
+team in your last point . generally in rac i don ' t believe we are obliged to
+explain why we need information , except as a courtesy - otherwise that would
+compromise our role somewhat . specifically , i am aware of the sensitivity of
+raptor , just as i am of the sensitivity of all the information my group is
+privvy to on a daily basis . again , we have done a good deal of work on these
+structures too ( i see a position report daily ) . as i have discussed with
+vince , naveen ' s request would have been derived from a discussion we all had
+with rick , concerning " meltdown " scenarios and their effect on , amongst other
+things , funding vehicles .
+but i would rather have had a conversation about this than see slightly
+disparaging remarks about my people in email traffic .
+rgds
+dp
+- - - - - original message - - - - -
+from : kindall , kevin
+sent : monday , march 05 , 2001 8 : 19 am
+to : kaminski , vince ; shanbhogue , vasant
+cc : port , david
+subject : weekly report
+>

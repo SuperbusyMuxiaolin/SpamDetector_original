@@ -1,34 +1,29 @@
-Subject: update
-hello all ,
-the program for the 2000 texas finance festival has been formalized and can
-be found on our web site at
-i do need to remind you of a few things before we converge on san antonio .
-first , be sure to contact the convention hotel and make your reservations .
-at last count there were only 6 rooms left . second , i need a completed
-application form from everyone so that we can get an accurate meal count .
-i am attaching the program announcement so you can fill out the appropriate
-boxes for meals and numbers of guests in the event you have not sent in a
-form .
-remember that we are starting the conference off with a luncheon on friday
-so plan on arriving early friday or coming in on thursday evening if you
-can . our hotel is right on the river and there are lots of restaurants and
-interesting things to visit in the immediate area ( the alamo is across the
-plaza from the hotel ) .
-we are making plans for spouses and children to attend both the dinner on
-friday and saturday evenings . the friday evening dinner begins at 6 p . m .
-so that we can be done in plenty of time for our private guided tour of the
-alamo at 8 : 00 p . m . for saturday we are still working out plans for the
-evening so stay tuned .
-there will be more information later as the conference nears . looking
-forward to seeing you all and in beautiful , sunny san antonio .
-john - announcerev . doc
-john d . martin
-carr p . collins chair in finance
-finance department
-baylor university
-po box 98004
-waco , tx 76798
-254 - 710 - 4473 ( office )
-254 - 710 - 1092 ( fax )
-j _ martin @ baylor . edu
-web : http : / / hsb . baylor . edu / html / martinj / home . html
+Subject: altos na gas model
+kim , i know you have been interested in the development of a long term
+natural gas model for use in the ets revenue management effort . i agree that
+the ability to model various supply / demand scenarios for north america
+should prove useful in ets business development efforts , and in particular ,
+in predicting the impact of the new , large alaskan gas supplies on the n . a .
+pipeline grid .
+as you know , vince kaminski feels that a software product developed by dale
+nesbitt ( marketpoint , inc . ) of los altos hills , ca . may be a good choice , and
+one readily available in a relatively short time . marketpoint has proposed
+that they work with us in our offices for a week of intensive training and
+testing , so we can make a more informed decision before ordering the
+software . they have proposed a charge of $ 12 , 000 , plus expenses , for the
+one - week session , with that cost applied to the first year ' s subscription
+price ( approx . $ 55 - 60 m / yr ) should we decide to go forward . the other
+details ( timing , ene resources required , necessary it interface , etc ) still
+need to be worked out , but i believe there is generally a consensus to
+proceed with the test .
+with my recent relocation to the clean fuels group , i will no longer be
+responsible for the alaskan pipeline development . however , danny mccarty is
+pulling together a team consisting of people from nng , nbp and elsewhere in
+ets to push the project forward . i believe eric gadd will be playing a key
+role as well . the decision on the long term gas model should appropriately
+be made by the new project team .
+i have attached a draft of the proposed marketpoint license agreement . it
+has not yet been fully reviewed by legal ( or by shelley c . for the
+" affiliate " issues ) .
+let me know if i can provide any other background or assistance .
+jng

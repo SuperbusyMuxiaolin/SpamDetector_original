@@ -1,15 +1,21 @@
-Subject: hi vince ,
-as always , i enjoyed having dinner with you . its always interesting .
-per your recommendation from last night , you should have received a note i
-just sent to andy fastow .
-if you can fit it into you schedule , sheridan and i would appreciate having
-you attend the conference , the conference dinner and reception . also , if
-you would like to participate on saturday only , that is a possibility as
-well . whatever might work with you .
-regards ,
-dave
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-prof . david ikenberry
-jones graduate school of management
-rice university
-713 - 348 - 5385
+Subject: request submitted : access request for maureen . raymond @ enron . com
+vince :
+maureen needed this access for her new lap top so she can take it with
+her on vacation . there was no one here to approve it , so i approved it
+for you . hope that was ok .
+have a great time !
+shirley
+- - - - - - - - - - - - - - - - - - - - - - forwarded by shirley crenshaw / hou / ect on 11 / 15 / 2000
+01 : 51 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+arsystem @ mailman . enron . com on 11 / 15 / 2000 01 : 18 : 27 pm
+to : shirley . crenshaw @ enron . com
+cc :
+subject : request submitted : access request for maureen . raymond @ enron . com
+you have received this email because the requester specified you as their vp .
+please click
+approval to review and act upon this request .
+request id : 000000000007498
+request create date : 11 / 15 / 00 1 : 14 : 32 pm
+requested for : maureen . raymond @ enron . com
+resource name : vpn
+resource type : applications

@@ -1,21 +1,20 @@
-Subject: re : meeting tuesday
-dale ,
-your memory did not fail you .
-we would like , however , to move the meeting to 2 p . m . tuesday .
-i left you a voice message about it . please call me s soon as
-possible to confirm .
+Subject: re : status
+steve ,
+welcome back . let ' s have coffee asap and review all the projects under way .
 vince
-" dale m . nesbitt " on 11 / 02 / 2000 07 : 41 : 40 pm
-please respond to
-to : " vincent kaminski \ ( e - mail \ ) "
+from : stephen stock / enron @ enronxgate on 03 / 01 / 2001 09 : 40 am
+to : vince j kaminski / hou / ect @ ect
 cc :
-subject : meeting tuesday
-vince :
-i was writing to confirm the meeting you wanted to set up with me , yourself ,
-and mr . goodpasture for next tuesday . i believe it was set for 300 pm this
-coming tuesday at your offices . ( i seem to have misplaced where i wrote the
-specific time , so i wanted to be sure to reconfirm . ) please confirm if you
-get a second so that i can finalize my travel schedule . you can email or
-phone 650 . 218 . 3069 . thanks . i look forward to meeting with you again and
-with mr . goodpasture .
-dale nesbitt
+subject : status
+hi vince ,
+winston is telling me that he has started a serious of presentations to
+certain members of your group to help everyone better understand the various
+components that have been documented .
+how is that going from your perspective ? . . . . . . are your people getting
+anything out of it ?
+also , the var documentation was completed last week , and i ' ve just asked for
+a full printed copy of it to be created mand given to your department .
+i ' ve just engaged a small team to document the credit reserve model as a
+final piece and then we are done with the core documentation .
+regards
+steve

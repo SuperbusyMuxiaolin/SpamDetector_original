@@ -1,31 +1,62 @@
-Subject: iafe membership
-shirley ,
-please , renew my membership .
+Subject: re : maths course
+vicky ,
+my affiliation is enron corp . my assistant , shirley crenshaw , will send you
+an updated version of my bio .
+here are the bullet points :
+practical techniques to price exotic energy options
+definition of an exotic option
+- pay - off profile
+- price process assumptions
+- different sources of risk
+different types of exotic options used in the energy industry
+- asian options
+- spread options
+- basket options
+- swing options
+evaluating methodologies for pricing exotics
+? ? ? - assessing the pros and cons of different techniques
+- approximations of closed - form formulas
+- monte carlo techniques
+- trees
+- numerical solutions of pdes
+? ? ? - applying multi - factor models to price exotic energy derivatives
+? ? ? - building trees for pricing and hedging exotics
+practical examples
+?
+analysing approaches to weather derivatives valuation
+?
+definition of a weather derivative
+why does energy industry need weather derivatives ?
+- hedging volume / price risk as opposed to hedging exclusively price risk
+- the energy industry ' s exposure to weather : numerical estimates
+different types of weather derivatives used in the energy industry
+? ? ? - heating and cooling degree day swaps and options
+? ? ? - precipitation contracts
+- hurricane contracts
+- financial options contingent on weather
+- digital options
+valuation controversy : actuarial valuation vs . valuation based on the
+black - scholes paradigm
+use of monte carlo techniques in valuation of weather derivatives
+valuing long term transactions
+practical example
+please , feel free to edit my bullet points to improve my english .
+it was a pleasure working with you and i hope our roads will cross at some
+point .
+the best of luck to you .
 vince
-- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 12 / 07 / 2000
-10 : 41 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-main @ iafe . org on 12 / 05 / 2000 03 : 47 : 45 pm
+" vicky windsor " on 04 / 13 / 2000 01 : 00 : 18 pm
+please respond to " vicky windsor "
 to :
 cc :
-subject : iafe membership
-dear colleague :
-we are pleased to report that we had a very exciting and productive year
-with dozens of activities around the world . as we enter our 10 th year of
-operations , the iafe has additional membership options available to you .
-please take a moment to look at the attached membership form with the 2001
-rate schedule . based on member requests , a premium membership is now being
-offered that includes the annual conference at a 30 % discount , the financial
-engineer of the year dinner , plus a subscription to the journal of
-derivatives ( jod ) . the full membership remains as in previous years . the new
-regular membership includes all membership benefits except jod . membership
-is based on the calendar year january 1 - december 31 , 2001 .
-membership is also available on our secured membership registration form at
-our website http : / / www . iafe . org / about / join . ihtml . while on our website ,
-please take a moment to visit our calendar listing upcoming events for the
-new year .
-if you have any questions please don ' t hesitate to contact me at
-main @ iafe . org .
-regards ,
-donna jacobus
-iafe office manager
-- 2001 membership application . pdf
+subject : maths course
+dear vince ,
+?
+i just wondered whether you have had chance to look at your bullet points
+and bio for the maths course . if so please could could email them to me as
+soon as possible . could you also let me know whether your company
+affiliation should now be enron north america .
+?
+thanks vince and best regards ,
+?
+vicky

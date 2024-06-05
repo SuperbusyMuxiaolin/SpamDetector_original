@@ -1,25 +1,14 @@
-Subject: good morning
+Subject: projects update
 vince ,
-two items . unless you have an objection , i plan to ship the paper on to
-don chew at the journal this morning . we can still work on the article but
-he needs something to begin the editing process .
-second , in the same issue as our paper will appear the transcript of a
-roundtable discussion involving sheridan titman , john mccormack ( stern
-stewart ) , ron erd ( southern energy ) , jeff sandifer ( president of sandifer
-capital - - $ 700 million undermanagement ) , and gene humphries . attached you
-will find a section that will not be in the final document , but that i
-thought you might like to read in light of our own discussions over the
-course of writing this paper .
-have a great day .
-john
-- interview _ outtakes . doc
-john d . martin
-carr p . collins chair in finance
-finance department
-baylor university
-po box 98004
-waco , tx 76798
-254 - 710 - 4473 ( office )
-254 - 710 - 1092 ( fax )
-j _ martin @ baylor . edu
-web : http : / / hsb . baylor . edu / html / martinj / home . html
+a quick project update .
+1 . sandeep and i spoke with robert schenck in adelaide . he will email a
+henwood proposal to us . they already figured that we must be interested in
+modelling dabhol .
+2 . the wti eol trading simulation had an error . we were counting a
+mid - offer spread profit on each trade , but we actually would make the spread
+on each round - trip transaction ( one trade to open , one trade to close ) . i
+modified the calculation and sent the new numbers to greg whalley ( he is the
+one who caught the mistake , so there goes my bonus for the year . ) and john
+lavorato . i should probably re - run the earning volatility numbers , and
+update ted murphy as well .
+- - stinson

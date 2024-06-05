@@ -1,50 +1,37 @@
-Subject: re : support on statistical modeling
-randall ,
-the person supporting ebs in the research group is martin lin .
-i shall ask him to give you a call and will be glad to join you at the meeting
-with martin .
+Subject: re : petrochem desk
+yes , i will have kate get involved and talk to christian to get details .
+vasant
+- - - - - original message - - - - -
+from : kaminski , vince
+sent : monday , april 23 , 2001 9 : 29 am
+to : shanbhogue , vasant
+cc : kaminski , vince
+subject : petrochem desk
+vasant ,
+it seems we have to help them . can kate help
+on this project ?
 vince
-from : randall hicks @ enron communications on 04 / 04 / 2001 10 : 42 am
-to : vince j kaminski / hou / ect @ ect
-cc : bradford brooks / enron communications @ enron communications , shirley
-crenshaw / hou / ect @ ect , daryl flaming / enron communications @ enron
-communications , martin sacchi / enron communications @ enron communications
-subject : support on statistical modeling
-dear vince :
-i was referred by rita hartfield of ebs . i am the director of marketing for
-the digital content services team ( david cox , frank bay , et . al . ) . we are
-identifying and evaluating features and functions that will be a part of the
-next generation entertainment on demand ( eod ) product .
-the e - mail i ' ve excerpted below contains two links to a company that offers a
-" preferencing " service that we know is quite popular and important to
-entertainment consumers . i have some questions abouts the statistics ,
-sampling methodology , explained variance etc . of the model that the
-stylelogic group employs .
-do you have a member of your team that could assist on this project ?
-thanks for your help ,
-randall hicks
-director - marketing
-enron broadband services
-1400 smith street - eb 4589 a
-houston , tx 77002
-work - 713 . 853 . 9970
-randall _ hicks @ enron . net
--
-brad ,
-i would appreciate a chance to talk with you regarding enron ' s vod plans . we
-have developed movie selection and recommendation / prediction functionality
-that we can manage for ebs .
-if you would like to read about what we have to offer , you may go to :
-http : / / www . stylelogic . com / predict
-i also invite you to see our functionality at : http : / / www . reviewmovies . com /
-i look forward to a chance to speak with you at your earliest convenience .
-brent rosenkranz
-president
-stylelogic - internet strategies and solutions
-101 n . acacia avenue
-solana beach , ca 92075
-phone - 858 - 350 - 3939
-toll free - 888 - 750 - 4678
-fax - 858 - 350 - 3930
-www . stylelogic . com
-brent @ stylelogic . com
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 04 / 23 / 2001
+09 : 28 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+nelson neale @ enron
+04 / 20 / 2001 10 : 29 am
+to : vince j kaminski / hou / ect @ ect , vasant shanbhogue / enron @ enronxgate
+cc :
+subject : petrochem desk
+i had a chance to speak with christian lebroc this morning with regard to
+curve building for petrochemicals . as it turns out , christian left rac in
+april and joined the petrochem desk as a trader . previous efforts at
+construction of a forward curve by the group have focused on intuition or
+swags . unfortunately , the group had a rough p & l year with at least some of
+the blame directed toward the forward curve or lack thereof . when asked
+about the fundamentals group , christian indicated that they ' d only been
+around about 3 - 4 months and are not yet well - suited to curve building . john
+nowlan is indeed the head of the group .
+from a timing perspective , i told christian that it would probably take at
+least 6 - 8 weeks to develop a curve , especially considering the need to
+understand the key market drivers / fundamentals . as was suggested yesterday
+during our meeting , a strong relationship between petrochemicals and a nymex
+component ( e . g . , crude oil ) would provide a great beginning point - - we could
+then potentially strengthen / augment this relationship with other key factors
+( e . g . , supply and demand terms ) borne out of our market research .
+nelson

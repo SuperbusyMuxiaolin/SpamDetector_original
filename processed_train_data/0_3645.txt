@@ -1,39 +1,47 @@
-Subject: mark - to - market
-bob ,
-i wanted to continue the analysis on mark - to - market that i had spoken to you
-about on the phone .
-i thought that it was getting very difficult explaining the whole transaction
-by phone , so i am having krishnarao who is in vince ' s group explain the
-transaction to you .
-krishna has been helping us structure the deal here in india , and he has just
-returned to houston from india after working with the team here .
-he will seek an appointment with you to explain the transaction . i would
-like you to please spend some time with him , and then based on the discussion
-please send us a note detailing how sucha a transaction would be marked to
-market .
-please cosider the fact that currently there are no such transactions from
-the indian side . this is a very important transaction for us , and we may
-need to repeat this in coming months , hence setting up the system to account
-for these maybe well worth it . also , what i am concerned about is that there
-will be an enron india ( eipl ) account in india based on indian gaap , and upon
-consolidation there will be a us gaap accounting in the us . it is here that
-we would like to have mark - to - market accounting . eipl is structured through
-mauritius , and then caymen islands .
-another key question to consider is that when we m - t - m the transaction in the
-us there will be a tax accruing in the year of m - t - m ( say 2000 ) . however , in
-india , as a result of the accrual accounting , there will not be any income
-showing till the year 2002 or 2003 . we will need to know how that would get
-treated , and whether there is a way to get credit for the tax payable in the
-us . i am also confused about whether us tax would be levied , since none of
-the income is being brought back into the us ( remains overseas - subpart - f
-and other concerns ) .
-finally , we have been working hard in structuring a fixed price contract and
-getting a fixed for floating swap in the us ( this is still not allowed to
-indian corporates ) . i need you to think about this too , and see if some type
-of accounting will solve this issue . krishna knows what i am talking about ,
-and will brief you on the same .
-krishna - please walk bob through the three structures we had worked here .
-look forward to your help and comments . this is going to be an exciting
-project for us all .
-regards ,
-sandeep .
+Subject: re : powerisk 2001 - your invitation
+angelika ,
+thanks for the invitation .
+yes , i shall be glad to attend and repeat the same presentation .
+vince
+angelika staude on 04 / 09 / 2001 04 : 19 : 08 am
+to : " ' vince . j . kaminski @ enron . com ' "
+cc :
+subject : powerisk 2001 - your invitation
+powerisk 2001
+the global premier forumforenergy trading & risk management
+6 th - 9 th november 2001 , paris
+dear mr kaminski ,
+i am responsible for the programme of this year ' s powerisk conference in paris . helyette geman has informed me that she has contacted you concerning the workshop and that you are happy to do it with her again this year - brilliant !
+i would like to know if you are also interested in delivering a paper again . the audience in previous years greatly appreciated your contribution , and i would me more than happy if you could join us again .
+to give you an idea of the programme so far , these are the ( " technical " ) topics that are already covered :
+chris strickland : forward curve models with jumps for the pricing of exotic energy contracts
+multi - factor forward curve models for the valuation of energy contracts
+adding jumps
+applying the models to exotic energy options
+extensions to multiple energy contracts
+les clewlow : valuation and risk management of virtual power stations and gas supply agreements
+structures of gas supply agreements ( gsa )
+relationships between physical and virtual power stations ( pps / vps )
+valuation methods for gsa ' s and vps ' s
+risk analysis of gsa ' s and vps ' s
+derek bunn , professor of decision sciences , london business school : analysing the impact of neta on market efficiency & volatility in the uk energy market
+chris harris , director of market development . operations and engineering , innogy : applying cutting - edge portfolio management theory in order to optimise your risk exposure
+establishing and valuing the key factors using a bottom up approach
+looking at the interconnection between key factors
+the treatment of the risk of infrequent but high impact events
+peter nance , principal , teknecon : combining power systems and monte carlo simulations for effective pricing
+dan mansfeld , head of risk control , vattenfall : assessing the benefits and risks of using derivatives as part of your risk management strategy
+spyros maragos : analysing new approaches to building forward curves from available market data
+tamara weinert , credit and contracts manager , mirant energy : successfully measuring limit setting ; risk reducing structures
+importance of credit in the organizational structure : reporting ; dependence ; structure of credit department
+brett humphreys : examining cutting - edge credit exposure mitigation tools : combining counterparty and portfolio credit var techniques
+helyette geman : pricing of exotic energy derivatives and structured contracts
+please let me know if you are interested in joining the powerisk 2001 speaker panel , and which topic you would like to cover . i think that something along the lines of last year ' s talk ( state - of - the - art volatility and correlation estimation techniques for multiple energy portfolios ) would be brilliant again , but please feel free to chose something else that has not been covered yet .
+i look forward to hearing from you ,
+kind regards ,
+angelika staude
+director powerisk 2001
+tel : 0044 207 915 5675
+fax : 0044 207 915 5101
+ps : for your information , please find enclosed a list of confirmed speakers for powerisk 2001 .
+- confirmed speakers . doc

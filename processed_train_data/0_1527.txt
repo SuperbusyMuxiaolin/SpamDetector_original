@@ -1,15 +1,17 @@
-Subject: re : probability question from vince ' s article
-thank you , michael ! i ' m forwarding your answer to vince kaminski , and thank
-you for reading !
-sam smith
-5 - 8322
-enron energy services
-from : michael kim @ ees 08 / 28 / 2000 02 : 50 pm
-to : william . smith @ enron . com
-cc :
-subject : probability question from vince ' s article
-answer is 0 . 2344
-it ' s been awhile since i studied probability . i think this is a conditional
-probability problem .
-thank you .
-mike kim
+Subject: pjm publishes list of 1000 contingencies
+message sent from the pjm - customer - info mailing list at
+pjm - customer - info @ majordomo . pjm . com :
+to meet customer requests , pjm has published the pjm contingency list on the
+web
+site at www . pjm . com . the file can be found under pjm markets , market and
+system
+data , under lmp model information . the list contains the approximately 1000
+contingencies existing in the pjm energy management system . the contingencies
+are the possible occurrences against which pjm system operators must protect
+the
+transmission system .
+please do not reply to this message . if you have a question for pjm customer
+relations and training , please send an e - mail to custsvc @ pjm . com .
+to unsubscribe from this list , send an e - mail to majordomo @ majordomo . pjm . com
+containing only the following line in the body of the e - mail :
+unsubscribe pjm - customer - info

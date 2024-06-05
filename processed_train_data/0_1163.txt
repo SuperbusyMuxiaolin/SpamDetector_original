@@ -1,37 +1,37 @@
-Subject: weather article has been approved - - need to send photos
-gary & seth ,
-thumbs up on the fow article . many thanks for working through it with me . . .
-joe
-- - - - - - - - - - - - - - - - - - - - - - forwarded by joseph hrgovcic / hou / ect on 10 / 26 / 2000
-11 : 27 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-jane sandiford on 10 / 25 / 2000 06 : 26 : 32 am
-to : joseph . hrgovcic @ enron . com
-cc :
-subject : weather article - photos ?
-dear joseph ,
-thank you so much for sending me such an interesting article on the internet
-and weather derivatives . i really enjoyed reading it !
-i just have one final question - do you have a photograph of yourself ( or
-the other authors ) that you could send me ? tif , gif or jpeg files are fine
-so long as they are 300 dpi .
-thanks again and i hope to hear from you soon .
-best regards ,
-jane
-jane sandiford
-deputy editor
-fow magazine
-tel : 0207 827 6493
-fax : 0207 827 6413
-email : jsandiford @ fow . com
-* * disclaimer * *
-the contents of this e - mail is sent to the addressee only and may contain
-information that is confidential .
-persons other than the addressee should not read , disclose , copy or otherwise
-distribute this message except for delivery to the addressee .
-this e - mail and its attachments ( if any ) have been scanned by trend micro
-interscan viruswall v 3 . 4 .
-* * personal e - mails * *
-the metal bulletin e - mail system scans all e - mails and deletes personal
-messages which contain items of a sexual , racial or other inappropriate
-matter without notifying the sender . therefore , the transmission of personal
-messages , both incoming and outgoing , cannot be guaranteed .
+Subject: fwd : update
+return - path :
+received : from rly - yeo 2 . mx . aol . com ( rly - yeo 2 . mail . aol . com [ 172 . 18 . 151 . 199 ] )
+by air - yeo 4 . mail . aol . com ( v 76 _ rl . 19 ) with esmtp ; fri , 20 oct 2000 14 : 52 : 34
+- 0400
+received : from postmaster . enron . com ( outbound 5 . enron . com [ 192 . 152 . 140 . 9 ] ) by
+rly - yeo 2 . mx . aol . com ( v 76 _ rl . 19 ) with esmtp ; fri , 20 oct 2000 14 : 52 : 16 - 0400
+received : from nahou - msmswolpx . corp . enron . com ( [ 172 . 28 . 10 . 37 ] ) by
+postmaster . enron . com ( 8 . 8 . 8 / 8 . 8 . 8 / postmaster - 1 . 00 ) with esmtp id naao 9683 for
+; fri , 20 oct 2000 13 : 52 : 16 - 0500 ( cdt )
+from : stinson . gibner @ enron . com
+received : from ene - mtaol . enron . com ( unverified ) by
+nahou - msmswolpx . corp . enron . com ( content technologies smtprs 4 . 1 . 5 ) with esmtp
+id for
+; fri , 20 oct 2000 13 : 52 : 16 - 0500
+subject : update
+to : vkaminski @ aol . com
+cc : vince . j . kaminski @ enron . com
+x - mailer : lotus notes release 5 . 0 . 3 march 21 , 2000
+message - id :
+date : fri , 20 oct 2000 13 : 52 : 12 - 0500
+x - mimetrack : serialize by router on ene - mtaol / enron ( release 5 . 0 . 3 ( intl ) | 21
+march 2000 ) at 10 / 20 / 2000 01 : 48 : 43 pm
+mime - version : 1 . 0
+content - type : text / plain ; charset = us - ascii
+vince ,
+a quick update on job candidates :
+1 ) nelson neale : relayed your request to norman , and told nelson that an
+offer is in progress . did not mention specific numbers to him .
+2 ) charles shen : left a message for him that we would get back to him next
+week with details of an offer .
+3 ) interviewed by phone tom barkley at thunderbird ( brought to our
+attention by enron recruiters there ) . he looks very interesting so i am
+trying to schedule a visit to enron for him . he will finish t - bird in
+december ( mba ) and has a bachelors with honours in mathematics .
+have a great weekend .
+stinson

@@ -1,24 +1,23 @@
-Subject: re : convergence of the research model
-i was curious about the accuracy of our credit reserve model as a function of
-the
-number of simulations we use . this question , i think , is not so important
-when we
-calculate credit reserve , because the assumptions underlying our model are
-pretty
-rough anyway ( here i mean the assumptions regarding price processes ,
-correlations , etc . )
-this question becomes more essential when we talk about calculating
-sensitivities of the
-credit reserve to various factors . when the magnitude of the sensitivity is
-comparable
-to the accuracy of calculation of the credit reserve , what is the accuracy of
-such sensitivity ?
-i performed a numerical experiment where i calculated the expected loss
-for a simple portfolio with one counterparty ( sithe ind power ) for different
-number of simulations ( 10 , 100 , 1000 , 10000 , 100000 ) using old research
-credit model .
-you can see how the result converges and the relative error ( compared to the
-result for 100000 simulations which is assumed to be the most accurate ) in
-the
-attached file .
-tanya .
+Subject: re : meeting
+andrew ,
+i shall be glad to meet and discuss the project . it sounds intriguing .
+vince
+andrew miles @ enron
+09 / 22 / 2000 01 : 34 pm
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : meeting
+hi vince !
+maybe you remember me , my name is andrew miles and we worked together on a
+speech for jeff skilling this past july . i am hoping that i can get on your
+calendar for 30 minutes next week . i have been working with 3 other enron
+employees for the past 6 months , developing a comprehensive innovation
+acceleration process for use by potentially all enron employees - and we
+would really appreciate your input . we have presented the idea to quite a
+few people in the company , and some outside of the company ( strategos
+institute ) , all of which have really liked the idea and provided key input .
+many people have suggested that we run the idea by you .
+if you have some time next week , would you mind allowing me to explain our
+ideas to you ? i will follow up with a telephone call .
+all the best ,
+andrew

@@ -1,9 +1,6 @@
-Subject: re : programming for rdi model
-michelle ,
-helen , cecil , david ( just joined the effort ) and i had a meeting this
-morning . a lot of things regarding
-the coding has been discussed . we all felt good about the progress that has
-been made
-and have clear idea of how to proceed . the project is speeding up nicely .
-best ,
-alex
+Subject: approval for reviewer
+krishnarao , pinnamaneni v has suggested reviewers and submitted them for your
+approval . your may review / modify this list of reviewers by logging on to pep
+at http : / / pep . corp . enron . com and going to supervisor services . please
+remember , no feedback can be completed on krishnarao , pinnamaneni v until you
+have approved the list .

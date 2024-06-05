@@ -1,26 +1,20 @@
-Subject: ca for henwood engagement
-bonnie ,
-thanks for getting back to me on friday .
-enron will be contracting with henwood for henwood to provide an analysis of
-the indian power system . however , enron will be providing a significant
-part of the input data used for the study including our views on the indian
-market in the future and also very detailed information about our dabhol
-plant . we want to be sure that the information provided by us to henwood
-remains confidential . we also want to be sure that henwood considers as
-confidential the results of this study provided by henwood to enron .
-the enron and related entities providing information are likely to include
-dabhol power corp .
-enron india
-also possibly enron north america
-the primary henwood contact for the project is robert schenck in australia at
-henwood energy services , inc .
-26 greenhill road
-wayville , sa 5034
-australia
-the henwood corporate office is in sacramento :
-2710 gateway oaks drive
-suite 300 north
-sacramento , ca 95833
-let me know if you need any additional information .
-- - stinson
-x 34748
+Subject: re : private firm schedule
+thanks for the schedule update
+- - - - - original message - - - - -
+from : kirkpatrick , eric
+sent : monday , april 23 , 2001 10 : 52 am
+to : mack , iris ; dhar , amitava ; brent , richard ; salmon , scott ; chaney , craig ; mumford , mike ; detiveaux , kim ; cruver , brian
+subject : private firm schedule
+all :
+this is the rough schedule we came up with at today ' s video conference :
+submit rfp to d & b , experian , and amadeus 2 days 25 apr mumford
+receive back rfps 1 . 5 weeks 4 may mumford
+complete evaluation , selection & authorization 1 week 11 may mumford / mack
+contract complete and signed 2 weeks 25 may mumford
+data to iris & amitava 3 weeks 15 june mumford
+model development complete 4 weeks 15 july mack
+* integration of model and data feeds into cts 6 weeks 30 august kirkpatrick
+prior to integration into cts any prices would have to be manually uploaded into cts via spreadsheet .
+the rfp will include a request for a smaller data calibration set that we may select to purchase immediately .
+we can revisit this schedule at our wednesday video conference .
+eric kirkpatrick

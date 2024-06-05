@@ -1,16 +1,36 @@
-Subject: scrub the web confirmation required
-your confirmation is required by jul 28 , 2005 - see below !
-thanks again for submitting your url at scrub the web . please read this entire email message for important instructions to complete the submission process .
-the following url was submitted to stw :
-http : / / www . datapest . net /
-the ip address of the person making this submission was :
-216 . 219 . 253 . 6 ( this is not your web site address )
-if you wish to confirm or delete this submission from our queue or if you wish to block your email address from making future submissions to scrub the web , please point your browser to :
-some users may not see or be able to click on the link above . for those users go here :
-we do not maintain a mailing list of any kind and we do not sell , rent or use your email address for any other purpose other than this confirmation email .
-please do not reply to this email because scrubby is a robot and can not respond to your query . if you need to contact us for any reason point your browser to :
-http : / / www . scrubtheweb . com / feedback / .
-thanks again for your submission ,
-http : / / www . scrubtheweb . com /
-meta tag builder !
-meta tag analyzer !
+Subject: failure notice
+hi . this is the qmail - send program at nsl . extremekanal . com .
+i ' m afraid i wasn ' t able to deliver your message to the following addresses .
+this is a permanent error ; i ' ve given up . sorry it didn ' t work out .
+:
+sorry , no mailbox here by that name . ( # 5 . 1 . 1 )
+- - - below this line is a copy of the message .
+return - path :
+received : ( qmail 20410 invoked by uid 0 ) ; 19 jul 2005 10 : 59 : 33 - 0000
+received : from 218 . 2 . 27 . 239 by nsl ( envelope - from , uid 1005 ) with qmail - scanner - 1 . 25
+( clamuko : 0 . 65 .
+clear : rc : 0 ( 218 . 2 . 27 . 239 ) : .
+processed in 1 . 547743 secs ) ; 19 jul 2005 10 : 59 : 33 - 0000
+received : from unknown ( helo mailwisconsin . com ) ( 218 . 2 . 27 . 239 )
+by 192 . 168 . 2 . 2 with smtp ; 19 jul 2005 10 : 59 : 31 - 0000
+received : from 205 . 214 . 42 . 66
+( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
+by mailwisconsin . com with http id j 87 gzo 09359978 ;
+tue , 19 jul 2005 10 : 57 : 46 + 0000
+message - id :
+date : tue , 19 jul 2005 10 : 57 : 46 + 0000
+subject : just to her . . .
+from : " barry castillo "
+to : gogo @ sportkanal . com
+user - agent : squirrelmail / 1 . 4 . 3 a
+x - mailer : squirrelmail / 1 . 4 . 3 a
+mime - version : 1 . 0
+content - type : text / html ; charset = iso - 8859 - 1
+content - transfer - encoding : 8 bit
+x - priority : 3 ( normal )
+importance : normal
+soft viagra at $ 1 . 62 per dose
+ready to boost your sex life ? positive ?
+time to do it right now !
+order soft viagra at incredibly low prices
+starting at $ 1 . 99 per dose ! unbelivabie !

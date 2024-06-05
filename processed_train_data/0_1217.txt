@@ -1,57 +1,46 @@
-Subject: presentation to faculty and students at berkeley
-vince - -
-please feel free to also call jeff dasovich ( 415 - 782 - 7822 ) in our san
-fransisco office . he has been very involved in the california market
-discussions and presented before ferc during their field hearings . he knows
-the profs you are meeting with and has some great insights into our positions .
-jeff also attended berkeley as an undergrad and is now attending their
-b - school in the evenings .
-thanks .
-jim steffes
-- - - - - - - - - - - - - - - - - - - - - - forwarded by james d steffes / hou / ees on 09 / 20 / 2000
-09 : 33 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-from : steven j kean @ enron on 09 / 20 / 2000 09 : 21 am
-sent by : steven j kean @ enron
-to : maureen mcvicker / na / enron @ enron , james d steffes / hou / ees @ ees , elizabeth
-linnell / na / enron @ enron
-cc : vince j kaminski / hou / ect @ ect
-subject : presentation to faculty and students at berkeley
-maureen - - please send vince my california testimony and the talking point
-presentation for jeff skilling at the national press club .
-eliz - - keep vince on the distribution list for the documents we are
-generating now to repond to the california situation .
-- - - - - forwarded by steven j kean / na / enron on 09 / 20 / 2000 09 : 18 am - - - - -
-vince j kaminski @ ect
-09 / 18 / 2000 01 : 26 pm
-to : steven j kean / na / enron @ enron
-cc : charlene jackson / corp / enron @ enron , celeste roberts / hou / ect @ ect , vince j
-kaminski / hou / ect @ ect , ashley baxter / corp / enron @ enron
-subject : presentation to faculty and students at berkeley
-steve ,
-i am a lead recruiter at the university of california at berkeley for
-enron analyst / associate program .
-i contacted several friends who work at berkeley and received an invitation
-from one of them to make a presentation at the weekly faculty seminar
-of the dept . of industrial engineering and operations research .
-the students and faculty members from the business school will be also
-invited .
-berkeley in general , and department of industrial engineering and operations
-research in
-particular , are important centers of academic research on electricity markets
-( s . oren works very closely with severin borenstein ) .
-my presentation will focus on the analyst / associate program . i shall also
-have
-an opportunity to discuss the power markets in california ( i expect many
-questions ) before many experts who are very important to shaping
-public opinion and regulatory agenda .
-please , let me know who in you group could help me in preparing this
-presentation
-and in presenting enron ' s point of view in a more effective way .
-vince
-fyi . the name of my friend who invited me :
-shmuel s . oren , professor
-dept . of industrial engineering
-and operations research
-4117 etcheverry hall
-university of california
-berkeley , ca 94720 - 1777
+Subject: class proposal by yannis
+hi vince ,
+yannis of the weather desk is planning to develop relationship with prof
+rene carmona in doing weather analysis . to start this off , they are planning
+to pay prof carmona to give a training class as outlined below , and they
+want to know if research is willing to send people and bear part of the costs .
+we can talk more at 4 : 00 pm , but while there is no doubt that getting people
+from outside to present new ideas is always important and interesting , i
+think research group members can easily give most of these talks .
+apparently , people are interested in these topics and are willing to pay to
+listen . my thought is that if the intent is to develop relationships , that
+is fine , but the research group should also be given the opportunity to
+provide more training and get more visibility . i have already communicated
+this to joe and to yannis .
+vasant
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vasant shanbhogue / hou / ect on 03 / 05 / 2001
+10 : 40 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : yannis tzamouranis / enron @ enronxgate on 03 / 05 / 2001 10 : 01 am
+to : vasant shanbhogue / hou / ect @ ect
+cc :
+subject :
+here is a tentative course description .
+day 1 : extreme value distriutions and copulas
+1 . heavy tail distributions : exploratory data analysis and detection .
+extreme value distributions and generalized pareto distributions .
+estimation and simulation . practical examples .
+2 . notions of dependence and copulas . estimation and simulation .
+experiments with the program evanece .
+day 2 : principal component analysis and modern regression
+1 . principal component analysis and applications to the yield curve and
+the detection of contagion in financial markets .
+2 . nonlinear regression and the construction of yield curves .
+3 . nonparametric regression ( kernel and projection pursuit methods ) and
+alternatives to the black - scholes formula to option pricing .
+day 3 : time series analysis
+examples of temperature time series will be used to introduce and
+illustrate the following concepts and techniques :
+1 . removing trends and seasonal components , and stationarity .
+2 . fitting the classical autoregressive and moving average models .
+3 . discretization of stochastic differential equations
+4 . multivariate time series
+day 4 : nonlinear systems and filtering
+1 . arch , garch and stochastic volatility models
+2 . linear state space models and the classical kalman filter
+3 . nonlinear systems and particle filtering .
+4 . applications

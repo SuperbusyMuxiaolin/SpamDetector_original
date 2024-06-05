@@ -1,25 +1,33 @@
-Subject: program
-i forgot to attach the program file . here it is
-- chonawee
-- - - - - - - - - - - - - - - - - - - - - - forwarded by chonawee supatgiat / corp / enron on
-10 / 17 / 2000 09 : 13 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
-chonawee supatgiat
-10 / 17 / 2000 09 : 13 pm
-to : mike a roberts / hou / ect @ ect
-cc : vince j kaminski / hou / ect @ ect
-subject : program
-mike ,
-here is third version of the program . it gives better results than the
-previous versions you have . sorry for the delay , these past 2 days i have
-been busy meeting with people on the new ebs project . i think the result
-looks reasonably good . you can try it . ( to run , type cow filename . jpg m )
-smallcow . jpg : hand count 165 , program reports 140
-cow 2 . jpg : hand count 1 , program reports 1
-cow 3 . jpg : hand count 273 , program reports 244
-cow 4 . jpg : hand count 7 , program reports 7
-cow 5 . jpg : hand count 160 - 180 , program reports 165
-- chonawee
-you can show it to the others by yourself or i can go with you . i will have
-to go to german consulate tomorrow morning and will be in the office around
-10 : 30 - 11 am .
-- chonawee
+Subject: re : lawyer
+what do i need to do to move this thing forward ?
+i suspect that the problem is basically with the lawyers . they only know how
+to stop things , but in a way they play a role in global society . if it were
+not for the handicaps they lay on us the rest of the world would never have a
+chance .
+- - - - - original message - - - - -
+from : vince . j . kaminski @ enron . com
+to : macmilli @ wharton . upenn . edu
+cc : vince . j . kaminski @ enron . com
+sent : 3 / 8 / 01 12 : 12 pm
+subject : re : lawyer
+ian ,
+sorry for a delay in getting back to you .
+i have one challenge i did not anticipate
+when i talked to you the first time about our real options
+internal seminar .
+the materials were prepared in collaboration with a professor
+from another school , and there is some sensitivity regarding
+the intellectual property rights and the ability to distribute the
+materials
+outside enron .
+please , give me some time to find out if i can work
+around this issue .
+vince
+" macmillan , ian " on 03 / 07 / 2001 06 : 46 : 28 am
+to : " ' vince . j . kaminski @ enron . com ' "
+cc :
+subject : lawyer
+i still have not heard from your lawyer . i would like to see whar
+materials you are using and assess how we could work on the topic of
+real
+options with enron

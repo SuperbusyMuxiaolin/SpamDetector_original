@@ -1,44 +1,42 @@
-Subject: re : network planning
-stinson , i had a discussion with jim and he said that the company ' s name is
-mill three . they provide modeling tools for tiered qos and the like for
-network planning . he said that the code is written in c and that we should
-be able to work with it . he will get us the contact name and we can get a
-presentation for us . jim said that he arranged for this before he met me and
-learned of our ( ebs research ) role in this matter . i made it clear to jim
-that john griebling had asked us to set up this group to do modeling and that
-we are in the process of arranging for 4 or modeling experts to reside in
-houston . from now on jim and i will work hand and hand on such issues along
-with you to make sure that we initiate development efforts as soon as
-possible to utilize krishna , samer and co . asap . . .
-i ' ll take care of arranging a meeting with these consultatants asap .
-my involvement in hamachi is through jim irvine . jim and i are working very
-well together due to our engineering background . jim has been a network
-( communications ) engineer in the army for about 20 years . for hamachi , there
-were gap analysis that needed to be done w . r . t . network reach and when and
-where the network will be available ( ebs ' and hamachi ' s ) . additionally , we
-would look at when tom gros wanted pooling points up and running , we would
-then look at hamachi ' s pooling point sites and come up with requests to
-change dates or third party involvements .
-for the most part , our efforts has been to interview hamachi network
-developers about their plans and put the data together in a manner that we
-can summarize for john . additionally , we ' ve had two meetings with sycamore
-( they have offices in denver ) on their products and brett gave a presentation
-on his effort to jim , etc . . . . more details later when we meet .
-ravi .
-stinson gibner @ ect
-03 / 02 / 00 08 : 52 am
-to : ravi thuraisingham / enron communications @ enron communications @ enron
+Subject: re : interview schedule change for bruce james
+vince , i am forwarding this information over to tony vasut , who recruits for
+rac , to contact the people listed below . thanks for the feedback .
+toni
+- - - - - - - - - - - - - - - - - - - - - - forwarded by toni graham / corp / enron on 08 / 01 / 2000
+11 : 12 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+sean grady
+07 / 31 / 2000 04 : 01 pm
+to : toni graham / corp / enron @ enron
 cc :
-subject : network planning
-ravi :
-i was told by john bloomer that there is a group of consultants in the
-portland office from a company called ( i think ) m 3 i . they are doing
-network consumption and operations modelling . jim irvine or shawna meyer
-were given as enron contacts on this project . we need to find out what
-exactly this group is doing and see if we should get samer and either you or
-me to go , find out the details , and get a brain dump of what they have
-accomplished to see if it can be used in our modelling efforts .
-can you find out what jim knows about this project and get back to me ?
-thanks ,
-- - stinson
-ps how is hamachi going , and what has been your role there ?
+subject : re : interview schedule change for bruce james
+- - - - - - - - - - - - - - - - - - - - - - forwarded by sean grady / na / enron on 07 / 31 / 2000 03 : 59
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+vince j kaminski @ ect
+07 / 31 / 2000 03 : 46 pm
+to : sean grady / na / enron @ enron
+cc : vince j kaminski / hou / ect @ ect
+subject : re : interview schedule change for bruce james
+sean ,
+i think we should invite bruce for additional interviews . i think that he
+does not have
+the skills required in my unit , but he could contribute in other areas .
+here is the list of potential interviewees :
+john echols
+ted murphy
+mark ruane
+vince
+sean grady @ enron
+07 / 26 / 2000 02 : 17 pm
+to : grant masson / hou / ect @ ect , pinnamaneni krishnarao / hou / ect @ ect , william s
+bradford / hou / ect @ ect , vince j kaminski / hou / ect @ ect , stinson
+gibner / hou / ect @ ect , zimin lu / hou / ect @ ect , bjorn hagelmann / hou / ect @ ect , david
+port / market risk / corp / enron @ enron
+cc : toni graham / corp / enron @ enron , shirley crenshaw / hou / ect @ ect , rita
+hennessy / na / enron @ enron , dorothy youngblood / hou / ect @ ect
+subject : interview schedule change for bruce james
+attached please find the interview packet for the above - referenced person .
+the interview will happen thursday july 27 , 2000 . please print all three
+documents for your hard copies . if you have any questions , or conflicts of
+schedule , please do not hesitate to contact me .
+sean grady
+58701

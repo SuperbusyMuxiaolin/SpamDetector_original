@@ -1,10 +1,12 @@
-Subject: request submitted : access request for john . f . anderson @ enron . com
-you have received this email because you are listed as an alternate data
-approver . please click
-approval to review and act upon this request .
-request id : 000000000005409
-approver : stinson . gibner @ enron . com
-request create date : 10 / 23 / 00 8 : 47 : 14 am
-requested for : john . f . anderson @ enron . com
-resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
-resource type : directory
+Subject: research group , recruiting
+celeste ,
+i attach some brief job candidate descriptions for the types of people we are
+looking for at the bs / ms level .
+osman sezgen ( supporting ees ) and p . v . krishnarao ( supporting ees , ebs , and
+gpg ) both said that they are willing to help in interviewing , recruiting , or
+reviewing resumes . i also would make myself available ( ebs , ena ) and
+would be especially willing to help at the schools i attended , caltech and
+rice ( both on your target list ) .
+let us know what we can do to help .
+best regards ,
+- - stinson

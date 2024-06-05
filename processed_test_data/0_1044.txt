@@ -1,17 +1,27 @@
-Subject: var methodology change
-gentlemen ,
-below is a plan of action for moving along with the var methodology change
-related to forward - forward volatility :
-1 . finalize the methodology proposed ( research / market risk )
-- determine the time period used to calculated forward - forward vols vs .
-correlations ( 20 days vs . 60 days )
-- stabilize the calculation for curves and time periods where the curve does
-not change based on historical prices , implying volatility of 0 %
-2 . get approval for the methodology change from rick buy ( see draft of the
-memo attached ) - john lavorato and john sherriff
-3 . develop and implement the new methodology in a stage environment
-( research / it )
-4 . test the new methodology ( market risk , traders )
-5 . migrate into production ( research / it )
-please let me know if this is reasonable and meets everyone ' s expectations .
-vlady .
+Subject: enron research and ebs engineering and operations group technical
+forum
+ken ,
+i would like to invite you to an off - site meeting of john griebling ' s
+organization
+and the research group .
+date : april 27 - april 29
+location : breckenridge , colorado
+as you know , john griebling is managing the network design and construction
+project
+currently under way in ebs . the research group is actively involved in this
+effort
+which requires advanced quantitative skills in the area of stochastic
+optimization and
+stochastic processes ( for modeling and forecasting internet traffic flows ) .
+the objective of this meeting is to develop common language and accomplish
+transfer
+of skills between the two groups , to facilitate cooperation on this project
+in the future .
+we are inviting joe hirko and kevin hannon to this meeting . we would
+appreciate if you could
+speak , together with joe and kevin , on strategic directions of ebs . it is
+important for a group
+of technical people , with relatively specialized technical skills , to
+understand the big picture .
+i am attaching the preliminary agenda for this meeting .
+vince

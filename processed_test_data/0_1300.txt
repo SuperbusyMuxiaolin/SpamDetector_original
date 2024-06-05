@@ -1,14 +1,37 @@
-Subject: sevil yamin
-vince ,
-do you want me to do this , or vasant ?
-- - stinson
-- - - - - - - - - - - - - - - - - - - - - - forwarded by stinson gibner / hou / ect on 04 / 10 / 2001 02 : 57 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
-from : anne labbe / enron @ enronxgate on 04 / 06 / 2001 09 : 57 am
+Subject: re : d - g energy
+karla ,
+the wording you have below sounds reasonable as we would only use the code
+for internal valuation purposes .
+i also checked with vince regarding the issues we discussed by phone
+yesterday . he would like to specify a 2 day response time for the software
+support . also , he would like to specify that the payment schedule be : 50 %
+at time of initial contract and 50 % at the time when the software is
+released . this would give them an incentive to release the software before
+the full year is over if they want to accelerate the payment .
+thanks again for all the help ,
+stinson
+from : karla feldman on 09 / 06 / 2000 10 : 30 am
 to : stinson gibner / hou / ect @ ect
 cc :
-subject : sevil yamin
+subject : d - g energy
 stinson ,
-i am the new hr generalist for the research group because norma villarreal is moving to business analysis and reporting . earlier this week , norma and i met with vince , and he said that he was going to talk to you about writing up a list of sevil ' s projects / accomplishments for last year and this year , so that we can give her a project bonus since she did not receive a bonus during the normal prc time . at your earliest convenience , will you please email me this list so that i can get started putting together all of the paperwork so that she can receive a check on april 16 th .
-if you have any questions , please feel free to contact me at 5 - 7809 . i look forward to meeting you , and the rest of the group next week at vince ' s staff meeting .
+while trying to put together the agreements for d - g energy , i have an
+additional question :
+i need to know exactly what yall plan to do with the source code once you
+have it after the initial one year period is up ? there are still limitations
+as to what you can do with it , so i will need to know so we can try to revise
+the contract so that you will be legal .
+for example , in the language regarding release of the source code from
+escrow , it states that once you have the source code , you just have the
+" right to use , copy and modify the source code , solely for our internal
+purposes in connection with support , maintenance and operation of the
+software " .
+do yall plan to reverse engineer , decompile , etc ? do you plan on using any
+of their code to create our own product ? if so - i think these are going to
+be a problem . the latter would be an infringement issue , unless we were to
+contract to do so .
+please let me know more details of your plan so i can see how we need to
+proceed in this area .
 thanks ,
-anne labbe '
+karla
+x 67554

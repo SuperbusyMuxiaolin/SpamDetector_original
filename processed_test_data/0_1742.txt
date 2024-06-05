@@ -1,30 +1,19 @@
-Subject: re : grades
-pam ,
-another group :
-stuart hamel
-jed howard
-brian nelson
-b +
-vince
-pamela vande krol castro on 05 / 03 / 2001 08 : 58 : 24 am
-to : vince . j . kaminski @ enron . com
-cc :
-subject : re : grades
-got them - thank you ! - pvc
-at 05 : 21 pm 5 / 2 / 01 - 0500 , you wrote :
-> pam ,
->
-> another team :
->
-> elena chilkina
-> robert j . guadette
-> joseph helms
-> kenneth jett
-> todd litton
-> mark westmoreland
->
->
-> grade : a -
->
->
-> vince kaminski
+Subject: usaee conference update from louise burke
+content - transfer - encoding : binary
+date : thu , 29 jun 2000 16 : 38 : 24 edt
+subject : u : \ wp 60 \ usaeekaminska . doc
+mime - version : 1 . 0
+content - type : application / vms - rms ; vms - fdl = " system ; source vax / vms ; ; file ;
+allocation 54 ; best _ try _ contiguous no ; bucket _ size 0 ; contiguous no ;
+deferred _ write no ; extension 0 ; global _ buffer _ count 0 ; mt _ block _ size 0 ;
+max _ record _ number 0 ; maximize _ version no ; organization sequential ; read _ check
+no ; supersede no ; write _ check no ; ; record ; block _ span yes ; carriage _ control
+carriage _ return ; control _ field _ size 0 ; format stream ; size 0 ; ; area 0 ;
+allocation 54 ; best _ try _ contiguous no ; bucket _ size 0 ; contiguous no ;
+exact _ positioning no ; extension 0 ; position none ; volume 0 ; " ; mr - type = msword ;
+name = msword
+content - disposition : attachment ; filename = msword
+importance : normal
+al - format : msword
+al - type : document
+- msword

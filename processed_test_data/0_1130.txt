@@ -1,25 +1,27 @@
-Subject: re : moving roy ibasco
-hi vanessa :
-you will need to fill out a " churn request " and forward it to the " move team "
-they will take care of everything that you put on the form . i am attaching a
-copy
-of the form for your information . the receiving department is responsible
-for
-doing this . he will need boxes to pack his belongings ( ask him how many
-he needs - he will have to do the packing ) . the only item that moves other
-than his personal items , is his telephone . the computer , chair , etc .
-belongs to
-the research group .
-if you have any questions , or need help , please let me know .
-thanks !
-vanessa carranza @ enron
-06 / 08 / 2000 04 : 47 pm
-to : shirley crenshaw / hou / ect @ ect
-cc :
-subject : moving roy ibasco
-shirley -
-i need to have roy ibasco ' s things moved to eb 2930 c from ebl 948 and have it
-charged to co / rc 413 - 1708 . please give me a call if you have any questions !
-thanks -
-vanessa c
-3 - 5030
+Subject: re : support for exotica
+i briefed vince this morning that we have supplied a fully functional exotica
+options library to london office ( executable and source codes ) .
+if you have any questions , my team is ready to help .
+zimin
+steven leppard
+10 / 13 / 2000 03 : 50 am
+to : vince j kaminski / hou / ect @ ect , stinson gibner / hou / ect @ ect , dale
+surbey / lon / ect @ ect , tani nath / lon / ect @ ect
+cc : paulo issler / hou / ect @ ect , sharad agnihotri / lon / ect @ ect , zimin
+lu / hou / ect @ ect
+subject : support for exotica
+all
+sharad ' s investigations of exotica ' s status in london have turned up a very
+confused state of affairs . this isn ' t being helped by the fact that :
+1 . anjam is rarely at his desk , and can ' t be found anywhere in the building .
+2 . when he is around he isn ' t willing or able to provide all the information
+sharad might need to support exotica .
+this is worrying since much of our business depends on the validity of
+exotica ' s valuations .
+sharad will now request information from anjam via email to leave a trail ,
+and i want to alert you to the fact that sharad will be cc ' ing you in on
+these emails .
+if things don ' t improve soon , i may need to request some assistance in
+extracting this information from anjam .
+many thanks ,
+steve

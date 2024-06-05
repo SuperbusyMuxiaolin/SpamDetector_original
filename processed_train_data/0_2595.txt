@@ -1,33 +1,24 @@
-Subject: agenda for houston visit
-dear vince and mike ,
-to maximize my time in houston an agenda needs to be agreed upon as well as
-milestones .
-here is a summary of what i have in mind :
-* mesoscale weather analysis and forecasting
-* computer models vs . human forecasters , performance issues
-* nwp modeling
-- types of numerical weather predictio models ( nwp models )
-- objective analysis and initialization
-- data iisues and feeds
-- ( physical ) processes that determine the quality of a forecast
-* predictibility and verification
-* visualisation of weather and climate forecasts
-* installation of
-- short - to - medium term forecast system
-- seasonal forecast system
-- system testing and verification
-* issues
-- data feeds
-- platform considerations
-- realtime performance
-what we need to agree on is a firm agenda , milestones , resources , etc . . . . and
-a time table . . . .
-my contact details are :
-office :
-+ 61 2 9229 2319 ( direct )
-cell :
-+ 61 417 695 212
-home :
-+ 61 2 9871 7369
+Subject: re : vacation
+vincent :
+congratulations ! please take whatever time is necessary .
+i hope the complications are only with the in - laws and not the police / u . s .
+immigration , etc .
+let me know if there is anything we can do for you .
 regards ,
-christian
+grant .
+vincent tang on 04 / 17 / 2000 12 : 40 : 26 pm
+to : grant . masson @ enron . com
+cc :
+subject : ?
+hi , grant ,
+how are you ? hope everything is going well .
+my wedding ceremony was very good but the whole
+process is more complex than i expected . it might
+take several more days . so i am wondering , if it is
+not too much a trouble for you , i would like to extend
+my vacation several more days . please let me know .
+best regards ,
+vincent
+do you yahoo ! ?
+send online invitations with yahoo ! invites .
+http : / / invites . yahoo . com

@@ -1,23 +1,28 @@
-Subject: re : meeting
-sorry for the rescheduling . shalesh is unable to make it until late this
-afternoon . since what we have is informal and not urgent , perhaps we can
-catch you for a few minutes just sometime late today or tomorrow before you
-leave . otherwise , it can wait until you return .
+Subject: re : credit reserve simulation for ees
+one the outputs would be expected loss for each of the trials ( flat file ) and
+a graph depicting the distribution ( example below from an early owens
+illinois model )
+- - - - - original message - - - - -
+from : de , rabi
+sent : thursday , february 22 , 2001 3 : 20 pm
+to : o ' leary , martin ; tribolet , michael ; estrems , connie ; bradford , william
+cc : tamarchenko , tanya ; dhar , amitava ; kaminski , vince ; kiatsupaibul , seksan ;
+issler , paulo
+subject : credit reserve simulation for ees
+amitava and seksan have identified the source of the discrepancy between the
+option prices calculated by the credit - reserve model and the stand - alone
+spreadsheet model used in deal pricing . we expect to put a fix in place by
+tomorrow .
+in response to your desire to see more output from credit reserve simulation ,
+i have identified a list of possible items that may be of interest to you for
+credit pricing .
+1 . potential exposure across time
+2 . for each simulated credit event , display :
+default time
+exposure - - is deal - by - deal breakdown of any interest ?
+commodity forward curves ( or spot price ? ) at default time
+i would appreciate it if you could let me know your wish list at your
+earliest .
 thanks ,
-martin
-vince j kaminski
-09 / 19 / 2000 08 : 36 am
-to : martin lin / hou / ect @ ect
-cc : vince j kaminski / hou / ect @ ect , shirley crenshaw / hou / ect @ ect
-subject : re : meeting
-martin ,
-let ' s try bet 1 and 2 : 30 .
-vince
-from : martin lin on 09 / 19 / 2000 08 : 30 am
-to : vince j kaminski / hou / ect @ ect
-cc :
-subject : meeting
-shalesh and i wanted to meet with you briefly , but this morning ' s timing
-isn ' t working out . are you available this afternoon , sometime after 5 pm ?
-thanks ,
-martin
+rabi de
+5 - 4593

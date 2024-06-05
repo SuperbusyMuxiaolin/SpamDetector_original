@@ -1,26 +1,24 @@
-Subject: re : approval is overdue : access request for stewart . range @ enron . com
-i will ask him which specific directories he needs to access .
-- - stinson
-vince j kaminski
-11 / 22 / 2000 08 : 08 am
-to : stinson gibner / hou / ect @ ect
-cc :
-subject : approval is overdue : access request for stewart . range @ enron . com
-stinson ,
-should we do it ?
-vince
-- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 11 / 22 / 2000
-08 : 08 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-arsystem @ mailman . enron . com on 11 / 21 / 2000 07 : 04 : 54 pm
-to : vince . j . kaminski @ enron . com
-cc :
-subject : approval is overdue : access request for stewart . range @ enron . com
-this request has been pending approval for 2 days and you are the
-alternate . please click
-approval to review and act upon this request .
-request id : 000000000007876
-approver : stinson . gibner @ enron . com
-request create date : 11 / 20 / 00 2 : 36 : 29 pm
-requested for : stewart . range @ enron . com
-resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
-resource type : directory
+Subject: re : clustering for gas and power
+frank ,
+following up on our discussions ,
+can you please send us the list of enron ' s curves by geographical region
+separately for gas and power .
+appreciate it ,
+tanya .
+tanya tamarchenko
+04 / 16 / 2001 09 : 16 am
+to : jaesoo lew / na / enron @ enron
+cc : vladimir gorny / enron @ enronxgate , winston jia / enron @ enronxgate , vince j kaminski / hou / ect @ ect
+subject : re : clustering for power
+jaesoo ,
+as we discussed last week on wednesday meeting can you , please ,
+implement clustering for power curves by geographical region . this involves the following :
+1 . deciding together with risk control how many geographical regions we want to use
+and which enron ' s curves belong to each region .
+2 . deciding together with risk control how to choose core curves for each region . this decision can
+be maid based on the a ) position size ; b ) statistical analysis . there might be other considerations .
+3 . doing regression analysis for each curve versus the corresponding core curve .
+winston ,
+can is it possible to run var for the clustering results obtained by jaesoo with clustering done by sas ?
+should we wait for the stage re - fresh and what is the status on this ?
+tanya .

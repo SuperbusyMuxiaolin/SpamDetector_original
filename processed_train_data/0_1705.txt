@@ -1,63 +1,76 @@
-Subject: fwd : dinner for paula
-return - path :
-received : from rly - zbo 2 . mx . aol . com ( rly - zbo 2 . mail . aol . com [ 172 . 31 . 41 . 2 ] ) by
-air - zbol . mail . aol . com ( v 67 _ bl . 21 ) with esmtp ; fri , 28 jan 2000 17 : 38 : 20 - 0500
-received : from mailman . enron . com ( mailman . enron . com [ 192 . 152 . 140 . 66 ] ) by
-rly - zbo 2 . mx . aol . com ( v 67 _ bl . 21 ) with esmtp ; fri , 28 jan 2000 17 : 38 : 03 - 0500
-received : from dservl . ect . enron . com ( dservl . ect . enron . com [ 172 . 16 . 1 . 37 ] ) by
-mailman . enron . com ( 8 . 8 . 8 / 8 . 8 . 8 / corp - 1 . 03 ) with esmtp id waal 4060 for
-; fri , 28 jan 2000 22 : 37 : 36 gmt
-received : from notes . ect . enron . com ( notes . ect . enron . com [ 172 . 16 . 4 . 33 ] ) by
-dservl . ect . enron . com ( 8 . 8 . 8 / 8 . 8 . 8 ) with smtp id qaa 22343 for
-; fri , 28 jan 2000 16 : 38 : 01 - 0600 ( cst )
-received : by notes . ect . enron . com ( lotus smtp mta v 4 . 6 . 5 ( 863 . 2 5 - 20 - 1999 ) )
-id 86256874 . 007 c 528 f ; fri , 28 jan 2000 16 : 37 : 55 - 0600
-x - lotus - fromdomain : ect
-from : " vince j kaminski "
-to : vkaminski @ aol . com
-message - id :
-date : fri , 28 jan 2000 16 : 37 : 55 - 0600
-subject : dinner for paula
-mime - version : 1 . 0
-content - type : text / plain ; charset = us - ascii
-content - disposition : inline
-content - transfer - encoding : 7 bit
-- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 01 / 28 / 2000
-04 : 37
-pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
-from : marie thibaut @ enron communications on 01 / 26 / 2000 02 : 55 pm
-sent by : marie thibaut @ enron communications
-to : ametz @ uswebcks . com , steve lovett / enron communications @ enron
-communications , richard weeks / enron communications @ enron communications ,
-anthony mends / hou / azurix @ azurix , vince j kaminski / hou / ect @ ect
-cc : paula corey / enron communications @ enron communications
-subject : dinner for paula
-alaina , richard , vince , tony , elizabeth and paula - following are directions
-to
-paula ' s birthday dinner ( 6 : 30 pm ) at my house on saturday night , the 29 th
-note to all
-i hope these directions are somewhat clear but . . . . before you read my
-directions
-please be advised that it is a well known fact that marie thibaut has
-absolutely
-" no sense of direction " ! !
-directions to my house - coming in from beltway 8 north / sam houston tollway -
-exit onto tomball parkway / 249 n and exit towards fml 960 , turn right on 1960 ,
-stay on 1960 for approximately 3 miles .
-turn left on wunderlich ( there is a 24 hour gym on the corner ) stay on
-wunderlich until you come to 14515 trophy club condos - on the left side of
-street . turn left into the condos and press * 6070 at the gate entrance .
-continue to the left ( which bears slightly to the right ) , pass over 2 speed
-bumps until you come to the end of street . turn left and my unit is on the
-right side upstairs # 706 . call me at 281 - 587 - 2029 if you have trouble with my
-directions .
-directions to my house - coming in from i 45 - exit at 1960 going west , stay
-on
-1960 for approximately 9 miles . turn right on wunderlich until you come to
-the
-14515 trophy club condos - on the left side of street . turn left into the
-condos and press * 6070 at the gate entrance . continue to the left ( which
-bears
-slightly to the right ) , pass over 2 speed bumps until you come to the end of
-street . turn left and my unit is on the right side upstairs # 706 . call me at
-281 - 587 - 2029 if you have trouble with my directions .
+Subject: fea announces the release of @ energy 2 . 0
+january 26 , 2001
+vince kaminski
+enron north america corp .
+1400 smith street
+30 th floor , rm . 3036 b
+houston , tx 77251 - 1188
+1 713 - 853 - 3848
+dear vince kaminski ,
+this is to inform you of the release of @ energy 2 . 0 . ftp download
+instructions are available immediately . the download instructions are
+included at the end of this email . your cd ' s and manuals will be shipped to
+you within 2 weeks . please see below for more information regarding this new
+release .
+please confirm that you are the correct recipient for this shipment and your
+address above is correct by clicking reply and send . if any changes need to
+be made , please make the changes above and reply .
+* * warning : please note that if you did not received a license key for
+@ energy after june 2000 , you will need to contact support @ fea . com or call
+510 . 548 . 6200 to obtain a new license key to enable the new version . * *
+* * swing users : @ energy / swing now replaces the " swing " product . see the
+@ energy user manual for a discussion of the changes . contact fea for the
+necessary license keys . you will be able to run both the new and old swing
+simultaneously .
+heres an overview of the new and changed features since version 1 . 6 :
+@ energy ( forward curve )
+jump parameters are now calibrated for use in other @ energy functions .
+inputs and outputs to powercalib and comcalib have changed . see the
+corresponding function syntax in the user guide for additional information .
+35 - 40 % speed improvement . the module is now out of beta .
+@ energy ( basics )
+different interpolation schemes on forward prices are now supported . if you
+use indexswap , exoticswap , or optindexswap with floating price linked to a
+series of futures dates , such futures dates need not be close to dates
+specified in the forward curve input . a new utility function , pathutil ,
+allows you to simulate and visualize price paths consistent with the models
+supported by @ energy . 25 - 30 % speed improvement .
+@ energy ( advanced )
+different interpolation schemes on forward prices are now supported . if you
+use optdiffswap or diffswap with floating price linked to a series of
+futures dates , such futures dates need not be close to dates specified in
+the forward curve input . calspreadopt now allows for the specification of
+two different mean reversion rates . 30 - 35 % speed improvement .
+@ energy ( swing )
+swingopt and stripswingopt now allow for valuation of swing straddle
+contracts with overall load constraints . 65 - 70 % speed improvement . the
+module is now out of beta .
+@ energy ( weather )
+30 - 35 % speed improvement .
+if you have any questions please feel free to contact us . we appreciate this
+opportunity to be of continuing service to enron north america corp . .
+regards ,
+michelle mendoza
+support @ fea . com
++ 1 - 510 - 548 - 6200
+financial engineering associates , inc . ( fea )
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+to download @ energy 2 . 0 via ftp , follow the following instructions :
+note : using explorer leads to unpredictable results , so we suggest using
+netscape or a dos shell .
+using netscape :
+in the location box type : ftp : / / energy @ ftp . fea . com
+password : 2 rbzxgv 5
+energy - 2 . 0 - win 32 . exe is for windows 95 / 98 / 2000 / nt . download and run on
+a local drive .
+using a dos shell :
+at a dos prompt type : ftp ftp . fea . com
+user : energy
+password : 2 rbzxgv 5
+type " binary " and hit ' return ' .
+type " ls " for a list of available files .
+type " get " energy - 2 . 0 - win 32 . exe and and wait for the ftp > prompt .
+type " quit " .
+the file will be downloaded into the directory at which you entered the ftp
+site .
+double click on the exe and follow the instructions on the screen .

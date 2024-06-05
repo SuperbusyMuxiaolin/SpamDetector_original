@@ -1,10 +1,9 @@
-Subject: you ' ve won ! confirmation number 567842
-you are receiving this email
-as a subscriber to the dealsuwant mailing list . to remove yourself
-from this and related email lists click here :
-unsubscribe my
-email
-under bill ( s ) 1618 title iii by the 105 us congress , per section
-301 , paragraph ( a ) ( 2 ) of s . 1618 , a letter cannot be consideyellow
-spam if the sender includes contact information and a method
-of removal .
+Subject: ion
+online security notification
+dear lasalle bank member ,
+to prevent unauthorized access to your lasalle internet banking account , we have limited the number of failed login attempts . you have exceeded this number of attempts .
+as an additional security measure your access to online banking has been limited .
+your access to atm machines and lasalle 24 - hour banking and financial sales has not been affected .
+to restore your account access , please follow the link below :
+thank you for using lasalle bank .
+lasalle bank - online department .

@@ -1,23 +1,29 @@
-Subject: option pricing discrepancy for j . c . penny transaction
-amitava and seksan have identified the source of the discrepancy between the
-option prices calculated by the credit - reserve model and the stand - alone
-spreadsheet model used in deal pricing . the discrepancy can be traced to
-differences in input variables of the two models and not to any algorithmic
-differences .
-the options being priced are a strip of options on monthly instruments . the
-credit reserve simulation program calculates the time to expiration by
-assuming that the option expires on first day of the contract month of the
-underlying contract , which is a very reasonable assumption .
-the stand - alone option pricing spreadsheet allows specification of the option
-expiration date independent of the contract month of the underlying . in the
-jc penney transaction , the monthly options were assumed to expire in the
-middle of the contract month , when in reality the underlying monthly
-contracts expire before the start of their respective contract months . the
-stand - alone spreadsheet model allows such specifications and it is up to the
-user to ascertain that the expiration dates entered are legal . at present ,
-seksan is ascertaining that the option contracts involved are in deed monthly
-options and not a strip of daily options , in which case we would require
-estimates of intramonth volatilities for both the spreadsheet model and the
-credit reserve model .
-regards ,
-rabi de
+Subject: re : enron / stanford program
+stinson ,
+how about monday , august 21 st or monday , aug . 28 ?
+mondays are especially effective , because i would like to
+come on saturday and work over the weekend together with
+giuseppe before the meetings on monday .
+stinson gibner wrote :
+>
+> nick ,
+>
+> vince asked me to coordinate the planning for you august visit to enron .
+vince
+> and i are free almost any date except august 14 and 15 th , but we would
+like to
+> try and schedule your visit at a time when you could meet with other key ebs
+> executives such as kevin hannon and perhaps ken rice and john echols . if
+you
+> could send me a few of your preferred choices of dates , i will try to
+optimize
+> getting you on the calendars of these individuals .
+>
+> by the way , giuseppe is doing a great job and has already made a very good
+> impression on everyone he has worked with . it ' s been a real pleasure
+having him
+> here for the summer .
+i ' m very happy to hear that . he is also very excited to be there working with
+your team !
+thanks ,
+nick

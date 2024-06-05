@@ -1,23 +1,18 @@
-Subject: re : factors for us power curves
-tanya ,
-i have checked the factors for us power and all except the
-following are acceptable :
-rl 1 , rlc , rlf , rlj , rlk , rll , rlm , rln , rlz , r 4 a , r 4 b .
-for global liquids , the requisite curves have been submitted to the
-liquids team . i will review their results and confirm .
-naveen
-tanya tamarchenko @ ect
-01 / 25 / 2001 12 : 52 pm
-to : naveen andrews / corp / enron @ enron , rabi de / na / enron @ enron , jaesoo
-lew / na / enron @ enron
-cc : oliver gaylard / lon / ect @ ect
-subject : re : factors for us power curves
-naveen ,
-attached spreadsheet contains the factors for us power curves calculated
-based on 9 / 28 / 00 - 11 / 28 / 00 data in stage with the latest version of vatrfacs .
-by specifying integer number from 1 to 32 in cell jl you can see the factors
-for different regions .
-i suggest to consider the following sets of factors as acceptable :
-rla , rle , r 2 , r 2 a , r 2 b , r 3 , r 3 a , r 3 b , r 4 , r 4 c , r 5 , r 5 a , r 6 , r 7 , r 7 a , r 8 , r 9 .
-please review and confirm .
-tanya .
+Subject: power crisis in the west
+dear vince ,
+i spoke with you briefly yesterday regarding grant masson . you informed me
+that he is no longer an enron employee . i have also been informed that
+grant has not yet been replaced .
+i am inquiring because infocast would like to have an enron representative
+speak at an upcoming conference entitled " power crisis in the west : status it is certainly
+going to be an exciting conference due to all of the controversy surrounding
+the situation in san diego .
+kind regards ,
+nia mansell
+infocast
+conference manager
+( 818 ) 888 - 4445 ext . 45
+( 818 ) 888 - 4440 fax
+niam @ . com
+>
+- power crisis in the west invite . doc

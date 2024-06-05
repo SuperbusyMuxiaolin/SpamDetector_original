@@ -1,11 +1,14 @@
-Subject: day rates forward market
-enclosed for your review is a draft copy of the four examples that i am
-considering showing to aa as we request that they consider the chances of our
-trading partners / customers receiving hedge treatment from trades such as
-these . please review this writing , make suggestions and comments and either
-email those changes back to me or fax them to me at 713 - 646 - 8416 . if you
-would rather send your recommendations via courier , send them to eb 3585 b .
-martin , please suggest wording for insurance products that meet the same
-needs of the customer as the derivative examples . outline any significant
-issues and send me those recommendations by thursday at noon if possible .
-john
+Subject: var for cob lst aug 2000
+hi ,
+i have run the var for cob lst aug 2000 . a summary of the results is as
+follows :
+i have also attached the model .
+again the prices for cocoa beans and gold have not been updated since the
+26 th july . the gamma positions for the metals have been
+added to check the effect on the var . the change was small :
+delta var - $ 4 , 899 , 196
+delta / gamma var - $ 4 , 780 , 797
+this is not a live daily feed as andreas mannually created the file for me
+today so that we could do this check .
+regards
+kirstee

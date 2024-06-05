@@ -1,142 +1,126 @@
-Subject: fyi : sycamore support on network planning
-fyi :
-note that the person mentioned in the text below ( ming lung lee ) is very
-experienced in traditional traffic engineering work . he comes from mci where
-he was responsible for modeling traffic etc . it appears that sycamore
-finally got him . one time they had lost him to corvis ( another optical
-equipment company ) , i guess sycamore went back to him with a better deal ! as
-soon as this guy is available , i ' ll set up an all day technical meeting to
-hash out what needs to be done as far as optimization algorithm development
-is concerned . i want to produce a technical requirement document to clearly
-outline what needs to be done to support dynamic , optical - switched - circuits
-based trading and streaming media applications , etc . having such an industry
-expert help us will help ' justify ' internally all the the effort on the
-traffic analysis side that john griebling has asked us to support . keep in
-mind that even though he is an expert in the field , the field that we need to
-play in has not develop yet . even the emerging data based traffic ( as opposed
-to voice where blocking of traffic is allowed ) analysis is an order of
-magnitude more difficult ( due to uncertain load ) , let alone trading such load
-( which we are planning to do ! ) .
-ravi .
-. . . sycamore hired a guy per griebling ' s request , to work with you on the
-design / planning piece of the business . he will be contracted out to enron
-for a period of 6 months initially . he lives in sf but will be traveling to
-whereever you need him . jim , griebling wanted us to set up a meeting
-between you guys for wednesday morning , if you have time . his name is ming
-lung lee and he comes to us from mci . let me know what works .
-- - - - - forwarded by ravi thuraisingham / enron communications on 03 / 07 / 00 11 : 09
-am - - - - -
-kristin . bethurem @ sycamorenet . com
-03 / 07 / 00 09 : 44 am
-to : ravi thuraisingham / enron communications @ enron communications ,
-kristin . bethurem @ sycamorenet . com
-cc : jim irvine / enron communications @ enron communications ,
-barb . vanbeyerer @ sycamorenet . com , brett . leida @ sycamorenet . com
-subject : re : pooling point profiles
-hi ravi . fair enough , we will make sure we keep you guys in the loop . let
-barb / me know which items we can offload to you guys .
-first thing to be done is barb will schedule a call between us and you all
-to gain a better understanding of a number we are trying to back into with
-the metro solutions ( there are alot of options on our side and we need some
-guidelines ) . i already talked to john about this this morning so we need to
-make some headway on that number . also , we are scheduled for a conference
-call wednesday morning with griebling to discuss where we are at with
-initial solutions for metro . would you like to join us ?
-thursday night , we have a dinner tentatively planned ( talk with griebling
-about who , where , etc . ) . friday we will be meeting all day at the omni in
-interlocken .
-ravi and jim , per my conversations with john , he is going to run point on
-the metro solutions . dorn is swamped with other activities . as for the
-switching piece , we discussed our routing software on monday and i think
-that is all we are going to do until ahi is done then we will set up a
-meeting between our guys and the ahi folks . the expectation is that this
-meeting will occur in the next 30 days .
-also , sycamore hired a guy per griebling ' s request , to work with you on the
-design / planning piece of the business . he will be contracted out to enron
-for a period of 6 months initially . he lives in sf but will be traveling to
-whereever you need him . jim , griebling wanted us to set up a meeting
-between you guys for wednesday morning , if you have time . his name is ming
-lung lee and he comes to us from mci . let me know what works .
-the best ways to reach me are my cell phone or text pager . cell is
-303 - 619 - 2485 and pager is 888 - 467 - 6167 - - you can send me a text message
-from either your pager ( if you have a 2 way ) or press 3 to get an operator .
-thanks , kristin
-- - - - - original message - - - - -
-from : ravi _ thuraisingham @ enron . net [ mailto : ravi _ thuraisingham @ enron . net ]
-sent : monday , march 06 , 2000 9 : 52 am
-to : kristin . bethurem @ sycamorenet . com
-cc : jim _ irvine @ enron . net ; barb . vanbeyerer @ sycamorenet . com ;
-brett . leida @ sycamorenet . com
-subject : re : pooling point profiles
-hi kristin , jim and i will be in broomfield , co from tueday late ~ 10 am
-until
-friday end of day . we would appriciate being in the loop of any discussion
-that
-you may have with john and dorn ( provided that they can be shared with us ) .
-both
-john and dorn are very busy and you can help alleviate some of the
-congestion by
-send information directly to jim barb . vanbeyerer @ sycamorenet . com
-subject : pooling point profiles
-kristin
-attached is the sanitized file promised .
-what is the status on next weeks meeting and more specifically , what is the
-location ?
-jim
-- - - - - forwarded by jim irvine / enron communications on 03 / 03 / 00 03 : 40 pm
-- - - - -
-| - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - >
-| | andre bourque |
-| | |
-| | 03 / 03 / 00 |
-| | 01 : 27 pm |
-| | |
-| - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - >
-|
-|
-|
-| to : jim irvine / enron communications @ enron communications
-|
-| cc :
-|
-| subject : pooling point profiles
-|
-|
-jim :
-as part of your vendor negotiation requirements .
-andre f . bourque
-enron broadband services
-- - - - - forwarded by andre bourque / enron communications on 03 / 03 / 00 01 : 28 pm
-- - - - -
-| - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - >
-| | andre bourque |
-| | |
-| | 03 / 02 / 00 |
-| | 05 : 42 pm |
-| | |
-| - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - >
-|
-|
-|
-| to : ravi thuraisingham / enron communications @ enron
-communications |
-| cc : rob kolosvary / enron communications @ enron communications ,
-|
-| lisa rosenberg / enron communications @ enron communications , andre
-|
-| bourque / enron communications @ enron communications , john
-|
-| griebling / enron communications @ enron communications , laura
-|
-| beneville / enron communications @ enron communications
-|
-| subject : pooling point profiles
-|
-|
-ravi :
-as per your request , the attached profiles have been sanitized of their
-sources .
-regards ,
-andre f . bourque
-enron broadband services
-( see attached file : pooling point profiles . xls )
+Subject: re : pricing credit on thousands of names
+we can continue the discussion in tuesday ' s conference call , but i discussed
+with ben about the issues below , and here are some thoughts . this is not a
+complete approach , but only a starting point for discussion .
+the main task is to build a pricing system for many names .
+this has two components - - -
+1 ) how to price a single name ?
+1 . 1 ) how to price a liquid single name ?
+1 . 2 ) how to price an illiquid single name ?
+2 ) how to efficiently apply the methodology to multiple names ?
+the approach i would take for 1 . 1 is
+a ) define a small set of liquid names
+b ) apply each of the different models we have , say , the six models ben has
+mentioned below , to these names
+c ) include market prices , if any , for these names
+d ) sit with traders , get trader ' s intuition on where each liquid name should
+price and note this on the spectrum of prices obtained in ( b ) and ( c )
+e ) try to determine attributes of the names that may explain the dispersion
+of the trader prices across the models
+f ) quantify these attributes , if possible
+g ) try a different set of liquid names and repeat the process , and see if the
+decisions in the last round still make sense
+the approach for 1 . 2 may be
+a ) define a small set of illiquid names
+b ) apply each of the different models we have to these names
+c ) sit with traders , get trader ' s intuition on where each illiquid name
+should price and note this on the spectrum of prices obtained in ( b )
+d ) try to determine attributes of the names that may explain the dispersion
+of the trader prices across the models
+e ) check if these are similar to the attributes identified for liquid names
+f ) define a master set of liquid names
+g ) look for relationships ( by analyzing cross - section of data ) between
+attributes or prices of illiquid names to those of liquid names
+once a mapping has been defined for an illiquid name to a set of liquid names
+and their attributes , then this mapping can be entered into a table , and the
+pricing can be automated for all names ( in theory ) ! the success will depend
+on the success of the round - table sessions for the approaches for 1 . 1 and
+1 . 2 .
+building a new fundamental model is always a worthwhile task , but we can get
+going with the above approaches immediately in parallel with developing any
+new models that we may build . new models can be added to the suite of
+existing models . i do not believe there will ever be a single model that will
+answer all questions for all names , but rather we can refine the mappings and
+relative choices among models over time , which would mean continuing
+round - table sessions with traders . limited data makes calibration very hard ,
+so i would continually ask the question " what do we calibrate ? " throughout
+the discussions for 1 . 1 and 1 . 2 , and this may help guide us to new models .
+vasant
+benjamin parsons
+06 / 19 / 2000 04 : 11 am
+to : ect london credit trading
+cc : vince j kaminski / hou / ect @ ect , vasant shanbhogue / hou / ect @ ect , amitava
+dhar / corp / enron @ enron , steven leppard / lon / ect @ ect , grant masson / hou / ect @ ect ,
+dale surbey / lon / ect @ ect , david a wall / risk mgmt / lon / ect @ ect , jitendra j
+patel / lon / ect @ ect , oliver gaylard / lon / ect @ ect
+subject : pricing credit on thousands of names
+all -
+our challenge for the next few months is to build an automated system to
+provide differential pricing on thousands of credits [ 5 , 000 by year - end ] .
+most of these credits will be illiquid in terms of market price information ,
+making the challenge harder , and the end result more important in terms of
+competitive pricing advantage . what we need is an overall strategy for how we
+plan to achieve this from the quantitative perspective .
+currently we have several models for credit pricing either in use or under
+development :
+fmc model ( default probability approach ) . using bloomberg ' s fair market ( par
+yield ) curves , probabilities are generated from the risky - libor , then
+default / bankruptcy swap prices computed using expectation methodology .
+fmc model ( credit spread approach ) . using the fmcs , then directly taking the
+libor credit spread at each tenor , adjusting for basis and compounding
+differences .
+bond model ( fmc approach ) . taking the fmcs as benchmark curves , the model
+regresses the input bonds ( specific to a name ) on the two best fitting
+benchmarks . the result is a zero yield curve with the same shape as the fmcs ,
+but with the level tweaked for the specific issuer . prices are then generated
+using both spread and probability approaches . under testing .
+bond model ( spline approach ) . taking only the bonds specific to an issuer ,
+the model fits an exponential cubic spline to the zero - coupon price curve ,
+then builds a zero yield curve from this . under testing .
+market prices . for certain liquid names , or sectors / ratings , cds market
+prices are used , then recovery and event discount used to get bankruptcy swap
+prices .
+kmv . using expected default frequencies ( edfs ) from the kmv model and
+database , we will build a model to price default swaps , making appropriate
+risk adjustments . kmv is being installed now , so model will be worked on next .
+each of these models returns a price ( credit default and bankruptcy ) , and the
+accuracy of the price depends on many factors - liquidity and regulatory
+differences between bond and cds markets , recovery assumptions , risk premia ,
+capital charges , etc . the aim will be to accurately price as many liquid
+names as possible , based upon these models , then use these prices , alongside
+other financial information , as the backbone to a full automated pricing
+system .
+our inputs to the proposed pricing system for a specific name are model and
+market prices for all issuers , alongside name - specific ' soft ' data from
+credit reports and financial statements . if the credit is liquid enough , a
+price will be generated from their own information only . otherwise , the
+credit will be mapped onto a subset of liquid credits , with financial
+information and historical price movements providing the mapping and weights .
+the model price will then be periodically adjusted to align itself with
+market ( or trader ) prices , and this adjustment will feed back into the
+weighting and mapping composition . in loose terms , we could think of the
+system price for an illiquid credit as being a weighted average of liquid
+market prices ( bonds , equities , default swaps ) , where the weightings are
+calibrated using credit analysis , financial ratios , etc .
+the key steps to implementing such a system will be :
+establishing what exactly we want to ' predict ' - is it a price , a rating , a
+probability , or a score ? we will need a clean market history to calibrate to ,
+which we only really have for ratings . we will then need to develop a mapping
+from rating / score to price .
+getting and cleaning the historical financial and credit data required to
+calibrate the model .
+building the mechanics of the model , ie , the calibration methodology . neural
+nets / fuzzy logic seem the obvious candidates , but which exact methods and
+software packages to use ?
+determining an automated methodology for mapping names with limited
+information into the model .
+getting the " true " market price , in order to feed back an error . at present
+such a price exists for very few credits .
+allocating resources to the development . mckinsey claimed such a system would
+take 6 - 10 man - months to develop .
+further ideas or comments are requested , as we need to develop our strategy
+asap . the model description above is fairly vague , as we don ' t yet have the
+knowledge needed to fill in the specific details . further help will be
+especially required on this if we are to continue to move at ' internet speed ' .
+regards
+ben

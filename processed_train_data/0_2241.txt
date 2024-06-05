@@ -1,62 +1,102 @@
-Subject: re : equity investment fair value in turkey
-john ,
-it seems to me that using a risk - free rate is not appropriate . i shall
-elaborate on my
-position and send you a longer message this afternoon ( my time ) .
+Subject: re : enroncredit . com
+vasant , tanya
+any interest ?
 vince
-enron capital & trade resources corp . - europe
-from : john bottomley 06 / 19 / 2000 05 : 55 am
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 04 / 14 / 2000
+03 : 56 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+melanie doyle
+03 / 10 / 2000 04 : 33 am
 to : vince j kaminski / hou / ect @ ect
-cc : john sherriff / lon / ect @ ect , dale surbey / lon / ect @ ect
-subject : equity investment fair value in turkey
-vince ,
-john sherriff recommended that i contact you regarding an interesting ( and
-potentially contentious ) option valuation issue we are currently dealing with
-in london . we hold longish term options in a private company in turkey which
-is currently seeking to ipo . the issue we are discussing with rac is which
-discount rate ( i . e . , risk - free ? and if so turkish or us ? ) should we use to
-value these options
-first , some additional information .
-option characteristics :
-- - 116 , 000 options ( representing 9 % of the company )
-- - term : minimum of 3 years but possibly longer - - still being renegotiated
-- - strike price : 20 % below the upcoming ipo price ( either priced in us $ or
-turkish lire )
-we currently hold the above number of options with a fixed price of $ 118 . 75
-per option but 34 , 800 expire on july 15 , 2000 with the remainder expiring on
-december 15 , 2000 . the company ' s investment bankers ( abn / amro rothchilds )
-are concerned regarding the strike price because it values the company at
-$ 118 million and they believe the company is worth approx $ 300 million . due
-to such a large " valuation gap " , they originally encouraged us to exercise
-all of the options by the end of june ( ipo target date in late sept / early
-oct ) . our counter - proposal is to " swap " instrinsic value for time value by
-repricing the options strike higher while extending their term .
-we are currently negotiating with rac the most appropriate discount rate to
-use to value the options . we are arguing that the us risk free is the most
-appropriate discount rate and their current position is that the company ' s
-historical senior debt cost ( 18 % ) is the more appropriate number to use
-( although admit that this is not justifiable - - only a proxy )
-a few key points :
-- - rac is valuing the options via crystal ball simulations such that this " to
-be negotiated " discount rate is used to calculate the pv of the future
-options intrinsic value in 3 years
-( i . e . , for black - scholes , a higher discount rate yields a higher value but
-the opposite is true using crystal ball simulation )
-- - the model simulates both an ipo / no ipo case and in the case of no ipo we
-have put options for our equity priced at a fixed 17 % return
-- - the model assigns a 30 % illiquidity discount
-- - in the simulated cases where the options are out - of - the - money , we
-obviously do not exercise .
-we understand that for black - scholes option valuation , one needs to be able
-to construct a comparable portfolio of cash flows using equity futures and
-the risk free in order for the valuation to hold . and here is where we reach
-our difficulty : since the company doesn ' t currently trade on a public market
-and since equity futures do not exist for turkish equities , rac is arguing
-that a us risk free is not appropriate to use . our argument is that the
-non - ipo scenario , a 30 % illiquidity discount and a us $ based option
-volatility are already in the factored into the simulation . as such , we feel
-rac ' s approach is double counting .
-if you managed to get through the above , your a patient man ! i ' ll give you a
-call today or tomorrow after you ' ve had a chance to digest the information .
-regards ,
-john bottomley
+cc : brad mcsherry / hou / ect @ ect
+subject : re : enroncredit . com
+hi
+this guy has applied to credit . com in houston , i spoke to him yesterday and
+then passed my comments to bryan seyfried . bryan suggested he may be of
+interest to you . i let this this guy know that he would hear from us either
+way and if we want to pursue the application we would invite him for
+interviews in houston .
+please give me a call if you need more information .
+melanie
+00 44 171 783 7740 .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by melanie doyle / lon / ect on 10 / 03 / 2000 10 : 26
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+bryan seyfried
+08 / 03 / 2000 07 : 51
+to : brad mcsherry / hou / ect @ ect
+cc : melanie doyle / lon / ect @ ect
+subject : re : enroncredit . com
+let ' s start getting these guys in to interview . melanie can do initial
+telephone interviews and then coordinate with brad to ensure we are seeing
+the best people . i would like to move as quickly as practical .
+bs
+from : brad mcsherry on 07 / 03 / 2000 13 : 17 cst
+to : bryan seyfried / lon / ect @ ect
+cc :
+subject : enroncredit . com
+- - - - - - - - - - - - - - - - - - - - - - forwarded by brad mcsherry / hou / ect on 03 / 07 / 2000 01 : 17
+pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+alexander . c . davidson @ us . arthurandersen . com on 03 / 03 / 2000 01 : 55 : 23 pm
+to : brad . mcsherry @ enron . com
+cc :
+subject : enroncredit . com
+dear mr . mcsherry :
+i am responding to your search for credit risk professionals on
+the
+enroncredit . com website . after working for seven years on credit
+risk
+management in a research and consulting capacity , i would like to transfer
+my
+experience in assessing credit risk modeling , information technology
+and
+methodology in complex top - tier institutions to an active credit
+trading
+managerial environment . i am excited about being involved in
+trading ,
+origination , risk management and r & d of credit derivatives .
+i have seven years of experience in credit risk measurement and
+management . i
+have helped design , test and implement credit value - at - risk systems with
+kmv
+corp and with a major japanese bank . i was a major contributor at kmv
+in
+designing the expected default frequency model and i am thoroughly familiar
+with
+its assumptions , strengths , weaknesses and applications . i did the
+empirical
+research that lies behind the kmv default correlation model , the private
+firm
+edf model and i interfaced with j . p . morgan ( now r . m . g . ) personnel during
+the
+creation of the creditmetrics documentation .
+i have excellent analytical , quantitative , statistical and programming
+skills .
+i studied finance extensively when i was a graduate student and i studied
+credit
+risk theory while i worked with kmv and arthur andersen . i am eager to join
+the
+credit derivative team at enroncredit . com where i am certain that my
+combination
+of quantitative research skills , credit risk consulting experience
+and
+technology expertise make me uniquely qualified to support the
+credit
+derivatives trading and risk management function .
+i have included my resume with this e - mail . please e - mail me or call me
+at
+201 - 420 - 0191 ( home ) and 212 - 708 - 4027 ( work ) so that we can discuss
+this
+opportunity further .
+( see attached file : alex . doc )
+* * * * * * * * * * * * * * * * * * * internet email confidentiality footer * * * * * * * * * * * * * * * * * * *
+privileged / confidential information may be contained in this message . if you
+are not the addressee indicated in this message ( or responsible for delivery
+of
+the message to such person ) , you may not copy or deliver this message to
+anyone .
+in such case , you should destroy this message and kindly notify the sender by
+reply email . please advise immediately if you or your employer do not consent
+to
+internet email for messages of this kind . opinions , conclusions and other
+information in this message that do not relate to the official business of my
+firm shall be understood as neither given nor endorsed by it .
+- alex . doc

@@ -1,28 +1,30 @@
-Subject: re : martin lin support for jim
-hi stinson , i have sent an e - mail to martin to give him heads up on what to
-expect in terms of transition . i have talked to jim about this and we are in
-agreement on the following schedule for martin .
-first two week martin will just read up stuff and get up to speed . i have
-suggested some reading material . if you guys can do the same .
-i ' ll set up a meeting for all of us with jim . jim and i will draft a game
-plan document to outline major areas of work that we need to support from the
-traffic engineering perpective ( this will involve our or guys , stinson and
-i ) . martin will be on jim ' s team supporting general network planning
-( through this work i am doing right now for project hamachi , i will support
-jim on other similar initiatives ) projects . martin will work with jim and me
-on this . stinson , i will e - mail a draft of our game plan once i have
-something on paper . after that we can distribute the document to tom
-gros / jean mrha ( trading ) and ted seitz for information .
-ravi .
-stinson gibner @ ect
-02 / 29 / 00 01 : 57 pm
-to : ravi thuraisingham / enron communications @ enron communications @ enron
-cc :
-subject : martin lin support for jim
-ravi :
-since you are spending time with jim irvine , can you find out what martin lin
-needs to do to start coming up to speed in supporting jim ? martin is ready
-to transition , but needs to find out what he will be working on . will jim
-be in houston anytime soon or should martin go to portland to talk to him ,
-etc . . .
-- - stinson
+Subject: enron media / advertising
+simon ,
+please forward a copy of my ken rice presentation to vince kaminski . send
+him the version with the white background .
+vince :
+thanks again for meeting with me today and i am pleased that you are
+interested in discussing this opportunity in more detail .
+feel free to contact me should you have any questions . as discussed , the
+enron media / advertising idea is being developed under ebs , but should
+develop into its own business unit .
+enron media / advertising :
+- advertising risk book
+- physical trades , supported by excess inventory from cable networks , radio ,
+network tv , etc .
+- media buying service
+- alliances with advertising agencies to sell enron ' s " eyeballs " from our
+customer / server - isp relationships i . e . , us west
+- agencies could endorse ebs to their customers ( ford gm , procter & gamble ,
+etc . ) and become an extended enterprise for ebs and our ein applications
+- enron ' s capital , to fund content development for the networks and
+hollywood , which in turn would provide content for our pipes with licensing
+and syndication rights .
+- an enron on line b to b opportunity ( you may want to review the following
+sites : doubleclick . com , agency . com , adauction . com )
+mark and kal :
+vince and i are meeting on tuesday , march 28 th @ 3 : 00 pm to further discuss
+the development of the enron media / advertising concept . can you join us to
+provide a customer and agency perspective ?
+regards ,
+michael p . horning

@@ -1,15 +1,24 @@
-Subject: meeting on the 20 th of march
-robert ,
-this is to confirm the meeting on march the 20 th at 9 : 00 a . m . enron will be
-represented by
-bill bradford , bryan seyfried , , vasant shanbhogue and myself .
-could you , please , advise me what is the best hotel where we could stay
-overnight ,
-close to your location ?
-vince kaminski
-enron corp .
-1400 smith street , room 1962
-houston , tx 77251 - 1188
-phone : ( 713 ) 853 3848
-fax : ( 713 ) 646 2503
-e - mail : vkamins @ enron . com
+Subject: enron storage analysis model audit
+professor darrel duffie
+450 miramonte avenue
+palo alto , ca 94306
+may 8 , 2000
+dear professor duffie ,
+i enclosed with this e - mail enron storage analysis model ( sam ) for your
+review . the attached files include :
+1 ) a brief documentation of the model ( sam . doc ) , 2 ) c - code of the main
+routines , 3 ) excel spreadsheet interface ,
+4 ) sam _ audit . dll .
+dr . vince kaminski , dr . stinson gibner and myself have spent about one year
+in developing this model .
+with traders  , feedback incorporated , the model results are close to reality .
+although there are features to be included ,
+we believe the model is ready for your review . we look forward to your
+comments and suggestions .
+please feel free to contact me should you need additional detail .
+sincerely ,
+zimin lu
+director , enron research
+zlu @ enron . com
+713 - 853 - 6388
+enclosures

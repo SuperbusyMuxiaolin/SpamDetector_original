@@ -1,66 +1,84 @@
-Subject: meetings with petronas on february 8 th
-good morning all :
-the petronas meetings and presentations will be in eb 3321 on the 8 th .
-thanks !
-shirley
-- - - - - - - - - - - - - - - - - - - - - - forwarded by shirley crenshaw / hou / ect on 01 / 11 / 2001
-09 : 11 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-vince j kaminski
-01 / 08 / 2001 12 : 06 pm
-to : rick buy / hou / ect @ ect , david port / market risk / corp / enron @ enron , john l
-nowlan / hou / ect @ ect , jeffrey a shankman / hou / ect @ ect
-cc : vince j kaminski / hou / ect @ ect , shirley crenshaw / hou / ect @ ect
-subject : re : meeting on feb 8 , 2001
-fyi .
-this is the list of the petronas executives visiting enron on feb 8 .
-i have invited them to lunch . would you like to join me for lunch .
-i would like to propose a short courtesy meeting at 10 with jeff / john ( 5 -
-10 minutes ) ,
-followed by rac / research presentation till 11 : 30 .
-vince
-p . s . i shall reserve a conference room for this meeting
-- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 01 / 08 / 2001
-10 : 02 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-azminab @ petronas . com . my on 01 / 07 / 2001 06 : 37 : 33 pm
-to : vince . j . kaminski @ enron . com , shirley . crenshaw @ enron . com ,
-khairuddinbmjaafar @ petronas . com . my
+Subject: now visible red
+to : mike a roberts / hou / ect , jose marquez / corp / enron @ enron , tony
+hamilton / eu / enron @ enron
+cc : stephen bennett / na / enron @ enron
+subject : leaving london
+hi guys . . .
+tony and i wanted to summarize " where we go from here " - here is how we see
+it . i left the string attached - just read below . . . .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by stephen bennett / na / enron on 04 / 26 / 2001
+10 : 44 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+tony hamilton
+04 / 26 / 2001 10 : 46 am
+to : stephen bennett / na / enron @ enron
 cc :
-subject : re : meeting on feb 8 , 2001
-dear kaminski
-4 members from corporate risk management unit
-1 . iqbal abdullah - general manager
-2 . nur azmin abu bakar - head , risk assessment & controls
-3 . zulkifli a rahim - head , risk measurement & systems
-4 . adnan adams - head , special projects
-regards
-vince . j . kaminski @ enron . com on 03 / 01 / 2001 09 : 45 : 02 pm
-to : azminab @ petronas . com . my
-cc : vince . j . kaminski @ enron . com , shirley . crenshaw @ enron . com
-subject : re : meeting on feb 8 , 2001
-dear mr . nur azmin abu bakar ,
-thanks for your prompt reply .
-please , let us know how many members of your team will
-visit enron .
-i look forward to our meeting on february 8 .
-vince kaminski
-azminab @ petronas . com . my on 01 / 02 / 2001 06 : 38 : 33 pm
-to : vince . j . kaminski @ enron . com , khairuddinbmjaafar @ petronas . com . my ,
-shirley . crenshaw @ enron . com
+subject : re : leaving london
+my comments in blue . . .
+tony
+enron capital & trade resources corp .
+from : stephen bennett 26 / 04 / 2001 16 : 36
+to : tony hamilton / eu / enron @ enron
 cc :
-subject : re : meeting on feb 8 , 2001
-dear kaminski ,
-happy new year and thank you for the reply . we are honored to have
-lunch with you and your team however we have another appointment at
-2 . 30 p . m .
-regards
-vince . j . kaminski @ enron . com on 03 / 01 / 2001 07 : 38 : 19 am
-to : azminab @ petronas . com . my
-cc : vince . j . kaminski @ enron . com , shirley . crenshaw @ enron . com
-subject : meeting on feb 8 , 2001
-dear sir ,
-i would like to apologize for the delay in responding to your fax .
-i was on vacation for the last few days .
-i shall be honored to meet your delegation on thursday , february 8 at 10 : 00
-a . m .
-please , let me know if you will be free for lunch after the meeting .
-vince kaminski
+subject : leaving london
+hi guys . . .
+before leaving here i wanted to quickly summarize the projects that have been
+left open :
+1 ) tony shifts his focus slightly toward more development - a little less day
+to day forecasting
+development
+- building and developing a transatlantic heating demand model -
+including shipment
+- building an nao model and index for wx deriv
+- developing a model for the api number
+- examine uk met data and potential for getting ensemble forecasts from
+the ecmwf
+- keep up with non - enron global markets ' future needs without commiting
+current resources
+operational
+- begin daily briefings for agriculture - examine data sources and
+forecast products
+- continue to produce global summary - with help from steve / jose in houston
+- continue to produce 1 - 5 and 6 - 10 day forecasts for europe coordinating
+with houston
+- continue to coordinate on us 6 - 10 day forecasts with houston
+- continue monday / wednesday briefings for crude meetings
+- provide met comment and support toward weekly / monthly / seasonal official
+outlooks from the uk met for wxderiv ( team support from houston )
+- design and develop forecast of met forecast ( try to beat their release
+by at least 1 hour ) prior to each daily update ( like our bloomberg forecaster )
+- identify any additional " market - movers " , anticipate and add value to
+same
+" back - burner "
+- develop a method for providing probability distribution / confidence
+graphics based on numerical forecast guidance and ensemble data
+" on the shelf "
+- daily briefings and products for uk gas
+- daily briefings and products for continental power
+- daily briefings and products for dutch power
+- weather support for coal trading ?
+- daily forecasts of and comment on uk met official 3 - 5 and 6 - 10
+forecasts
+- automation of temperature history / forecast plots from model ensemble
+data
+2 ) steve continues to work on a few ongoing projects and ties up " loose ends "
+on - going
+- automate a process for getting forecast temps ( model / other ) from
+earthsat data
+- continue to produce the us part of the global exec summary
+- consult with tony on 1 - 5 day europe forecast
+- continue to produce port status report - work on expanding this report
+- european forecast verification ( like houston )
+" loose - ends "
+- contract with wsi for met data
+- talk to earthsat about a daily conference call for tony
+- talk to uk met office about a daily conference call for tony
+- refine list of europe forecast cities and get them from earthsat
+- make sure jose didn ' t destroy my house ! !
+3 ) jose
+- continues to investigate data for global ag and works with tony on
+getting ag products up and running
+- makes sure steve ' s dog is in perfect shape to return home this weekend
+( i . e . find one with identical markings before steve gets back ! )
+- order mofongo for london research luncheons !
+that ' s it - see you tuesday . . . .
+steve

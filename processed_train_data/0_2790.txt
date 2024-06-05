@@ -1,21 +1,15 @@
-Subject: reliant tigers interested in enron
-vince :
-below , please find 2 names of wharton students who are interested in
-internships this summer .
-thanks ,
-donna
-- - - - - original message - - - - -
-from : chen , vincent [ mailto : chenvinc @ wharton . upenn . edu ]
-sent : sunday , february 04 , 2001 11 : 24 pm
-to : ' fap '
-subject : re : call from enron
-donna , i had also passed along the resumes of two reliant energy tiger team
-members , david gershenson and james iker , who were both interested in
-working for enron this summer . i had spoken to vince about these candidates
-when we were in houston , and he said he would arrange internships for them
-as well .
-he should already have copies of their resumes and cover letters . please let
-me know if you have any questions or need clarification .
-thanks ! !
-vincent
-- - - - - - - - end of unsent message
+Subject: market maker simulation v . 2
+stinson and vince ,
+i finished the second version of the model which deals with open to close
+trading .
+the major difference is that there is an additional mark to market at open
+price which
+will affect the p / l .
+i also added the output features that john wants to see .
+the cumulative p / l is path dependent , the net open allowed seemingly has
+a strong influence on the cumulative p / l trajectory . ( the anomaly i
+discussed
+with vince is due to the trajectory shape change which needs further
+examination ) .
+could you review what i have done before we talk to john again ?
+zimin

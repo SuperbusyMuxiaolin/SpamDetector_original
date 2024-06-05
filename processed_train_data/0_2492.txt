@@ -1,15 +1,13 @@
-Subject: houston visit
-dear research and related group team members ,
-i will be visiting the houston office from monday 10 th july and hope to have
-another very useful information exchange , including updating you all on the
-activities in the london office by means of a presentation . for those of you
-who are unfamiliar with me , i have been looking after quantitative analysis
-for the european markets for the last 3 + years , in particular focusing on
-derivatives pricing and risk management techniques ( e . g . load forecasting ,
-inflation curve building , financial options on real power stations etc . ) -
-look forward to meeting you all again soon .
-best regards ,
-anjam ahmad
-research group
-enron europe
-cellular : ( 07747 ) 868131
+Subject: merit increases
+norma ,
+it seems that there is a bug in the system . i made an error mixing equity and
+merit raises in one column . the system does not allow me to correct the
+mistake by
+moving the entries from one column to another . i can enter the changes , but
+after i save them the system reverts to original designations .
+as a result , the columns contain mixed entries related to merit and equity
+raises .
+the column totals are misleading .
+i am taking a csv version home to continue making adjustments .
+i shall work at home monday ( 281 367 5377 ) .
+vince

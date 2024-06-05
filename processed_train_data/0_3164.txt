@@ -1,10 +1,9 @@
-Subject: reactions password reminder
-= = = = = = = = = = = = = = = = = reactions password reminder = = = = = = = = = = = = = = = = =
-hi ,
-we do not seem to be able to see you on our systems , please try registering
-and you will automatically receive a username and password .
-if you have already registered on this website , then please let us know and
-we will investigate further .
-regards .
-reactions support - euromoney publications plc .
-tel : + ( 44 ) 0171 779 8927 fax : + ( 44 ) 0171 779 8704
+Subject: request submitted : access request for amitava . dhar @ enron . com
+you have received this email because the requester specified you as their vp .
+please click
+approval to review and act upon this request .
+request id : 000000000011185
+request create date : 12 / 21 / 00 4 : 20 : 10 pm
+requested for : amitava . dhar @ enron . com
+resource name : vpn
+resource type : applications

@@ -1,13 +1,17 @@
-Subject: eol stuff
-vince -
-i spoke with tom , and i completely agree and would like to hand all this eol stuff over to you .
-we need a sun server to take over the task . as it happens martin lin has one in his office he ' s not using and up to the task . his box could serve sas to enron , as well as handle listening in on the eol feedds and maintaining its database .
-martin ' s box technically belongs to ebs , but i think they are downsizing and wouldn ' t mind giving it up .
-in this way , you would have complete physical and administrative custody over the data and any work you do with it . i needn ' t be involved , and you can know your work is completely confidential .
-i ' ll make sas and the eol software available , as well as the necessary ram the server , at no charge . you just need to summon up some sysadmin resources to finish the job . there is a fine unix guy named ben thompson who will support you , i ' m sure .
-task :
-1 ) upgrade ram on martin ' s server
-2 ) install newest solaris os on server
-3 ) install tibco and gnu software on server
-4 ) install sas on server
-clayton
+Subject: contact - joao c . neves & enron
+dear vince :
+it is my understanding that ms . kate szablya ( whom you apparently
+met this past week ) of power brokers has expressed to you my interest in
+considering the possibility of working at enron . in addition i belive that
+she has forwarded to you my cv .
+my communication with ms . szablya has been less than satisfactory
+for some time . therefore ms . szablya is nolonger representing me and i would
+like ms . rita de claris ( whom i cc ) of de claris & associates ( 713 - 868 -
+4440 ) to represent me in the future in this search . i have instructed her to
+forward my cv to you once more .
+forgive me for this , perhaps unusual , step but i regard highly the
+opportunity of working at enron and do not feel i am being adequately
+represented at present .
+i look forward to hearing from you soon .
+best regards
+joao

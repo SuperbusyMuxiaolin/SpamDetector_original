@@ -23,6 +23,9 @@ def copy_and_label_files(file_list, dest_dir):
 
 # 定义SPAM和HAM文件夹路径
 spam_dir = 'original_data/enron2/spam'
+spam_dir2 = 'original_data/enron1/spam'
+spam_dir3 = 'original_data/enron1/spam'
+
 ham_dir = 'original_data/enron2/ham'
 dest_dir1 = 'processed_train_data'
 dest_dir2 = 'processed_test_data'
@@ -34,13 +37,16 @@ os.makedirs(dest_dir2, exist_ok=True)
 
 # 获取SPAM文件（70%），标记为1
 train_spam_files, test_spam_files = get_files(spam_dir, label=1, train_ratio=0.7)
+train_spam_files2, test_spam_files2 = get_files(spam_dir2, label=1, train_ratio=0.7)
+train_spam_files3, test_spam_files3 = get_files(spam_dir3, label=1, train_ratio=0.7)
+
 
 # 获取HAM文件（70%），标记为0
 train_ham_files, test_ham_files = get_files(ham_dir, label=0, train_ratio=0.7)
 
-# 合并文件列表
-train_files = train_spam_files + train_ham_files
-test_files = test_spam_files + test_ham_files
+# 合并文件列表,平衡两个类别的文件数
+train_files = train_spam_files + train_ham_files + train_spam_files2 + train_spam_files3
+test_files = test_spam_files + test_ham_files + test_spam_files2 + test_spam_files3
 
 # 将文件复制并标记到目标目录
 copy_and_label_files(train_files, dest_dir1)

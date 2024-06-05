@@ -1,48 +1,46 @@
-Subject: site license for power world
-gentleman ,
-kevin presto concurred on the purchase of a site license as recommended by
-vince . what are the thoughts of others ? i am available to demo the package
-if others would like to see it .
-thanks ,
-lance
-- - - - - - - - - - - - - - - - - - - - - - forwarded by lance cunningham / na / enron on 11 / 20 / 2000
-01 : 51 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Subject: re : carnegie mellon team meeting
+unfortunately i do not have a phone right now so i will have to call as soon
+as they get me up and running . i went ahead and sent out the dates we have
+on schedule currently with the intention that if we get new dates they will
+be announced in the team meeting on thursday . hope that is okay . i needed
+to get a message out to participant soon so we don ' t get in a bind in a
+couple of weeks .
+kristin
 vince j kaminski @ ect
-11 / 10 / 2000 09 : 16 am
-to : vince j kaminski / hou / ect @ ect , richard lewis / lon / ect @ ect , tim
-belden / hou / ect @ ect , tim . heizenrader @ enron . com , kevin m presto / hou / ect @ ect ,
-george hopley / hou / ect @ ect
-cc : lance cunningham / na / enron @ enron
-subject : site license for power world
-gentlemen ,
-i recommend that we purchase this package and split the cost 3 ways between 3
-power trading desks .
-i think that we should go for option 3 ( ~ $ 15 , 000 ) .
-lance cunningham in my group looked at this software package and found it
-very useful for modeling transmission problems .
-please , feel free to ask him for technical details in support of this
-recommendation .
+08 / 28 / 2000 11 : 02 am
+to : kristin gandy / na / enron @ enron
+cc : vince j kaminski / hou / ect @ ect
+subject : re : carnegie mellon team meeting
+kristin ,
+what about the visit to the campus on nov . 3 ?
+any resolution ?
 vince
-- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 11 / 10 / 2000
-09 : 17 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-lance cunningham @ enron on 11 / 09 / 2000 06 : 15 : 14 pm
-to : vince j kaminski / hou / ect @ ect
-cc : vasant shanbhogue / hou / ect @ ect
-subject : site license for power world
-vince ,
-we have three options to increase our availability across enron for the power
-world load flow software .
-option 1 , upgrade to a site license for the load flow software only . price
-$ 9 , 990 . 00
-this would give all of enron the ability to perform load flows , but not
-determine marginal cost or available transfer capacity ( atc ) because only the
-optimal power flow ( opf ) version can perform that task .
-option 2 , site license for the load flow and purchase 1 opf package for
-walter coffer ' s group . price $ 11 , 240 .
-this would give all of enron the ability to perform load flows and one other
-group the ability to determine marginal cost and atc .
-option 3 , site license for load flows , opf and atc . price $ 14 , 990 . 00
-this would give all of enron the ability to perform load flows , marginal
-cost , and atc .
-regards ,
-lance
+kristin gandy @ enron
+08 / 28 / 2000 10 : 03 am
+to : vince j kaminski / hou / ect @ ect , kent densley / corp / enron @ enron , dorothy
+mccoppin / fgt / enron @ enron , kevin kindall / corp / enron @ enron , andre
+beskrowni / enron communications @ enron communications , gaurav
+babbar / hou / ect @ ect , john walt / corp / enron @ enron , john b gordon / na / enron @ enron ,
+dave cummings / enron @ gateway
+cc : judy nyegaard / hou / ect @ ect
+subject : carnegie mellon team meeting
+greetings , carnegie mellon recruiting team !
+each of you has been chosen to represent enron for our fall 2000 recruiting
+efforts at carnegie mellon university . as part of the team , you will be
+challenged with choosing the best candidates from carnegie mellon ' s graduate
+school to join our associate program .
+our first campus event will be on september 15 and interviews will be held on
+campus december 11 and 12 . i hope you are all able to participate in the
+exciting process of recruiting young talent .
+we will be more formally organising ourselves in the next couple of weeks .
+currently , we are planning to have a brief team meeting in order to make
+introductions , inform you about the associate program , and discuss the fall
+recruiting calendar . to that end , please contact me with any questions or
+comments you may have .
+the team meeting date is set for august 31 st at 10 am in room 19 c 2 .
+please rsvp to me as soon as possible .
+i look forward to meeting you all soon .
+sincerely ,
+kristin gandy
+associate recruiter
+x 53214

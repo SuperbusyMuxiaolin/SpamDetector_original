@@ -1,54 +1,64 @@
-Subject: re : real options conference in cambridge
-lenos
-i ' d like to give a talk entitled " diagrammatic representation of real options
-in enron " , in which i will give a brief run - down of a diagrammatic technique
-i have developed for representing real option deals . my notation allows
-originators , managers and quants to communicate unambiguously , while still
-appreciating the complexity and subtlety of real optionality . i have defined
-a " diagrammatic grammar " which guarantees that the pricing of the deal
-follows immediately and automatically from the diagram .
-i propose to introduce the symbols and grammar , then go on to present some
-suitable examples of diagrams . if appropriate i ' ll talk about the links with
-dynamic programming . ( i will need some guidance as to how much technical
-detail i can go into based on the audience . )
-all the best ,
-steve
-enron capital & trade resources corp .
-from : lenos trigeorgis
-04 / 20 / 2000 08 : 45 pm
-to : " steven leppard "
-cc : " vince j kaminski "
-subject : re : real options conference in cambridge
-steve
-thanks for agreeing to talk . i attach the program to see the other speakers
-and style ( it is addressed to a professional autience )
-please give me a suitable title for the talk ( replacing kaminski  % s slot on
-july 6 / energy session ) and the details of your position
-thanks
-lenos
-at 05 : 01 _ _ 04 / 20 / 00 + 0100 , steven leppard wrote :
->
->
-> dear prof trigeorgis
->
-> vince kaminski has suggested that i would be a suitable speaker at your july
-> conference in cambridge , and i ' d be happy to come along if required . please
-> could you send me appropriate details , and the audience type expected .
->
-> many thanks .
->
-> yours sincerely ,
-> steve leppard
->
->
->
->
-- 4 thconfsessions . doc
-lenos trigeorgis
-professor of finance
-university of cyprus
-dept of business
-75 kallipoleos , po box 20537
-cy 1678 nicosia cyprus
-tel : + 357 2 892261
-fax : 339063
+Subject: restricted list
+neither ena / rac / egf employees nor family members or others living in their
+household or financially dependent on the ena / rac / egf employee may purchase
+or sell securities of any entity ( or derivatives thereof ) listed on the
+restricted list for your or their personal or related accounts or recommend
+the purchase or sale of such securities to any person , except with the prior
+approval of the compliance department in consultation with the ena legal
+department .
+in addition to the trading restrictions above , should you at any time possess
+non - public material information about any public company , you , your family
+members and anybody that is financially dependent on you , are restricted from
+trading in that issue , and you may not disclose the non - public material
+information to anyone that does not have a business need to know .
+company name stock symbol
+3 tec energy corp . tten
+adrian resources adrrf
+beau canada exploration ltd bau cn
+belco oil & gas corporation bog
+bonus resource services corp bou
+brigham exploration bexp
+canfibre group ltd . cfgl
+carrizo oil & gas inc . crzo
+costilla energy cose
+crown energy croe
+cynet , inc . cyne
+cypress energy cyz
+esenjay exploration esnj
+firstworld communications inc . fwis
+hanover compressor co . hc
+ice drilling enterprises inc . idf
+industrial holdings , inc . ihii
+inland resources , inc . inln
+kafus environmental industries , inc . ks
+nakornthai strip mill public co ltd nsm set
+paladin resources plc plr ld
+paradigm geophysical pgeof
+place resources , inc . plg cn
+quanta services inc . pwr
+queen sand resources , inc . qsri
+quicksilver resources inc . kwk
+saxon petroleum , inc . sxn cn
+startech seh cn
+syntroleum corp . synm
+tejon ranch corp . trc
+titan exploration texp
+transcoastal marine services , inc . tcms
+the restricted list is solely for the internal use of ena / rac / egf . no one
+may engage in discussions regarding whether a security is or is not on the
+restricted list with persons outside ena / rac / egf without specific clearance
+from the compliance department in consultation with the ena legal department .
+in addition to the above , you are reminded that pursuant to enron corp . ' s
+risk management policy ( " policy " ) , no ena / rac / egf employee may engage in the
+trading of any " position " ( " position " means any commodity , financial
+instrument , security , equity , financial asset or liability that are
+authorized for trading in the policy for the benefit of any party other than
+ena / rac / egf , whether for his / her own account or the account of any third
+party , where such position relates to ( i ) any commodity , financial
+instrument , security , equity , financial asset or liability which falls within
+such employee ' s responsibility at ena / rac / egf or ( ii ) any energy commodity .
+the prohibitions listed above do not replace or modify the policies set forth
+in ena ' s policies and procedures regarding confidential information and
+securities trading , enron corp . ' s risk management policy , or enron corp . ' s
+conduct of business affairs . should you have any questions regarding the
+above , please contact me at ext . 31939 .

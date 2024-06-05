@@ -1,24 +1,21 @@
-Subject: mg var results for the 27 th july
-hi ,
-i have run the var with updated factor loadings for the gold , silver and cocoa
-bean positions . the biggest change in var from
-adding this information has been to the cocoa bean position which has
-increased from approx $ 45 , 900 to $ 506 , 553 .
-the overal var has not changed by very much as the position file i was sent
-from andreas had not changed from the 26 th - i
-have queried this and it will not be a problem to re - run the numbers on
-monday if i recieve a further file .
-the var summary for all the metals is as follows :
-also , after having a conversation with bjorn about stress / scenario analysis i
-thought i might quickly try to set up a few scenarios to
-see how sensitive the var is to a position change in aluminium , nickel and
-copper .
-i have only applied position increases ( thge direction of the shifts are
-dependent on the monthly outright position direction ) up until dec 2000 .
-the shifts and results are given in the following attached spreadsheet .
-it is interesting that the individual var ' s are particuarly sensitive to
-increasing the position for nickel .
-i would like to discuss these results on monday and any further suggestions
-for senarios would also be gratefully recieved .
-have a good weekend ,
-kirstee .
+Subject: ppa auction
+the government of alberta power purchase arrangement auction of the regulated
+generation plants and units commenced wednesday , august 2 nd , and will
+continue through a number of rounds over a number of days and possibly
+weeks . enron canada power corp . ( ecpc ) , a wholly - owned subsidiary of enron
+canada corp . , is an invited bidder participating in the auction . for
+strategic corporate purposes and as a result of restrictions imposed under
+the auction participation agreement and the auction rules ( compliance with
+which is secured by a us $ 27 mm bid deposit ) , any information , details or
+speculation regarding ecpc ' s involvement in the auction , including whether
+ecpc is participating or continuing to participate in the auction or has
+withdrawn from the auction at any time , the plants or units ecpc is or is not
+bidding on , the amounts ecpc is bidding or is approved for bidding , and any
+other information whatsoever about the auction process is to be kept strictly
+confidential . in particular , the auction has been followed closely by the
+media and may be of interest to shareholders , investors and other
+constituents , and such communications are prohibited until after the auction
+has been completed and the winning bidders have been announced by the
+government of alberta .
+if you have any questions or concerns , please contact peter keohane , enron
+canada corp . , at 403 - 974 - 6923 or peter . keohane @ enron . com .

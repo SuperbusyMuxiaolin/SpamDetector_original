@@ -1,14 +1,8 @@
-Subject: lng models
-can you guys please take a look , and eric , please show to farzad . . . . jeff
-- - - - - - - - - - - - - - - - - - - - - - forwarded by jeffrey a shankman / hou / ect on 07 / 07 / 2000
-07 : 37 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-merritt thomas 07 / 06 / 2000 12 : 00 pm
-to : jeffrey a shankman / hou / ect @ ect
-cc :
-subject : lng models
-jeff ,
-here are some models which i received from rotenberg ' s lng group when i was
-in houston last month . i haven ' t had the opportunity to really take a look
-at them , but you will probably want to pass them along to your lng people .
-thanks ,
-merritt
+Subject: martin jermakyan
+hi there ,
+i am favourably impressed by martin . i think he ' s an intelligent person
+and understands the power industry . he has good ideas about
+modeling various of things ( even though he thinks that
+technical constraints are just technicalities and are easy to deal with ) .
+please take note that he admitted he does not like to
+write code ( he has / had someone else doing it for him ) .

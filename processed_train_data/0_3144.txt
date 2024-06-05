@@ -1,9 +1,10 @@
-Subject: hello vince ,
-i enjoyed talking with you this morning . per our conversation , here is
-norberto valdes ' resume . i will call you in about an hour to make sure you
-received it . thank you and let me know when you would like to meet him .
-sincerely ,
-lisa ford
-281 ) 913 - 2076
-( see attached file : resumen 4 . doc )
-- resumen 4 . doc
+Subject: request submitted : access request for stewart . range @ enron . com
+you have received this email because you are listed as an alternate data
+approver . please click
+approval to review and act upon this request .
+request id : 000000000007876
+approver : stinson . gibner @ enron . com
+request create date : 11 / 20 / 00 2 : 36 : 29 pm
+requested for : stewart . range @ enron . com
+resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
+resource type : directory

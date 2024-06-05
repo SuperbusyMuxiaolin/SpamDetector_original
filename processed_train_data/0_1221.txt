@@ -1,34 +1,17 @@
-Subject: sddp model
-john ,
-attached is a copy of the sddp methodology manual , written by the
-developers . the model was developed by mario pereira , who is the proprietor
-of psri ( power systems research inc ) in rio de janeiro . their web site is :
-www . psr - inc . com where you can find more information about the company and
-contact details . mario and most of the staff speak english , so phone calls
-are possible .
-development of sddp was originally done on a world bank contract to compare
-the benefits of new generation and transmission system interconnections in
-central america . it has since found much wider application . the code runs
-on a pc , and is licensed to a number of consultants , power companies , etc .
-while i was with ecnz in wellington , new zealand , we purchased a copy around
-1994 .
-the model works with weekly or monthly time steps , with a time horizon of
-from 1 to 10 years , for mid to long range planning of hydro thermal power
-systems . it represents loads in each period as from one to five load blocks ,
-so it is not a chronological model . this type of model can not handle
-thermal plant ramp rates and similar chronological system constraints . i ' m
-not sure how important that would be to you . the optimization phase of the
-model takes into account hydrological uncertainty using a form of stochastic
-dynamic programming with sampling . this phase sets up a function for water
-value in each large reservoir in the system . the simulation phase uses a
-number of hydrological outcomes to collect statistics on how the system would
-operate . the water values can be used with the short term optimization mode
-of sddp or in some other more detailed short term optimization model .
-most constraints found in hydro systems can be modelled . many transmission
-constraints can be modelled . a dc load flow option can be used to determine
-bus nodal prices .
-a visual basic user interface is provided which reads and writes text files .
-if you ' d like to know more about sddp , you could call me here in houston .
-( tel 001 713 345 8539 )
-yours
-tom halliburton
+Subject: var methodology change
+gentlemen ,
+below is a plan of action for moving along with the var methodology change
+related to forward - forward volatility :
+1 . finalize the methodology proposed ( research / market risk )
+- determine the time period used to calculated forward - forward vols vs .
+correlations ( 20 days vs . 60 days )
+- stabilize the calculation for curves and time periods where the curve does
+not change based on historical prices , implying volatility of 0 %
+2 . get approval for the methodology change from rick buy ( see draft of the
+memo attached ) - john lavorato and john sherriff
+3 . develop and implement the new methodology in a stage environment
+( research / it )
+4 . test the new methodology ( market risk , traders )
+5 . migrate into production ( research / it )
+please let me know if this is reasonable and meets everyone ' s expectations .
+vlady .

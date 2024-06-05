@@ -1,28 +1,31 @@
-Subject: year end 2000 performance feedback
-note : you will receive this message each time you are selected as a reviewer .
-you have been selected to participate in the year end 2000 performance
-management process by providing meaningful feedback on specific employee ( s ) .
-your feedback plays an important role in the process , and your participation
-is critical to the success of enron ' s performance management goals .
-to complete requests for feedback , access pep at http : / / pep . corp . enron . com
-and select perform review under performance review services . you may begin
-providing feedback immediately and are requested to have all feedback forms
-completed by friday , november 17 , 2000 .
-if you have any questions regarding pep or your responsibility in the
-process , please contact the pep help desk at :
-houston : 1 . 713 . 853 . 4777 , option 4
-london : 44 . 207 . 783 . 4040 , option 4
-email : perfmgmt @ enron . com
-thank you for your participation in this important process .
-the following is a cumulative list of employee feedback requests with a
-status of " open . " once you have submitted or declined an employee ' s request
-for feedback , their name will no longer appear on this list .
-review group : enron
-feedback due date : nov 17 , 2000
-employee name supervisor name date selected
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-crenshaw , shirley j wincenty j kaminski oct 26 , 2000
-tamarchenko , tanya v vasant shanbhogue oct 26 , 2000
-villarreal , norma e sheila h walton oct 26 , 2000
-walton , sheila h david oxley oct 27 , 2000
-yaman , sevil vasant shanbhogue oct 27 , 2000
+Subject: to ops - revised february bod approved risk management policy
+fyi
+- - - - - - - - - - - - - - - - - - - - - - forwarded by cassandra schultz / na / enron on 02 / 18 / 2001
+10 : 44 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+from : cassandra schultz
+02 / 18 / 2001 10 : 26 pm
+to : bob m hall / na / enron @ enron , leslie reeves / hou / ect @ ect , jeffrey c
+gossett / hou / ect @ ect , peggy hedstrom / cal / ect @ ect , stacey w white / hou / ect @ ect ,
+brent a price / hou / ect @ ect , scott earnest / hou / ect @ ect , sheila
+glover / hou / ect @ ect , d todd hall / hou / ect , cindy horn / lon / ect @ ect , brenda f
+herod / hou / ect @ ect , mike jordan / lon / ect @ ect , howard carter / eu / enron @ enron ,
+andrew cornfield / lon / ect @ ect , james new / lon / ect @ ect , orjan
+agdesteen / osl / ect @ ect , james new / lon / ect @ ect , marcelo parra / nyc / mgusa @ mgusa ,
+louis colarusso / nyc / mgusa @ mgusa , heidi
+mason / enron _ development @ enron _ development , jan - erland bekeng / ap / enron @ enron ,
+kevin rhodes / eu / enron @ enron , naomi connell / lon / ect @ ect
+cc : sally beck , shona wilson , chris abel
+subject : to ops - revised february bod approved risk management policy
+attached is the revised risk management policy incorporating the bod ' s
+changes - please discard the previously circulated version i sent out prior
+to the bod meeting . i ' ve also included a recap of substantive changes since
+the october 2000 version that was circulated to you in conjuction with the
+compliance certificates last fall , but you should read the policy to enhance
+your understanding , and distribute it to your groups as some changes are
+significant and are detailed further in the policy . i did notify the office
+of the chair for each of your business units of these changes earlier this
+week , and i will also provide them with a copy of the revised policy .
+if you have any questions , feel free to give me a call at x 30429 .
+regards ,
+cassandra schultz
+market risk management

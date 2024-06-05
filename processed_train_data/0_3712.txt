@@ -1,14 +1,21 @@
-Subject: your encouragement would be appreciated
-the gas and power trading organizations have had a tremendous year .
-sometimes we as traders forget some of the crucial parts of the organization
-that significantly contributed to that success . i believe the weather group
-comprised of mike robert ' s , jose marquez , stephen bennett and dave ryan from
-power are one of those groups . these individuals have done a tremendous job
-of predicting summer weather along with the route hurricanes would take . the
-greatest achievement has been the november and december winter forecast .
-they held fast to their cold forecast even when outside services were
-moderating . on a score card with all other services they definitely deserve
-an " a + " . when you are down on the 32 nd floor it would be nice if you would
-stop and congratulate them on a tremendous job and their contribution to our
-success .
-thanks , jim schwieger
+Subject: completion of lng model review
+jeff ,
+fyi . we completed the review of the lng model .
+the copy of the review is available if you want to take a look at it .
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 10 / 17 / 2000
+04 : 26 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+bob lee @ enron
+10 / 16 / 2000 01 : 53 pm
+to : vince j kaminski / hou / ect @ ect
+cc : zimin lu / hou / ect @ ect , stinson gibner / hou / ect @ ect
+subject : completion of lng model review
+the review of eric groves ' lng model spreadsheet has been completed . no
+independent model was available for use in the comparison ; however , the model
+appears complete and accurate in representating all important cost and
+revenue elements .
+if this financial model is coupled with a optimization model for planning
+ship usage in the future , additional variables may be needed to represent the
+variability of trip times , weather factors , etc . a reference describing
+these possible additions was provided .
+bob lee

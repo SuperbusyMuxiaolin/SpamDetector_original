@@ -1,20 +1,14 @@
-Subject: london exotica library migration
-fyi
-- exotic library :
-issue : the london version is different from the houston version .
-the problem is that some bugs in the london version were found .
-temporary solution : bugs were immediately fixed at a local level .
-permanent solution : the london exotic version will be replaced by the
-houston exotic version .
-the houston version is expected to be robust .
-sharad ( london research ) is spending this coming week in houston .
-when sharad is back to london , the houston version will replace the london
-version .
-approach : steven leppard is designing a regression testing procedure that
-will involve it to fully test the similarity of the two versions .
-the procedure is expected to take at least one month from commencement .
-hopefully , no discrepancies will be found .
-in the adverse case it happens , it will be necessary to conduct an analysis
-to decide what is wrong .
-if necessary further testing and development has to take place .
-rodrigo
+Subject: the business of power
+june 23 , 2000
+international electric industry conference
+for the past five years , the association of power exchanges ( apex )
+has held its business meetings in different locations around the
+world . for the first time , an industry conference is being held to
+compliment these meetings , providing a means to connect industrial
+electricity exchanges , isos and pools with senior leaders in the
+worldwide electric industry .
+for more information we have attached an adobe acrobat pdf file . the
+document requires adobe acrobat reader 2 . 1 or higher . the latest
+version is available to download from http : / / www . adobe . com .
+or view our website : http : / / www . apex 2000 conf . com .
+# 12 - apex 2000 . pdf

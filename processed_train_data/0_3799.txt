@@ -1,38 +1,41 @@
-Subject: your visit to sydney in july
-vince
-i support raymond ' s email and would welcome the opportunity to have you give
-a presentation ( formal or informal ) to the trading group on latest research
-initiatives in houston . please let us know your schedule so that we do not
-overly burden you during your visit . look forward to seeing you and catching
-up over a beer .
-thnx
-paul
-- - - - - - - - - - - - - - - - - - - - - - forwarded by paul quilkey / enron _ development on
-07 / 05 / 2000 08 : 23 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-raymond yeow
-07 / 04 / 2000 08 : 21 pm
-to : vince j kaminski @ ect
-cc : paul quilkey / enron _ development , kirsty hogarth / enron _ development , elliott
-katz / enron _ development , david gray / enron _ development
-subject : your visit to sydney in july
-dear vince ,
-hi ! , it ' s only two weeks until the aust energy risk ( 17 - 19 july ) seminar in
-sydney .
-is risk organising your hotel ?
-otherwise , kirsty can organise for you ,
-eg harbour view at the regent or convenience to the seminar location at the
-sheraton ?
-we would like to make sure that you have all the necessary " comforts " of home
-when you are with us ,
-elliott & david can set up a desk for you in the office / trading room with
-phone etc
-so you can use one of our pc to access email or plug in your laptop .
-please let elliott or david kmow your requirements .
-how long will you be with us ?
-is this your first trip to sydney ?
-there are several of us in the office who would like to take you for a
-meal ( s ) / show you the sights etc and
-discuss the latest research findings with you whilst you are in sydney eg var .
-hear from you soon .
-raymond
-725 pm 4 july
+Subject: re : final pivot table for mg metals globals positions data
+dear all ,
+please see attached spreadsheet - we will have to think of a way to automate
+the position update - right now it ' s a manual process to convert the text
+file that andreas sends us to proper spreadsheet format and then pivot table
+the results - only takes about 20 minutes to do this however . note that the
+version la var model links via vlookup to the spreadsheet attached ( as you
+know , we have to use vlookup because mg does not necessarily have positions
+in all forward months , whilst the pivot table only produces numbers for
+forward months with a position ) .
+regards ,
+anjam
+x 35383
+positions as of 19 th july
+- - - - - - - - - - - - - - - - - - - - - - forwarded by anjam ahmad / lon / ect on 25 / 07 / 2000 20 : 41
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron europe
+from : anjam ahmad 25 / 07 / 2000 19 : 17
+to : cantekin dincerler / hou / ect @ ect
+cc : tanya tamarchenko / hou / ect @ ect , kirstee hewitt / lon / ect @ ect , grant
+masson / hou / ect @ ect , andreas . barschkis @ mgusa . com @ enron
+subject : re : positions data
+our pivot table ; we noticed that copper position for 19 th july has option
+included but this is not reported in mercur - i guess we should include the
+5 , 248 tonnes for the copper option for 2000 . 09 , but we won ' t show any gamma .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by anjam ahmad / lon / ect on 25 / 07 / 2000 19 : 18
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+enron europe
+from : anjam ahmad 25 / 07 / 2000 19 : 14
+to : tanya tamarchenko / hou / ect @ ect
+cc : cantekin dincerler / hou / ect @ ect , andreas . barschkis @ mgusa . com @ enron
+subject : re : positions data
+hi tanya ,
+we are using the data for 19 th july from andreas - see file attached . we are
+using this because we can reconcile to mercur print out that we got from
+andreas last wednesday . if you don ' t mind , perhaps cantekin can try again
+with this new sheet attached . we already looked at it , but would like to see
+what cantekin can come up with independently . i think the positions changed
+a lot from 3 rd july ( your data ) to 19 th july .
+thanks ,
+anjam & kirstee

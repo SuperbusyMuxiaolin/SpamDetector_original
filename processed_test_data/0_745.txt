@@ -1,43 +1,29 @@
-Subject: re : enron exotica options library
-patrick ,
-we have those two models in the exotica library . you need to add exotica . xll
-located in o : \ research \ exotica \ xll to your excel before you can use the
-functions .
-you can find the documentation in o : \ research \ exotica \ doc .
-example spreadsheets can be found in o : \ research \ exotica \ .
-the precedure of addin is as follows .
-1 ) clik tools / addin on your excel
-2 ) choose browse and got to o : \ research \ exotica \ xll
-3 ) select exotica . xll or its identical copy exotical . xll
-4 ) answer the question " copy . . . " no .
-5 ) click ok , then you should see exotica menu bar pop up .
-if you have any more questions please let me know .
-zimin
-vince j kaminski
-11 / 21 / 2000 08 : 06 am
-to : patrick markey / hou / ect @ ect
-cc : vince j kaminski / hou / ect @ ect , zimin lu / hou / ect @ ect
-subject : re : enron exotica options library
-patrick ,
-please , contact zimin lu , 713 853 6388 .
+Subject: re : i will miss the tuesday staff meeting
+osman ,
+vasant is setting up a meeting to review the credit
+models with ees . please , call - in or
+attend when the meeting is set .
 vince
-patrick markey
-11 / 21 / 2000 05 : 15 am
+osman sezgen @ ees
+01 / 15 / 2001 02 : 49 pm
 to : vince j kaminski / hou / ect @ ect
-cc : patrick markey / hou / ect @ ect
-subject : enron exotica options library
+cc :
+subject : i will miss the tuesday staff meeting
 vince ,
-i am trying to price a crack spread option utilizing either of the following
-models in the exotica library :
-1 . spread options by 1 - d integration - sprdopt
-2 . spread options on asian spreads - asnsprd
-how do i get access to these options models ? who can i visit with in the
-houston group if i have any questions regarding the models . your help would
-be greatly appreciated . i am located in singapore , so i would probably be
-visiting with the houston personnel via e - mail .
-thanks ,
-pat markey
-p . s . - i have access to the o : \ research \ exotica \ xll \ xll _ templates \ directory ;
-however , there are no macros associated with the programs that i can find .
-also , i don ' t have access to the m : drive . please let me know where to find
-these options models .
+i will not be able to attend the meeting . here are some updates :
+1 ) i left a message to george posey , i will follow up tomorrow ( tuesday ) ,
+2 ) i will follow up on the credit reserve issue asap , i will find out what the
+present state of the models are and come up with modification requirements
+to accomodate asset related projects .
+3 ) this week i will need to spend much of my time in meeting with the
+breakthrough
+folks . they are at a stage where
+our contribution is being defined and specifies ( curves , components , etc . ) .
+if you
+would like to contact me urgently , please leave a phone message instead of
+e - mail - -
+i will be checking my phone messages more frequently .
+4 ) we have a var meeting with rac on eam issues wednesday at lpm .
+5 ) other issues are covered in my project list .
+regards ,
+osman

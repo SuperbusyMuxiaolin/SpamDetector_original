@@ -1,107 +1,78 @@
-Subject: the storage revolution has begun
-network world fusion focus : amy larsen decarlo
-on storage in the enterprise
-today ' s focus : the storage revolution has begun
-03 / 07 / 00
-dear wincenty kaminski ,
-today ' s focus : the storage revolution has
-begun
-by amy larsen decarlo
-believe the hype . we are in the middle of a storage revolution .
-virtually overnight , businesses have gone from storing gigabytes to
-terabytes of data , and the number of users accessing that information is
-skyrocketing . the subsequent requirements are forcing companies to
-rethink their storage strategies and to recognize the importance of
-storage management in the equation of efficient information delivery .
-it isn  , t just the volume of data or the higher scalability demands that
-are changing how businesses handle storage . the premium that companies
-place on much of their enterprise information is having a profound
-effect on their storage requirements . businesses demand fault - tolerant
-storage systems that deliver swift and reliable data access to their
-employees , suppliers and customers .
-but given the fact that hard disk capacity requirements , on average ,
-double every 12 months , while processor speeds double every 18 months ,
-companies are left with a quandary : how can they manage the
-proliferation of stored information efficiently enough to compensate for
-the differential between capacity requirements and processor speeds ?
-the simple answer to this question is to institute a well - executed
-storage management plan that anticipates capacity requirements in
-advance and leverages the best technologies and techniques to support
-those needs . bear in mind that the majority of storage costs come not
-from the equipment but from the implementation and support of those
-systems .
-there are several ways to efficiently manage storage . one of the best
-routes is consolidation that is , pooling resources and managing
-storage as a system , as opposed to a decentralized collection of file
-servers . this may sound like a throwback to an earlier era , when
-enterprise storage resided on mainframes . but it  , s actually a
-progressive step , as the consolidation has more to do with centralizing
-the planning , management , and ongoing support of storage systems than it
-does with the physical location of the files .
-next , it is important to recognize that not all information is equally
-important to the organization . consequently , storage requirements vary
-by business application . as in all areas of it , it is important to make
-storage implementation decisions based on business needs .
-businesses trying to more efficiently manage storage are looking for
-alternatives to the distributed file server storage model . they want to
-speed access to stored files and remove bandwidth - intensive backup and
-recovery operations from the lan .
-network - attached storage ( nas ) supplies it professionals with one
-answer , giving workstations and servers a way to gain direct access to
-stored data . nas devices , which have been widely available for years ,
-are optimized to process i / o transactions . though they promise better
-performance , they don  , t remove backups from the transport network .
-instead , they supply a relatively easy - to - deploy solution to cross -
-platform storage problems for most heterogeneous environments .
-many consider storage - area networks ( san ) to be the best long - term
-answer to current and future storage challenges . because sans are
-designed with a topology separate from the corporate data network , they
-alleviate many of the availability and performance issues associated
-with more traditional storage models . yet , given the early deployment
-stage most companies are still in , many of those capabilities are still
-largely untested in a production environment .
-this newsletter will examine how , through effective storage management ,
-it professionals can reduce support costs and improve service delivery
-to their customers . this newsletter will not focus on items like the
-least expensive tape drive or the fast tape library . instead , it will
-look at how businesses can reduce inefficiencies and leverage emerging
-technologies to resolve their particular storage application issues .
-ultimately , the goal is to identify storage technology options and
-practices that work in real - world environments .
-to contact amy larsen decarlo :
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-amy larsen decarlo is an analyst with enterprise management associates
-in boulder , colo . , ( http : / / www . . com ) , a leading
-analyst and market research firm focusing exclusively on all aspects of
-enterprise management . she focuses on storage management , application
-management , and security . in her position , she oversees market research
-and contributes to custom project work in her focal coverage areas .
-prior to joining ema , amy spent five years covering enterprise
-management for industry trade magazines , including informationweek and
-data communications . she can be reached at
-mailto : decarlo @ . com
-for related links - - click here for network world ' s home page :
-http : / / www . nwfusion . com
-the national storage industry consortium ( nsic )
-http : / / www . nsic . org
-the distributed management task force ( dmtf )
-http : / / www . dmtf . org
-storage systems standards working group of the ieee
-http : / / www . ssswg . org
-the ietf
-http : / / www . ietf . org
-subscription services
-to subscribe or unsubscribe to any network world e - mail newsletters ,
-go to :
-to change your email address , go to :
-subscription questions ? contact customer service by replying to this
-message .
-other questions / comments
-have editorial comments ? write jeff caruso , newsletter editor , at :
-mailto : jcaruso @ nww . com
-for advertising information , write jamie kalbach , account executive ,
-at : mailto : jkalbach @ nww . com
-network world fusion is part of idg . net , the idg online network .
-it all starts here :
-http : / / www . idg . com
-copyright network world , inc . , 2000
+Subject: apr 20 - wharton - final agenda
+michael ,
+vince and i appreciate your keeping us involved with this event . good luck
+and we hope to see you soon !
+- best !
+christie .
+- - - - - - - - - - - - - - - - - - - - - - forwarded by christie patrick / hou / ect on 04 / 18 / 2001
+04 : 16 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+michael tomczyk on 04 / 18 / 2001 02 : 54 : 00 pm
+to : vkamins @ enron . com , christie _ patrick @ enron . com
+cc :
+subject : apr 20 - wharton - final agenda
+vince and christie ,
+i know you are unable to attend this week ' s event at wharton but i thought
+you would like to see the final agenda , and i also wanted to remind you that
+about a week or so after the event we will post a summary of presentations
+and discussion insights on our website : ? http : / / emertech . wharton . upenn . edu .
+in addition to senior wharton faculty and colleagues , senior managers from
+the following companies will be attending : ? charles schwab , cybersource ,
+ellacoya networks , glaxosmithkline , gmac , healthnetworks . com ,
+hewlett - packard , infosys , ibm , nsa , omnichoice , philadelphia newspapers , and
+usinternetworking .
+best regards ,
+michael
+managing strategic partnerships & acquisitions ?
+friday april 20 , 2001 - - 8 : 30 am to 400 pm
+location - room 1206 steinberg - dietrich hall - wharton school - philadelphia
+final agenda ?
+managing strategic partnerships
+an insight - building conference including new wharton research on
+best practices and successful strategies for achieving corporate
+growth through alliances , mergers and acquisitions .
+friday , april 20 , 2001 - 8 : 00 to 4 : 00
+1206 steinberg - dietrich hall , wharton school
+presented for our industry partners and guests by the
+emerging technologies management research program ,
+mack center on managing technological innovation
+agenda & conference topics
+8 : 00 - 8 : 30 ? - ? continental breakfast and informal networking
+8 : 30 - 8 : 45
+introduction : strategic partnering for growth and innovation
+harbir singh , wharton
+8 : 45 - 9 : 30 ? - networking , partnerships & strategy
+lori rosenkopf , wharton
+9 : 30 - 11 : 00 ? - success and failure factors in strategic partnering
+todd horst , usinternetworking
+tim george , pfizer
+dave daetz , cybersource
+11 : 00 - 11 : 15 ? - break
+11 : 15 - 11 : 40 ? - building partnering skills and capabilities
+prashant kale , university of michigan
+11 : 40 - 12 : 00 ? - successes & failures in strategic outsourcing : some initial
+findings
+howard perlmutter , wharton
+12 : 00 - 1 : 30 ? working lunch - strategic partnering as a core competency
+paul j . h . schoemaker and roch parayre , wharton
+1 : 30 - 1 : 45 ? - mapping social networks : applications to strategic partnering
+ruhul quddus , wharton
+1 : 45 - 2 : 30 ? - small group reports
+paul j . h . schoemaker & roch parayre , wharton
+2 : 30 - 2 : 45 ? - break
+2 : 45 - 3 : 45 ? - managing high technology acquisitions
+phanish puranam , wharton
+walt vester & harry hirschman , wharton
+kerri ford , wharton
+3 : 45 - 4 : 00 ? - summary of key insights and future research goals
+harbir singh , wharton
+4 : 00 - adjourn
+- -
+michael s . tomczyk
+managing director
+emerging technologies management research program
+1400 sh - dh / 6371
+the wharton school
+philadelphia , pa 19104 - 6371
+tel 215 - 573 - 7722
+fax 215 - 573 - 2129
+website : ? http : / / emertech . wharton . upenn . edu

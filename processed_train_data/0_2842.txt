@@ -1,31 +1,34 @@
-Subject: discount rates and risk capital
-dear vince :
-i spent a little bit longer putting together my initial thoughts on
-determining discount rates than i originally anticipated . it is somewhat
-surprising , but there really isn ' t much academic work that i am aware of
-that addresses these issues .
-very briefly ,
-1 . i think we need to come up with a way to define the concept of risk
-capital simultaneously with the appropriate discount rate .
-2 . i think it is important to model enron ' s opportunity cost of capital and
-how that changes over time . the liquidity of a project will affect its
-value in a very significant way when the opportunity cost of capital
-changes over time . there is also likely to be a relation between duration
-and discount rates that depends on the factors generating enron ' s
-opportunity cost of capital .
-3 . i have vague ideas about possible simulations that may help us quantify
-some of the issues that i have raised .
-please take a look at the attached document . you might find this somewhat
-confusing , so i will give you a call later in the week to discuss this .
-please let me know when you will be free . i look forward to hearing from you .
-regards ,
-sheridan
-- determining discount rates for risky projects . doc
-sheridan titman
-department of finance
-college of business administration
-university of texas
-austin , texas 78712 - 1179
-512 - 232 - 2787 ( phone )
-512 - 471 - 5073 ( fax )
-titman @ mail . utexas . edu
+Subject: re : resume from a neural networks zealot
+celeste ,
+we can use this guy as a help for enron broad band svc ' s .
+we are getting many projects in this area .
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 01 / 24 / 2000
+07 : 38 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+konstantin mardanov on 01 / 24 / 2000 12 : 06 : 42 am
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : re : resume from a neural networks zealot
+on wed , 20 oct 1999 , vince j kaminski wrote :
+> konstantin ,
+>
+> i am sending your resume to the analyst / associate program
+> with the recommendation to accept you as an intern in my group .
+>
+> vince
+dear dr . kaminski ,
+it has been a long time since i contacted you so i was wondering if
+my resume had been considered for an internship in your group .
+i will appreciate it very much if you let me know when i should expect
+to learn about a decision on the issue .
+thank you for you time .
+sincerely ,
+konstantin .
+konstantin mardanov
+department of physics , | 5012 duval st , apt . 206
+university of texas @ austin , | austin , tx 78751 , u . s . a .
+rlm 7 . 316 , austin , tx 78712 |
+u . s . a . | phone : 001 ( 512 ) 374 - 1097
+e - mail : mardanov @ physics . utexas . edu
+url ( almost obsolete ) : http : / / www . niif . spb . su / ~ mardanov
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

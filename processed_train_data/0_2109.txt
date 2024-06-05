@@ -1,48 +1,48 @@
-Subject: re : visit to houston
-allan ,
-i shall be glad to meet you . i am planning to attend the energy symposium
-and we can meet on the location . if business keeps me at the office ,
-feel free to contact me at 713 853 3848 and we can schedule a meeting during
-the day
-or in the evening .
+Subject: site license for power world
+gentleman ,
+kevin presto concurred on the purchase of a site license as recommended by
+vince . what are the thoughts of others ? i am available to demo the package
+if others would like to see it .
+thanks ,
+lance
+- - - - - - - - - - - - - - - - - - - - - - forwarded by lance cunningham / na / enron on 11 / 20 / 2000
+01 : 51 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+vince j kaminski @ ect
+11 / 10 / 2000 09 : 16 am
+to : vince j kaminski / hou / ect @ ect , richard lewis / lon / ect @ ect , tim
+belden / hou / ect @ ect , tim . heizenrader @ enron . com , kevin m presto / hou / ect @ ect ,
+george hopley / hou / ect @ ect
+cc : lance cunningham / na / enron @ enron
+subject : site license for power world
+gentlemen ,
+i recommend that we purchase this package and split the cost 3 ways between 3
+power trading desks .
+i think that we should go for option 3 ( ~ $ 15 , 000 ) .
+lance cunningham in my group looked at this software package and found it
+very useful for modeling transmission problems .
+please , feel free to ask him for technical details in support of this
+recommendation .
 vince
-allan . roberts @ uk . arthurandersen . com on 11 / 22 / 2000 06 : 45 : 42 am
-to : vince . j . kaminski @ enron . com
-cc : george . e . danner @ us . arthurandersen . com ,
-david . b . duncan @ us . arthurandersen . com
-subject : visit to houston
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 11 / 10 / 2000
+09 : 17 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+lance cunningham @ enron on 11 / 09 / 2000 06 : 15 : 14 pm
+to : vince j kaminski / hou / ect @ ect
+cc : vasant shanbhogue / hou / ect @ ect
+subject : site license for power world
 vince ,
-i hope things are well with you and your family .
-the reason for contacting you today is to let you know i will be in houston
-next
-week between monday and wednesday inclusive . if there is an opportunity to
-meet
-up , probably informally , it would be useful to discuss our continuing
-activities
-in the areas of strategy , value and , increasingly , real options .
-if you are attending our energy symposium , or can meet up , please contact me
-at
-your convenience . if we do meet , i would also like to introduce you to one of
-our senior managers from houston : george e . danner . george is a member of
-our
-us national strategy team and part of our global network of specialists
-working
-on real option pricing .
-if i do not speak to you before tomorrow - happy thanksgiving .
-allan
-* * * * * * * * * * * * * * * * * * * internet email confidentiality footer * * * * * * * * * * * * * * * * * * *
-the uk firm of arthur andersen is authorised by the institute of chartered
-accountants in england and wales to carry on investment business . a list of
-partners is available at 1 surrey street , london , wc 2 r 2 ps ( principal place of
-business ) .
-privileged / confidential information may be contained in this message . if you
-are not the addressee indicated in this message ( or responsible for delivery
-of
-the message to such person ) , you may not copy or deliver this message to
-anyone .
-in such case , you should destroy this message and kindly notify the sender by
-reply email . please advise immediately if you or your employer do not consent
-to
-internet email for messages of this kind . opinions , conclusions and other
-information in this message that do not relate to the official business of my
-firm shall be understood as neither given nor endorsed by it .
+we have three options to increase our availability across enron for the power
+world load flow software .
+option 1 , upgrade to a site license for the load flow software only . price
+$ 9 , 990 . 00
+this would give all of enron the ability to perform load flows , but not
+determine marginal cost or available transfer capacity ( atc ) because only the
+optimal power flow ( opf ) version can perform that task .
+option 2 , site license for the load flow and purchase 1 opf package for
+walter coffer ' s group . price $ 11 , 240 .
+this would give all of enron the ability to perform load flows and one other
+group the ability to determine marginal cost and atc .
+option 3 , site license for load flows , opf and atc . price $ 14 , 990 . 00
+this would give all of enron the ability to perform load flows , marginal
+cost , and atc .
+regards ,
+lance

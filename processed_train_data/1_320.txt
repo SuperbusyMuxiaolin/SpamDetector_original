@@ -1,35 +1,13 @@
-Subject: failure notice
-hi . this is the qmail - send program at mx 3 . seanet . ro .
-i ' m afraid i wasn ' t able to deliver your message to the following addresses .
-this is a permanent error ; i ' ve given up . sorry it didn ' t work out .
-:
-sorry , no mailbox here by that name . ( # 5 . 1 . 1 )
-- - - below this line is a copy of the message .
-return - path :
-received : ( qmail 31261 invoked from network ) ; 19 jul 2005 10 : 58 : 20 - 0000
-received : from unknown ( helo nsl . seanet . ro ) ( 192 . 168 . 136 . 2 )
-by 0 with smtp ; 19 jul 2005 10 : 58 : 19 - 0000
-received : ( qmail 3573 invoked from network ) ; 19 jul 2005 10 : 58 : 19 - 0000
-received : from unknown ( helo mailwisconsin . com ) ( 211 . 245 . 27 . 66 )
-by nsl . seanet . ro with smtp ; 19 jul 2005 10 : 58 : 18 - 0000
-received : from 205 . 214 . 42 . 66
-( squirrelmail authenticated user projecthoneypot @ projecthoneypot . org ) ;
-by mailwisconsin . com with http id j 87 gzo 38191017 ;
-tue , 19 jul 2005 10 : 57 : 46 + 0000
-message - id :
-date : tue , 19 jul 2005 10 : 57 : 46 + 0000
-subject : just to her . . .
-from : " barry castillo "
-to : distmetkarmetkar @ seanet . ro
-user - agent : squirrelmail / 1 . 4 . 3 a
-x - mailer : squirrelmail / 1 . 4 . 3 a
-mime - version : 1 . 0
-content - type : text / html ; charset = iso - 8859 - 1
-content - transfer - encoding : 8 bit
-x - priority : 3 ( normal )
-importance : normal
-soft viagra at $ 1 . 62 per dose
-ready to boost your sex life ? positive ?
-time to do it right now !
-order soft viagra at incredibly low prices
-startinq at $ 1 . 99 per dose ! unbelivable !
+Subject: upgrade
+welcome
+welcome to a community of sellers that have achieved exceptional level of success and positive feedback on ebay !
+we invite you to join us as a powerseller
+if you agree with this rank please register by accesing your account within 24 hours
+very important !
+the registration is active only once .
+why become a powerseller ?
+powersellers are ebay top sellers who have sustained a consistent high volume of monthly sales and a high level of total feedback with 98 % positive or better . as such , these sellers rank among the most successful sellers in terms of product sales and customer satisfaction on ebay . we are proud to recognize their contributionsto the success of the ebay community !
+when you see this icon next to the member ' s user id , be assured that the member is a qualified powerseller who not only maintains a solid sales record but also a 98 % positive feedback rating based on transactions with other ebay users . you can feel assured that your transaction will go smoothly and that you are dealing with one who has consistently met the requirements established by ebay .
+about ebay | announcements | security center | policies | site map | help
+copyright 1995 - 2005 ebay inc . all rights reserved . designated trademarks and brands are the property of their respective owners . use of this web site constitutes acceptance of the ebay user agreement and privacy policy .
+ebay official time

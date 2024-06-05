@@ -1,105 +1,121 @@
-Subject: re : thanks !
-karin ,
-i talked to mike roberts ( the head of the whole weather team ) , and he is
-saying that all expenses for tony should be charged to global products team .
-this is agreed between vince and jeff shankman .
-mike and vince are negotiating with john to put stephen ( or somebody who will
-replace him ) to some other cost centres ( via research ) .
-it looks like kevin moore is happy if stephen is charged to the same cost
-centre as tony .
-let us right now charge tony and stephen to the cost centre below .
-please , could we charge them separately - when john and vince make their
-decision , we should be able to re - charge .
-many thanks ,
-slava
-enron capital & trade resources
-canada corp .
-from : karin ahamer @ enron 18 / 04 / 2001 15 : 06
-to : tani nath / lon / ect @ ect , viacheslav danilov / lon / ect @ ect
+Subject: re : fyi : uk var issues
+vince ,
+uk var breached the limit last week .
+uk traders asked us to review the correlations across uk gas and power as
+well as the correlations across efa slots .
+we did part of the work last week .
+now we ' ll update the correlations based on historical prices .
+tanya .
+richard lewis
+10 / 08 / 2000 07 : 31 am
+to : tanya tamarchenko / hou / ect @ ect
+cc : oliver gaylard / lon / ect @ ect , james new / lon / ect @ ect , steven
+leppard / lon / ect @ ect , rudy dautel / hou / ect @ ect , kirstee hewitt / lon / ect @ ect ,
+naveen andrews / corp / enron @ enron , david port / market risk / corp / enron @ enron , ted
+murphy / hou / ect @ ect , simon hastings / lon / ect @ ect , paul d ' arcy / lon / ect @ ect , amir
+ghodsian / lon / ect @ ect
+subject : re : var correlation scenarios
+thanks tanya , these are interesting results . i am on vacation next week , so
+here are my current thoughts . i am contactable on my mobile if necessary .
+gas to power correlations
+i see your point about gas to power correlation only affecting var for the
+combined gas and power portfolio , and this raises an interesting point : at a
+conservative 30 % long term correlation , combined var is olmm less than
+previously expected - so how does this affect the limit breach ? strictly
+speaking , we are still over our uk power limit , but the limit was set when we
+were assuming no gas power correlation and therefore a higher portfolio var .
+a suggested way forward given the importance of the spread options to the uk
+gas and power books -
+can we allocate to the gas and power books a share of the reduction in
+portfolio var - ie [ reduction = portfolio var - sum ( power var + gas var ) ] ?
+also , if i understand your mail correctly , matrix 1 implies 55 % gas power
+correlation is consistent with our correlation curves , and this reduces total
+var by ol . 8 mm .
+efa slot correlations
+the issue of whether our existing efa to efa correlation matrix is correct is
+a separate issue . i don ' t understand where the matrix 2 efa to efa
+correlations come from , but i am happy for you to run some historical
+correlations from the forward curves ( use the first 2 years , i would
+suggest ) . our original matrix was based on historicals , but the analysis is
+worth doing again . your matrix 2 results certainly indicate how important
+these correlations are .
+closing thoughts
+friday ' s trading left us longer so i would not expect a limit breach on
+monday . we are still reviewing the shape of the long term curve , and i ' d
+like to wait until both simon hastings and i are back in the office ( monday
+week ) before finalising this .
+regards
+richard
+tanya tamarchenko
+06 / 10 / 2000 22 : 59
+to : oliver gaylard / lon / ect @ ect , richard lewis / lon / ect @ ect , james
+new / lon / ect @ ect , steven leppard / lon / ect @ ect , rudy dautel / hou / ect @ ect , kirstee
+hewitt / lon / ect @ ect , naveen andrews / corp / enron @ enron , david port / market
+risk / corp / enron @ enron , ted murphy / hou / ect @ ect
 cc :
-subject : re : thanks !
-tani / slava
-could you please let me know which costcentre i can bill for any charges
-relating to tony and stephen .
-thx karin
-- - - - - - - - - - - - - - - - - - - - - - forwarded by karin ahamer / eu / enron on 18 / 04 / 2001 15 : 04
-- - - - - - - - - - - - - - - - - - - - - - - - - - -
-enron capital & trade resources corp .
-from : stephen bennett 18 / 04 / 2001 12 : 14
-to : karin ahamer / eu / enron @ enron
+subject : re : var correlation scenarios
+everybody ,
+oliver sent us the var number for different correlations for uk - power
+portfolio separately from uk - gas portfolio .
+first , if var is calculated accurately the correlation between power and gas
+curves should not affect var number for power and var number for gas , only
+the aggregate number will be affected . the changes you see are due to the
+fact that we use monte - carlo simulation method ,
+which accuracy depends on the number of simulations . even if we don ' t change
+the correlations but use different realizations of random numbers ,
+we get slightly different result from the model .
+so : to see the effect of using different correlations between gas and power
+we should look at the aggregate number .
+i calculated weighted correlations based on 2 curves i got from paul . as the
+weights along the term structure i used the product of price , position and
+volatility for each time bucket for gas and each of efa slots . the results
+are shown below :
+inserting these numbers into the original correlation matrix produced
+negatively definite correlation matrix , which brakes var engine .
+correlation matrix for any set of random variables is non - negative by
+definition , and remains non - negatively definite if calculated properly based
+on any historical data .
+here , according to our phone discussion , we started experimenting with
+correlations , assuming the same correlation for each efa slot and et elec
+versus gas . i am sending you the spreadsheet which summaries the results . in
+addition to the aggregate var numbers for the runs oliver did , you can see
+the var numbers based on correlation matrix 1 and matrix 2 . in matrix 1 the
+correlations across efa slots are identical to these in original matrix .
+i obtained this matrix by trial and error . matrix 2 is produces by naveen
+using finger ' s algorithm , it differs from original matrix across efa slots as
+well
+as in power versus gas correlations and gives higher var than matrix 1 does .
+concluding : we will look at the historical forward prices and try to
+calculate historical correlations from them .
+tanya .
+oliver gaylard
+10 / 06 / 2000 01 : 50 pm
+to : richard lewis / lon / ect @ ect , james new / lon / ect @ ect , steven
+leppard / lon / ect @ ect , rudy dautel / hou / ect @ ect , kirstee hewitt / lon / ect @ ect ,
+naveen andrews / corp / enron @ enron , tanya tamarchenko / hou / ect @ ect , david
+port / market risk / corp / enron @ enron
 cc :
-subject : re : thanks !
-- - - - - - - - - - - - - - - - - - - - - - forwarded by stephen bennett / na / enron on 04 / 18 / 2001
-06 : 11 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
-kevin g moore @ ect
-04 / 18 / 2001 06 : 11 am
-to : stephen bennett / na / enron @ enron
-cc :
-subject : re : thanks !
-r . c . 107043
-co . # 0413
-stephen , all charges for soft ware that you use in london
-should be charged to the same cost center as tony hamilton ,
-reason being , is that someone will replace you in that position .
-thanks
-kevin moore
-enron north america corp .
-from : stephen bennett @ enron 04 / 18 / 2001 05 : 08 am
-to : karin ahamer / eu / enron @ enron
-cc : kevin g moore / hou / ect @ ect
-subject : re : thanks !
-you can cost it to my group in houston . kevin moore has the proper number
-enron capital & trade resources
-canada corp .
-from : karin ahamer 04 / 18 / 2001 05 : 06 am
-to : kevin g moore / hou / ect @ ect
-cc : tony hamilton / eu / enron @ enron , mike a roberts / hou / ect @ ect , stephen
-bennett / na / enron @ enron , tani nath / lon / ect @ ect
-subject : re : thanks !
-kevin
-do you know whose costcentre the microsoft frontpage is supposed to go on ?
-thx karin
-enron capital & trade resources corp .
-from : stephen bennett 18 / 04 / 2001 10 : 10
-to : karin ahamer / eu / enron @ enron
-cc : kevin g moore / hou / ect @ ect , tony hamilton / eu / enron @ enron , mike a
-roberts / hou / ect @ ect
-subject : thanks !
-hi karin . . .
-i hope you had a splendid holiday ! i wanted to thank you for getting tony
-and i set up here last week . we seem to have established a steady daily
-routine and are supporting several different trading groups in london as well
-as continuing our daily support of traders in houston . we ' ve gotten far more
-requests for information than we expected , so as a result i will be remaining
-in london a little longer than originally expected . as of now - i ' m not sure
-exactly when i ' ll be going back to houston - but vince has let me know that i
-will remain here as long as necessary to ensure adequate daily weather
-support for the london traders .
-to that end - i think i will need one additional piece of software installed
-on the machine that i will be using on a regular basis . could i please get
-microsoft frontpage installed as soon as we can get it ?
-that leads to the second issue of desks . i know that space is a premium here
-- and i understand that i may need to move around some as a result . i
-certainly want keep things as simple as possible for everyone - but i also
-wanted to make sure that you know that there are certain applications that
-are essential for the daily trader support in london and houston . as such ,
-if i move , we will need to make sure that these applications are available
-from the beginning of the day ( we start about 0600 ) . the applications are :
-1 ) adobe acrobat - full version
-2 ) accuweather for windows - ( this is something i will need to install )
-3 ) microsoft front page
-4 ) terminal server
-5 ) the full ms office software package
-one idea would be to have a pc move with me - that way we would not need to
-reinstall this software which could cause problems with the daily support
-routine .
-thanks again for all of your help . i will let you know - once i know - how
-long i will be here . i should hear something from vince over the next few
-days giving me an idea .
-cheers ,
-steve
-stephen bennett
-senior meteorologist
-enron research
-temporarily in london : ext 3 - 4761
-otherwise : ( 713 ) 345 - 3661
+subject : var correlation scenarios
+the results were as follows when changing the gas / power correlations :
+correlation var - uk power book var - uk gas book
+0 . 0 ol 0 . 405 mm o 3 . 180 mm
+0 . 1 ol 0 . 134 mm o 3 . 197 mm
+0 . 2 ol 0 . 270 mm o 3 . 185 mm
+0 . 3 ol 0 . 030 mm o 3 . 245 mm
+0 . 4 cholesky decomposition failed ( not positive definite )
+0 . 5 cholesky decomposition failed ( not positive definite )
+0 . 6 cholesky decomposition failed ( not positive definite )
+0 . 7 cholesky decomposition failed ( not positive definite )
+0 . 8 cholesky decomposition failed ( not positive definite )
+0 . 9 cholesky decomposition failed ( not positive definite )
+1 . 0 cholesky decomposition failed ( not positive definite )
+peaks and off peaks were treated the same to avoid violating the matrix ' s
+integrity .
+interesting to note that for a higher correlation of 0 . 2 the power var
+increases which is counter to intuition . this implies that we need to look
+into how the correlations are being applied within the model . once we can
+derive single correlations from the term structure , is the next action to
+understand how they are being applied and whether the model captures the p + l
+volatility in the spread option deals .
+from 0 . 4 onwards the var calculation failed .
+oliver

@@ -1,25 +1,20 @@
-Subject: fw : having iris visit london
-anita ,
-it seems that i am going to london next week . please see forwarded emails .
-can you please assist me with my travel arrangements .
-thanks ,
-iris
-- - - - - original message - - - - -
-from : kaminski , vince
-sent : tuesday , april 24 , 2001 5 : 25 pm
-to : shanbhogue , vasant ; mack , iris ; dhar , amitava ; kaminski , vince
-subject : having iris visit london
-it ' s ok to delay the materials for duffie . he is very busy anyway and is not going to complain .
-vince
-- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 04 / 24 / 2001 05 : 23 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
-scott salmon @ enron
-04 / 24 / 2001 01 : 23 pm
-to : amitava dhar / corp / enron @ enron
-cc : vince j kaminski / hou / ect @ ect , vasant shanbhogue / enron @ enronxgate , ben parsons / lon / ect @ ect , george albanis / lon / ect @ ect , tomas valnek / lon / ect @ ect , bryan seyfried / lon / ect @ ect
-subject : having iris visit london
-hi amitava ,
-we ' ve been doing some thinking and discussing here regarding the information on our modelling process we ' ll provide to darryl duffie . we think it would be extremely valuable for iris to come out to london for a couple weeks to gain a better understanding of the how the models integrate and are truly employed . i think this would greatly enhance the " product " we ' ll send to duffie as well as giving iris a firm view of enron credit . in addition , she could also explore some of the data sources such as amadeus and others that might be helpful in private firm modelling . if we ' re extremely efficient / lucky in receiving data from d & b or experian , she might be able to begin analysis on that for the private model efforts .
-i would recommend she plan on coming out for 2 weeks starting the week of 30 apr perhaps . depending on the progress with the private firm data sources , it probably makes sense to send her back to houston to work on calibration sets with a likely return visit to london as required .
-please let me know your thoughts .
-cheers ,
-scott
+Subject: xms memo
+over the next several months enron will be phasing in a new expense - reporting
+product , concur technologies  , expense management system ( xms ) . you will be
+able to prepare your expense report , send it for approval , and transmit it
+for payment using the intranet . it will be far more user - friendly than the
+excel - based form currently in use and will provide a truly paperless
+process . in addition , the system efficiently integrates with the sap
+accounting system .
+on october 16 , employees who used a prior version of the product upgraded to
+the most current release . on october 30 , it will be available to enron corp
+employees , company 0011 . the rollout to other groups will continue through
+january 2001 . rollout announcements will be made to each business unit .
+in houston , it central will provide four training sessions per week . to
+enroll in a class go to itcentral . enron . com and click on
+services > training > schedules . those in outlying locations and those who prefer
+on - line training can use leap by signing on to sap . enron . com and clicking on
+training , then leap . use xms ( lower case ) as the user id and password .
+we are excited about this new system and hope you will find it useful . if
+you have questions regarding its use contact it central at ( 713 ) 345 - 4727 or
+visit their website .

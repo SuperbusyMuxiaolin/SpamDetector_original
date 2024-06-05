@@ -1,36 +1,37 @@
-Subject: re : tony hamilton
-chris ,
-e hired tony to support global markets but jeff shankman decided that , given
-highly specialized nature of his work it makes sense to put him in the
-research group , with a dotted line to mike roberts who is running our weather
-group .
-given that his work will directly and exclusively benefit gm , it makes sense
-for research to charge his expenses
-to global markets . we can adjust allocations to reflect his contributions to
-different sub - units of gm .
-tony spent the last few weeks in houston training for his position in london
-with mike roberts .
-we are very excited about the prospect of working with him .
+Subject: re : var for enroncredit . com
+vince ,
+thanks for effort . let me know what we need to do on this end
+ted
+vince j kaminski
+11 / 10 / 2000 01 : 30 pm
+to : rick buy / hou / ect @ ect , ted murphy / hou / ect @ ect
+cc : vince j kaminski / hou / ect @ ect , vasant shanbhogue / hou / ect @ ect
+subject : var for enroncredit . com
+rick and ted ,
+it looks more like foxes building chicken houses as opposed to foxes guarding
+chicken houses .
+i shall send a message to bryan saying that the research has to look under
+the hood and examine the mechanics
+of the model in order to sign off on it . a dog and pony show is not
+sufficient . in any case , the decision to approve
+the model should not be left to ben and kirstee .
+please , let me know what your thinking is .
 vince
-chris mahoney
-04 / 05 / 2001 03 : 56 am
-to : tani nath / lon / ect @ ect , mark tawney / enron @ enronxgate , vince j
-kaminski / hou / ect @ ect
-cc : scott moncrieff / lon / ect @ ect , pierre aury / lon / ect @ ect , christie
-marshall / lon / ect @ ect , richard smith / lon / ect @ ect
-subject : re : tony hamilton
-tony was hired to work for global markets . think costs should be assigned
-to vince or mark but if you
-believe those costs should be for my group let me know .
-tani nath
-05 / 04 / 2001 09 : 33
-to : chris mahoney / lon / ect @ ect , scott moncrieff / lon / ect @ ect , pierre
-aury / lon / ect @ ect
-cc : christie marshall / lon / ect @ ect , richard smith / lon / ect @ ect
-subject : tony hamilton
-i now have tony on one of my rcs ( research ) . i understand he will be doing
-weather forecasts for some or all of you , and that he has a desk allocated in
-global . i need to recharge his costs - can someone please advise the right
-cost centre .
-many thanks ,
-tani
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 11 / 10 / 2000
+01 : 31 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+bryan seyfried
+11 / 10 / 2000 03 : 20 am
+to : vince j kaminski / hou / ect @ ect , steven leppard / lon / ect @ ect
+cc : ted murphy / hou / ect @ ect
+subject : var for enroncredit . com
+vince / steve - - we are going to the board in december to ask for formal
+limits . as you know one of the key limits at the board level is value at
+risk . to that end , it is imperative that you are comfortable with our
+approach for calculating var . we have implemented a third party risk system
+which holds all of our positions and are in the process of putting the debt
+positions in . the system has a var engine which is being demo ' d by the
+vendor today . ben and kirstee are attending the demo and if they find the
+technology acceptable , i propose moving forward with implemantion of the
+module . pls . let me know if this sounds reasonable and how you would
+envision implementing .
+thanks

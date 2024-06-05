@@ -1,23 +1,34 @@
-Subject: var
-david ,
-during today ' s var coordination meeting we had a discussion of issues
-related to mapping of the forward price curves into core locations .
-mapping is a necessity dictated by the limitations of the computer system :
-we have to reduce the dimensionality of the problem to stay within the bounds
-of available cpu memory . also , in some cases the quality of price discovery is poor
-and it ' s difficult to model the price curves independently : we solve the problem by mapping
-them into more liquid and better behaved core locations curves .
-we have agreed on the following :
-1 . winston will investigate the it side and determine to what extent we can increase the number
-of forward price curves that are simulated as basic ( core ) curves . he will investigate the impact of a larger
-number of the core curves on the time required to complete the var run .
-2 . the curves associated with the biggest 10 - 20 positions in each commodity should be
-modeled as core curves ( i . e . no mapping into other locations ) . it makes sense to monitor
-the biggest risks separately and avoid aggregating them into less transparent aggregates .
-3 . the results of an automated clustering ( mapping ) procedures should be systematically
-monitored by a human and corrected if they misrepresent the risks of the trading positions .
-this responsibility should be vested with one person ( right now the responsibility is
-dispersed through the organization and this means in practice that nobody
-is responsible ) . research can allocate one person to this task ;
-cooperation of trading and rac will be critical .
-vince
+Subject: re : for your approval
+approved
+information risk management
+12 / 01 / 2000 09 : 50 am
+to : gary taylor / hou / ect @ ect , vince j kaminski / hou / ect @ ect , stinson
+gibner / hou / ect @ ect
+cc :
+subject : for your approval
+please let me know if he is approved .
+thanks ,
+erica garcia
+- - - - - - - - - - - - - - - - - - - - - - forwarded by information risk management / hou / ect on
+12 / 01 / 2000 09 : 39 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+security resource request system
+directory line item pending access processing
+directory name : o : \ weather derivatives \ , o : \ research \ common
+service type : grant
+expiration date :
+comments :
+security processing
+processing status :
+e - mail message :
+comments / justification :
+general information request : jhrc - 4 rkjjz
+requested by : joseph hrgovcic / hou / ect phone : 33914
+requested for : joseph hrgovcic / hou / ect employee type :
+company : 0011 rc # : 100038
+priority : high
+comments / justification : i have a test windows 2000 machine running ( with
+userid t _ weatherol , for which i need access to o : \ research \ common and
+o : \ weather derivatives \
+editing history ( only the last five ( 5 ) are shown )
+edit # past authors edit dates
+1 information risk management 11 / 30 / 2000 12 : 30 : 19 pm

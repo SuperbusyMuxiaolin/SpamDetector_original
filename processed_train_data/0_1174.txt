@@ -1,16 +1,15 @@
-Subject: interviews for a new candidate
-elizabeth :
-we have yet another candidate allen humbolt who we want to interview . his
-skills seem to match our requirements very well . we appreciate your help in
-setting up interviews for him with the following people :
-vince kaminski
-stinson gibner
-grant masson
-vasant shanbhogue
-ronnie chahal
-osman sezgen
-john henderson ( ees )
-anoush farhangi
-and myself .
-thanks ,
-krishna .
+Subject: re : price process parameter esimator
+michael , i think you mean price process parameter esimator .
+it is under o : \ research \ exotica \ prices \ reversion 97 _ trend . xls
+tanya
+" michael schilmoeller " on 05 / 11 / 2000 05 : 04 : 20
+pm
+to : ttamarc @ enron . com
+cc : gmasson @ enron . com , vkamins @ enron . com , mike _ niman @ pgn . com
+subject : price process simulator
+hi tanya ,
+hope things go well for you . can i get a copy of the price process simulator
+you wrote ? it would be helpful in developing a plant dispatch module for
+monet , the power systems simulation model i co - authrored .
+thank you ,
+michael

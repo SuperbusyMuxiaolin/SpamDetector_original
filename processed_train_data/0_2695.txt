@@ -1,39 +1,41 @@
-Subject: chairman ' s award - supervisor announcement
-hello to each of you . i would like to let you know that i will be
-facilitating the 2000 chairman ' s award program , a vision & values initiative
-designed to recognize those employees who daily embody enron ' s values of
-respect , integrity , communication and excellence . this is an annual ,
-employee - driven award which encourages employees to nominate their everyday
-heroes .
-a critical component of the award process , and one in which ken lay has given
-his full support , is the employee selection committee . this year ' s selection
-committee is made up of a diverse representation from our workforce both in
-the us and around the world . these individuals were chosen as last year ' s
-chairman ' s roundtable and have been invited to be part of this year ' s
-employee selection committee . their infallible enthusiasm for enron ' s vision
-& values will support the seamless transition from recognized winners to
-award decision - makers which is necessary to sustain the spirit of the award .
-you are being notified because one of your employees is on this important
-committee . the time commitment will be primarily during the first two weeks
-of october when we will meet either in person or via video / phone
-conferencing to review the nominations and select the winners .
-i hope you will congratulate and support them as this is a special honor to
-be asked to serve on the employee selection committee . if you have any
-questions at any time , please feel free to contact me via email or phone .
-warm regards ,
-charla reese
-713 . 853 . 5202
-members of the 2000 employee selection committee :
-billi aherns - omaha , ne
-bobbye brown - portland , or
-karen campos - houston , tx
-jaiprakash desai - mumbai , india
-gary douthwaite - teeside , england
-donna johnson - portland , or
-janis hansen - portland , or
-gene lauritsen - beatrice , ne
-doug mcneilly - houston , tx
-kevin moore - houston , tx
-mason morris - jenkintown , pa
-craig sutter - houston , tx
-sue tihista - mandan , nd
+Subject: mg metals : quant analysis & risk
+hi eric ,
+thanks for getting back to me - i believe there are a number of issues to
+address to ensure that the integration goes smoothly from a risk management
+and quantitative analysis perspective , and i have put together a ( by no means
+exhaustive ) list : -
+i ) seamless transfer of front and middle office systems from an exotic
+options linking perspective ( e . g . their spreadsheets link to different option
+pricing add - ins )
+ii ) development of volatility curves and factor analysis to ensure that we
+can capture metals risk in our var system ( we will require historical data
+for this ) .
+iii ) ensure that mg staff on quant and risk side become familiar with our
+methods and systems and vice versa
+these tasks will involve a significant degree of cross - communication with
+relevant contacts within mg metals , and so i look forward to starting on the
+process as soon as possible - i hope to play a full part from a quantitative
+research and risk management perspective to ensure that everything goes
+smoothly in this exciting new development , so please do not hesitate to
+involve me .
+best regards ,
+anjam ahmad
+research
+x 35383
+enron europe
+from : anjam ahmad 15 / 06 / 2000 16 : 18
+to : eric gadd / lon / ect @ ect
+cc : dale surbey / lon / ect @ ect , vince j kaminski / hou / ect @ ect
+subject : quant analysis & structuring for metals business
+dear eric ,
+i understand from dale that you are co - ordinating the integration of mg
+metals into enron europe . dale and i thought it would be a good idea to
+ensure that we are fully prepared from a quantitative research and
+structuring perspective so that we can " hit the ground running " when they do
+arrive . i would be grateful if you could provide a contact person in mg
+metals that may look after this area , or someone who may find it useful to
+discuss and identify their possible future modelling requirements .
+thanks & regards ,
+anjam ahmad
+research
+x 35383

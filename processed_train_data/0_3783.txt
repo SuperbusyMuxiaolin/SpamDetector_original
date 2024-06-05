@@ -1,17 +1,42 @@
-Subject: help on cluster analysis
-just wanted to pass a quick note to say thanks for all of your help that the
-three of you each gave me concerning cluster analysis . your help was
-invaluable . as you may have been aware , we were performing the cluster
-analysis to define the commercial zones in ercot . i only had a few days in
-which to learn the fastclus procedure in sas and prepare graphical views of
-the results .
-your assistance ensured that enron was seen as one of three market leaders
-who had the capability to perform the analysis and cross check other market
-participants analysis . we were the only participant who had the ability to
-graphically display the results .
-i was able to take the lead in a commercial meeting because of the data and
-results . i just wanted you guys to know that i really appreciated your help .
-i have attached a couple of files that show some of the results . the
-presentation has the best overview .
-best regards ,
-lance
+Subject: re : resumes
+vince ,
+see below for my picks based on the resumes . the others marked as " no "
+might be ok as well , but did not seem to have as much slant towards finance .
+- - stinson
+vince j kaminski
+04 / 04 / 2001 03 : 45 pm
+to : stinson gibner / hou / ect @ ect
+cc :
+subject : resumes
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 04 / 04 / 2001
+03 : 45 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
+to :
+cc :
+subject : resumes
+here are some people you might want to speak with . ? siriam lives in
+houston . ? please see the attached resumes of the following :
+?
+karim ashktorab yes ( might be expensive ? )
+stephen liu no
+farshad ravanshad no
+matthew rusk no
+samir ranjan yes
+cedric chow no
+sriram vasudevan maybe ( already in houston )
+?
+regards ,
+?
+scott gerson
+focus capital markets
+71 vanderbilt avenue
+suite 200
+new york , ny 10017
+( 212 ) 986 - 3344 tele
+( 212 ) 986 - 3370 fax
+- focus sriram vasudevan . doc
+- focus cedric chow . doc
+- focus samir ranjan . doc
+- focus matthew rusk . doc
+- focus farshad ravanshad . doc
+- focus stephen liu . doc
+- focus karim ashktorab . doc

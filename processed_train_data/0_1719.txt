@@ -1,30 +1,25 @@
-Subject: the mathworks visit on 10 / 18
-shirley ,
-please , confirm and put on my calendar .
-vince
-- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 09 / 20 / 2000
-01 : 39 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
-scott wakefield on 09 / 20 / 2000 11 : 58 : 02 am
-to : vkamins @ enron . com
-cc : emcgoldrick @ mathworks . com , rbaker @ mathworks . com
-subject : the mathworks visit on 10 / 18
-hello vince :
-myself , eugene mcgoldrick , and rick baker are looking forward to meet with
-you and your group on 10 / 18 at 2 : 00 pm . eugene is the financial products
-program manager and rick is a financial engineer and author of several of
-toolboxes .
-we want to understand the needs of your group to better demonstrate the
-proper tools . do you or members of your group have specific applications
-that we can address ? please email me those items and i will coordinate the
-presentation with our group .
-we would like to demonstrate how our tools can be used to rapidly develop
-applications , be integrated with databases and other applications ( olf ,
-odbc databases , excel , vb , etc . ) and then deploy those applications at no
-cost to your traders and analysts .
-i look forward to meeting you , please do not hesitate to contact me .
-thanks
-scott
-scott wakefield
-the mathworks , inc .
-phone : ( 508 ) 647 - 7282
-e - mail : swakefield @ mathworks . com
+Subject: uk swap rpi model
+- - - - - - - - - - - - - - - - - - - - - - forwarded by zimin lu / hou / ect on 03 / 31 / 2000 01 : 44 pm
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+martina angelova
+03 / 22 / 2000 02 : 59 pm
+to : zimin lu / hou / ect @ ect
+cc : anjam ahmad / lon / ect @ ect , trena mcfarland / lon / ect @ ect
+subject : uk swap rpi model
+hi zimin !
+please find attached the rpi model i developed by bootstrapping rpi swaps .
+the structure of this particular swap is :
+semi / semi act / 365 f
+>
+> yoyukrpi = ( ukrpi ( p - 2 ) / ukrpi ( p - 14 ) - 1 ) / 2
+> p = payment month
+>
+the first payment is the latest known historical rpi , february 2000 . you will
+notice that i have assumed constant cashflows between the quoted years ( as
+opposed to interpolating swaps which distorts the curve a lot ) .
+please find below a graphic comparison between the rpi curve produced by
+swaps and the one produced by the gilt market .
+looking forward to your comments .
+best regards ,
+martina
+x 34327

@@ -1,36 +1,29 @@
-Subject: fw : notes for var course
-> - - - - - original message - - - - -
-> from : mccarthy , jane j
-> sent : wednesday , 25 october 2000 16 : 55
-> to : ' vkaminski @ aol . com '
-> subject : notes for var course
->
-> dr . kaminski ,
->
-> i attended your var course in sydney in july , but when i went back to look
-at the notes recently i found that i am missing some sections ( e . g . optimal
-techniques for measuring var , using monte carlo techniques to accurately
-calculate var , evaluating the impact of volatility and extreme values on
-var ) . would you be able to send me a copy of your notes , as i am about to
-embark on a var modelling exercise and i am sure they would be very useful .
->
-> regards ,
-> jane mccarthy
-> manager market risk
-> bhp co . pty ltd .
-> lvl . 45 , 600 bourke street
-> melbourne , vic 3000
-> australia
->
-> ph : 613 9 609 3860
-> fax : 613 9 609 3861
-> email : mccarthy . jane . j @ bhp . com . au
->
->
->
-eom
-notice - this message contains information intended only for the use of the
-addressee named above . it may also be confidential and / or privileged . if
-you are not the intended recipient of this message you are hereby notified
-that you must not disseminate , copy or take any action in reliance on it . if
-you have received this message in error please notify postmaster @ bhp . com .
+Subject: petrochem desk
+vasant ,
+it seems we have to help them . can kate help
+on this project ?
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 04 / 23 / 2001
+09 : 28 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+nelson neale @ enron
+04 / 20 / 2001 10 : 29 am
+to : vince j kaminski / hou / ect @ ect , vasant shanbhogue / enron @ enronxgate
+cc :
+subject : petrochem desk
+i had a chance to speak with christian lebroc this morning with regard to
+curve building for petrochemicals . as it turns out , christian left rac in
+april and joined the petrochem desk as a trader . previous efforts at
+construction of a forward curve by the group have focused on intuition or
+swags . unfortunately , the group had a rough p & l year with at least some of
+the blame directed toward the forward curve or lack thereof . when asked
+about the fundamentals group , christian indicated that they ' d only been
+around about 3 - 4 months and are not yet well - suited to curve building . john
+nowlan is indeed the head of the group .
+from a timing perspective , i told christian that it would probably take at
+least 6 - 8 weeks to develop a curve , especially considering the need to
+understand the key market drivers / fundamentals . as was suggested yesterday
+during our meeting , a strong relationship between petrochemicals and a nymex
+component ( e . g . , crude oil ) would provide a great beginning point - - we could
+then potentially strengthen / augment this relationship with other key factors
+( e . g . , supply and demand terms ) borne out of our market research .
+nelson

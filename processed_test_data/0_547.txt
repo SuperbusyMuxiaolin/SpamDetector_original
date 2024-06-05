@@ -1,19 +1,23 @@
-Subject: re : jinbaek kim
-molly ,
-we can pay for the plane ticket .
-we have to make sure that we shall extend the same
-treatment to other summer interns to avoid
-bad feelings .
+Subject: re : compound model for reedy creek
+stinson ,
+i think the gamma will flow into v @ r .
 vince
-from : molly magee / enron @ enronxgate on 04 / 25 / 2001 11 : 47 am
-to : vince j kaminski / hou / ect @ ect , stinson gibner / hou / ect @ ect
-cc :
-subject : jinbaek kim
-we received some correspondence this morning from jinbaek in which he says he
-plans to start on june 4 , 2001 . since we are trying to offer a package
-comparable to that of an associate in the program , i assume we will also pay
-for his plane ticket here ? ? ? just wanted to check before i contacted
-him . . . . , so i ' ll wait to hear from you .
+stinson gibner
+11 / 30 / 2000 06 : 14 pm
+to : alex huang / corp / enron @ enron
+cc : vince j kaminski / hou / ect @ ect , vasant shanbhogue / hou / ect @ ect
+subject : compound model for reedy creek
+alex ,
+paulo and i have continued to look at the model and have come up with a
+couple of additional changes .
+1 . the cash flow calculations need to include the overlying option strike
+payment . also , paulo is trying to clarify if the cashflows should be
+discounted to the valuation date or reported as notional future values .
+2 . i would suggest trying changing the option valuation from a binomial tree
+approach to a one - dimensional integration , perhaps using a quadrature
+method . this may allow us to minimize the size of the delta discontinuities .
+3 . edith is supposed to check and see if the theoretical gamma is used for
+anything . if it is , we will probably need to revisit the gamma calculation
+since we are not currently including any cross terms for gamma .
 thanks ,
-molly
-x 34804
+stinson

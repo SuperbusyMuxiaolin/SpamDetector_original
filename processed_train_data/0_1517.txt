@@ -1,10 +1,29 @@
-Subject: approval is overdue : access request for stephen . bennett @ enron . com
-this request has been pending approval for 5 days and you are the
-alternate . please click
-approval to review and act upon this request .
-request id : 000000000003991
-approver : stinson . gibner @ enron . com
-request create date : 10 / 3 / 00 12 : 31 : 22 pm
-requested for : stephen . bennett @ enron . com
-resource name : \ \ enehou \ houston \ common \ research - [ read / write ]
-resource type : directory
+Subject: password security notice
+for password renewals only
+it security & controls  ) password security notice
+passwords
+the key to maintaining information and system security is the use of
+well - selected and guarded passwords . because your password is our first line
+of defense , stronger password selection criteria will soon be implemented for
+all employees .
+password policy
+passwords  (
+1 . must be at least of eight characters in length .
+2 . must not contain names , userids , common english dictionary words , and
+begin or end with a number .
+3 . must contain alphanumeric characters and contain at least one special
+character . no more than fifty percent of the overall password can be in
+english .
+4 . must not be reused or cyclical .
+5 . must be changed every 60 days .
+6 . must not be publicly displayed .
+7 . must not be shared with other users .
+choosing a good password comes down to two things . first , avoid common
+everyday words a potential hacker  , s software will be looking for . second ,
+keep your password simple enough that you can remember it without having to
+write it down .
+please keep in mind that the enron code of ethics holds employees responsible
+for password security . it security & controls conducts periodic audits to
+ensure compliance with company policy .
+for any problems encountered concerning password controls , please call your
+appropriate resolution center ( available : 24 hrs . / day , 7 days / week ) .

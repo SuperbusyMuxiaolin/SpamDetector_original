@@ -1,11 +1,12 @@
-Subject: rdi project
-michelle ,
-cecil and david ' s code was correct but could not match ken ' s spreadsheet
-output due to a slight mis - specification in ken ' s excel spreadsheet . the code
-was then modified to conform with ken ' s specification and results very close
-to that of ken were obtained . as of now ken ' s modifying his spreadsheet to
-re - run the results , the original correct code will be restored , and we will
-see what
-happens then . anyway this is rather encouraging .
-best ,
-alex
+Subject: re : enterprise risk management
+jim ,
+yes , i would be very interested .
+vince
+james l bouillion
+01 / 17 / 2001 03 : 02 pm
+to : kevin kindall / corp / enron @ enron
+cc : jere c overdyke / hou / ect @ ect , vince j kaminski / hou / ect @ ect
+subject : enterprise risk management
+i had a meeting with willis ( insurance broker ) today and they advised that
+they have a computer analytics tool that can evaluate traditional exposures
+and express the risk as var . would you be interested in seeing the tool ?

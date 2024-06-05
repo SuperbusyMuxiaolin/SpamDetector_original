@@ -1,70 +1,47 @@
-Subject: re :
-hari ,
-thanks . please , keep me posted about your progress .
-any published papers ?
-we shall send you the printout .
-vince
-hari natrajan on 03 / 06 / 2001 08 : 47 : 34 pm
-to : " ' vince . j . kaminski @ enron . com ' "
-cc :
-subject : re :
-dear mr . kaminski ,
-thank you very much for your prompt response . i look forward to receiving a
-copy of your article .
-i would also appreciate it if you could let me know whether enron provides
-research grants to individuals who are working in the area of energy risk
-management . towards my research , i am trying to develop a model to estimate
-electricity spot price .
-in any case , i will be getting in touch with you again a year or so down the
-line when i am nearing completion of my dissertation because enron is my
-dream job .
-i look forward to hearing from you .
-thank you ,
-yours sincerely ,
-hari natarajan
-fellowship student
-indian institute of management bangalore
-bannerghatta road
-bangalore 560076
-india
-tel : 91 - 80 - 6993056
-fax : 91 - 80 - 6584050
-e - mail : hnatraj @ iimb . ernet . in
+Subject: fw : meeting follow - up
+dan sent this information as a follow up to our meeting this week . if there
+is any additional information you would like to see , please let me know .
+in the absense of any objections , i would like to begin having our analysts
+use the financial stress score to underwrite small exposures where financial
+statements are not received . in addtion to saving some expense , this will
+allow greater consistentency . and moving forward , i believe we can map
+expected defaults from fstress score ranges to those implied in credit
+spreads , and in doing so map to e - ratings for use in credit reserve
+analytics . i ' ve had prelimiary discussions with rabi and amititava regarding
+this .
+any additional insights would be helpful , and thanks for your help .
 - - - - - original message - - - - -
-from : vince . j . kaminski @ enron . com
-to : hnatraj @ iimb . ernet . in
-cc : shirley . crenshaw @ enron . com ; vince . j . kaminski @ enron . com
-sent : 3 / 6 / 01 8 : 34 pm
-subject : re :
-hari ,
-i shall send you a reprint of the article . i had to
-cancel my presentation at san antonio .
-vince
-shirley ,
-please , send a copy of the article to hari .
-hari natrajan on 02 / 28 / 2001 06 : 45 : 29 am
-to : " ' vince . j . kaminski @ enron . com ' "
-cc :
-subject :
-dear mr . kaminski ,
-i am a doctoral student at the indian institute of management bangalore ,
-india . my area of interest is the energy sector , especially electricity
-derivatives . i am interested in obtaining a copy of the following items :
-1 ) your presentation " current challenges in modeling power price
-volatility "
-at the session on price volatility & probabilistic methods in the energy
-markets . ( http : / / www . informs . org / conf / sanantonio 2000 / / talks / md 29 . html )
-2 ) your chapter " the challenge of pricing and risk managing electricity
-derivatives " in the book ' the us power market ' , risk publications .
-i would appreciate it if you could send me a soft / hard copy of the same .
-thank you ,
-yours sincerely ,
-hari natarajan
-fellowship student
-indian institute of management bangalore
-bannerghatta road
-bangalore 560076
-india
-tel : 91 - 80 - 6993056
-fax : 91 - 80 - 6584050
-e - mail : hnatraj @ iimb . ernet . in
+from : " barry , dan " @ enron
+on . com ]
+sent : thursday , march 15 , 2001 10 : 26 am
+to : mark _ wilson @ enron . com
+cc : marcom , karen ; johnson , judy
+subject : meeting follow - up
+mark ,
+attached are a presentation on the financial stress score and the countries
+that have risk scores available today . please let me know if you have any
+questions .
+in response vince ' s question regarding false positives from the model , that
+is a little difficult to answer . the model is predicting the likelihood of
+a company experiencing financial distress . we are not saying that all
+companies with a high risk score will experience financial distress . in
+other words , it is not really a yes or no proposition . it ' not like a drug
+test where the test either comes back positive or negative and ocassionally ,
+you get a false positive test result . we are identifying companies that are
+at high risk for failure . some of those high risk companies will fail and
+some will not fail . how many in each classification that will ultimately
+fail is addressed in the performance charts attached below .
+please let me know if you have any other questions or need any additional
+information .
+dan barry
+dun & bradstreet
+analytical services
+barryd @ dnb . com
+phone ( 713 ) 953 - 5458
+fax ( 713 ) 953 - 5454
+> > >
+>
+- enron fss . ppt
+- globalfailure . ppt
+- fin stress understanding . doc
+- fss performance . doc

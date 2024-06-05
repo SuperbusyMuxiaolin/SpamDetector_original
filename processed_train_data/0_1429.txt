@@ -1,12 +1,12 @@
-Subject: eol trade size discrepancies
-vince -
-i have discovered the two sources of discrepancy in the " transaction dollars "
-on eol , between my numbers and those of eol . first , eol records all index
-trades with the henry hub price ( since the index price isn ' t , inadvertently ,
-recorded with the trade , as i told you ) , whereas i went back and appended the
-contemporaneous index price to the trades . second , eol ignores all basis
-trades in reporting transaction dollars , whereas i append a rough size to
-them of the " price " as the basis , times the quantity .
-i ' m sorry i wasn ' t ready in time with my numbers ; i took the task of accuracy
-very seriously .
-clayton
+Subject: re : attend pserc seminar on 11 / 30 and 12 / 1
+lance .
+perfect .
+vince
+lance cunningham @ enron on 11 / 13 / 2000 10 : 06 : 26 am
+to : vince j kaminski / hou / ect @ ect
+cc :
+subject : attend pserc seminar on 11 / 30 and 12 / 1
+vince ,
+i will be able to attend the pserc seminar on nov . 30 and dec . 1 . i also
+picked up some additional information from ut concerning pserc this past
+weekend while i was in austin .

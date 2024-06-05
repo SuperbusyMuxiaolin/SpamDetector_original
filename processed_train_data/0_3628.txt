@@ -1,32 +1,96 @@
-Subject: interviewing for the associate and analyst programs
-the off - cycle department of the associate and analyst program is looking for
-volunteer interviewers for the following dates :
-thursday , november 9 th from 9 : 00 a . m - 12 : 00 p . m
-thursday , november 16 th from 9 : 00 a . m . - 12 : 00 p . m .
-thursday , december 7 th from 9 : 00 a . m . - 1 : 00 p . m .
-over 50 candidates will be interviewing over these 3 days . the candidates
-will be a combination of associates and analysts representing schools such as
-princeton , harvard , university of north carolina , notre dame , university of
-illinois , emory and many others . each candidate will have 4 interviews .
-pending the outcome of their interviews we will invite them to stay and
-attend super saturday that weekend . if for some reason we decide not to
-further pursue the candidate , we will fly them home that friday morning .
-also there will be continental breakfast at from 7 : 45 a . m . to 8 : 45 a . m . ( for
-all three dates ) and a luncheon from 12 : 30 p . m . - 2 : 00 p . m . ( on nov . 9 and
-nov . 16 th ) , the lunch will be at 1 : 30 for the dec . 7 th . interviewers are
-welcome to attend both the breakfast and the lunch on their interviewing
-date . the interviewing , breakfast and lunch will take place at the
-doubletree hotel downtown .
-we are asking enron employees associate ( associates who have been with the
-program for at least one year ) level or higher to volunteer at least one
-hour to interview candidates ( this will be 2 interviews ) . if you can
-volunteer for more than an hour or for more than just one of the stated
-dates , that would be great ! your help is needed ! please contact my
-assistant , cathy lira , at cathy . lira @ enron . com or x 54049 as soon as possible ,
-if you can volunteer any time for interviewing .
-if you have any questions please do not hesitate to contact me .
-once again , thanks ,
-althea
-althea p . gordon , jd
-recruiter
-associate & analyst programs
+Subject: mscf speaker series
+mscf speaker series
+official invitation
+?
+?
+it is with great pride that i announce the next event in the speaker series .
+next friday we will have the honor to host a conference given by mr . vince
+kaminski ? managing director research at enron corp .
+?
+the next event in the
+student speaker series is :
+friday , november 3 , 2000
+11 : 30 a . m . to 12 : 30 p . m . fast lab
+[ image ] vince kaminski
+managing director , research .
+enron corp .
+tentative student speaker series schedule 2000 - 2001
+the following is a tentative schedule of the mscf student speaker series for
+the 2000 - 2001 academic year . all events take place from 11 : 30 a . m . to 12 : 30
+p . m . in the fast lab ( gsia 229 ) unless otherwise noted . updates are soon to
+follow .
+volatility curve and bond basis
+august 11 , 2000
+david hartney & jerry hanweck
+vice president , futures and option sales j . p . morgan
+price and hedging volatility contracts
+september 1 , 2000
+dmitry pugachevsky
+deutsche bank
+dmitry pugachesky is a director with otc derivatives research of deutsche
+bank , where his research is primarily focussed on credit derivatives . prior
+to joining deutsche bank , dmitry worked for six years with global analytics
+group of bankers trust . there he developed models for emerging markets ,
+interest rates , and equity derivatives and also participated in actual
+trading and structuring of interest rate options . he received his phd in
+applied mathematics from carnegie mellon university specializing in control
+theory for stochastic processes . he has published several papers on
+modelling in emerging markets and on valuation for passport options .
+a measurement framework for bank liquidity risk
+september 15 , 2000
+raymond cote
+vice president , finrad inc .
+raymond cote is vice president , financial engineering at finrad inc . , a
+montreal - based consulting firm offering financial management solutions that
+combine advisory and systems development services to & corporations and
+financial institutions .
+abstract :
+liquidity risk , as opposed to credit and market risks , has received little
+attention in professional or academic journals . we argue that analyzing bank
+liquidity risk can be viewed as a variation of credit risk analysis . after
+introducing some concepts and definitions , the presentation defines a
+framework allowing to measure a bank ' s structural liquidity risk . it then
+shows that combining the framework with modern credit risk measurement tools
+leads to a liquidity risk var measure . the presentation then offers
+concluding comments on the integration of the liquidity risk measurement
+framework within enterprise - wide risk management .
+the impact of electronic trading on the uses of quantitative research in
+equity options
+september 22 , 2000
+scott morris
+hull group , quantitative research department
+quantitative research in investment management
+october 6 , 2000
+raman srivastava & anna bulkovshteyn
+assistant vice president , & fixed income , quantitative analysts , putman
+investments
+[ image ]
+tba
+november 3 , 2000
+vince kaminski
+managing director , research .
+enron corp .
+fund management and market efficiency
+november 10 , 2000
+andrea dalton
+researcher , friess associates
+( advisor to the brandywine funds ) .
+tba
+november 17 , 2000
+jeff keifer & deb
+aep
+tutorial on bridge
+november 24 , 2000
+pierre ste - marie & punit rawal
+mscf students
+a corporate risk management framework
+december 8 , 2000
+darin aprati & brian moore
+mcdonald ' s
+[ image ] math speaker series schedule 2000 - 2001
+[ image ] speaker series student committee
+[ image ] previous speakers
+?
+pierre - philippe ste - marie
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[ image ] http : / / pstemarie . homestead . com

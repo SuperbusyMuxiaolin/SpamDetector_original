@@ -1,32 +1,38 @@
-Subject: ieor monday seminar - october 23 , 2000
-?
-?
-industrial engineering and operations research
-monday seminar
-ieor 298 - 1 - fall 2000
-monday , october 23 , 2000
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-" volatility of electricity prices - measurement and analysis of underlying
-causes "
-dr . vincent kaminski
-managing director and head of research for enron corp .
-?
-abstract :
-the last three years were characterized by exceptionally high volatility of
-the power prices in the us markets . the market developments have created a
-number of unique challenges for energy industry economists . one immediate
-question we have to answer is how to measure volatility of energy prices .
-although we can all agree that the prices in the power markets are
-characterized by high variability , the traditional measures used in
-financial economics ( annualized standard deviation of log price returns ) may
-not fit well electricity prices .
-the second challenge is to explain the sources of high price volatility and
-to answer the question to what extent it can be attributed to problems that
-can be addressed in the long run . such problems include flaws in market
-design that allow some market participants to abuse market power , limited
-availability and / or unequal access to transmission , temporary shortages of
-generation capacity . some factors underlying high volatility of electricity
-prices may be of permanent nature and may be a necessary price to pay for
-increased market efficiency and expanded customer choice .
-time and location : 3 : 30 - 5 : 00 p . m . - 3108 etcheverry
-refreshments : 3 : 00 p . m . - 4 th floor hallway
+Subject: re : sddp
+vince ,
+i ' ll send him one of the manuals , and perhaps a paper on sddp .
+tom
+vince j kaminski @ ect
+07 / 28 / 2000 10 : 53 am
+to : tom halliburton / corp / enron @ enron
+cc : vince j kaminski / hou / ect @ ect
+subject : re : sddp
+tom ,
+can you send the info regarding sddp to john ?
+vince
+- - - - - - - - - - - - - - - - - - - - - - forwarded by vince j kaminski / hou / ect on 07 / 28 / 2000
+10 : 52 am - - - - - - - - - - - - - - - - - - - - - - - - - - -
+vince j kaminski
+07 / 19 / 2000 06 : 41 pm
+to : " o ' brien john " @ enron
+cc : vince j kaminski / hou / ect @ ect
+subject : re : sddp
+john ,
+i shall e - mail the information about sddp from houston .
+vince
+" o ' brien john " on 07 / 18 / 2000 01 : 47 : 41 am
+to : vkamins @ enron . com
+cc :
+subject : sddp
+vincent ,
+you kindly suggested that i email you with regard to some information you
+have on the sddp system ( i ' m not sure if i ' ve got the abbreviation correct ,
+but it ' s something that is currently used in south america ) .
+your presentation was very interesting and informative .
+kind regards ,
+john o ' brien
+manager , treasury & risk management
+snowy hydro trading pty ltd
+level 17 , bligh house
+4 bligh street
+sydney nsw 2000

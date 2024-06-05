@@ -1,12 +1,17 @@
-Subject: technical analysis
-more fallout
-- - - - - - - - - - - - - - - - - - - - - - forwarded by mike a roberts / hou / ect on 05 / 04 / 2001 03 : 03 pm - - - - - - - - - - - - - - - - - - - - - - - - - - -
-from : lee ferrell / enron @ enronxgate on 05 / 04 / 2001 02 : 26 pm
-to : mike a roberts / hou / ect @ ect
-cc :
-subject : technical analysis
-mike ,
-our department has been using your technical analysis to support commercial decisions . you stated that these services would be discontinued . we opted to use your technical analysis in lieu of outside services . please continue to provide technical analysis data with regard to natural gas ( candlestick and elliot wave ) .
-lee ferrell
-director , risk management and reporting
-ets
+Subject: help on cluster analysis
+just wanted to pass a quick note to say thanks for all of your help that the
+three of you each gave me concerning cluster analysis . your help was
+invaluable . as you may have been aware , we were performing the cluster
+analysis to define the commercial zones in ercot . i only had a few days in
+which to learn the fastclus procedure in sas and prepare graphical views of
+the results .
+your assistance ensured that enron was seen as one of three market leaders
+who had the capability to perform the analysis and cross check other market
+participants analysis . we were the only participant who had the ability to
+graphically display the results .
+i was able to take the lead in a commercial meeting because of the data and
+results . i just wanted you guys to know that i really appreciated your help .
+i have attached a couple of files that show some of the results . the
+presentation has the best overview .
+best regards ,
+lance
