@@ -6,6 +6,7 @@ import json
 from collections import Counter
 
 
+
 class Spamdetect:
 
     def __init__(self):
@@ -85,7 +86,9 @@ class Spamdetect:
             else:
                 c = 'ham'
             words = self.tokenize(f)  # 分词
-            single_word_counts = self.get_word_counts(words, 0)  # 获取单个邮件的词和词频
+
+            # flag=1时考虑词频，为方法3，flag=0时不考虑词频，为方法1 运行predict2要求flag为0
+            single_word_counts = self.get_word_counts(words, 0)
             self.word_counts[c].update(single_word_counts)
             self.all_words.update(words)
 
@@ -99,6 +102,7 @@ class Spamdetect:
                 'all_words': list(self.all_words)
             }, f)
 
+    # 方法一 or 方法三
     def predict1(self, features_t, labels_t):
         # 读取 JSON 文件中的模型数据
         with open('model.json', 'r') as f:
@@ -107,34 +111,45 @@ class Spamdetect:
         log_class_p = model['log_class_p']
         num_emails = model['num_emails']
         all_words = set(model['all_words'])
+        dum = sum(word_counts['spam'].values()) + len(all_words)
         y_predict = []
         k = 0
         for feature in features_t:
             k += 1
             print("predict1_k:", k)
-            single_word_counts = self.get_word_counts(self.tokenize(feature), 0)
+            single_word_counts = self.get_word_counts(self.tokenize(feature), 0)  # 获取单个邮件的词和词频
             spam = log_class_p['spam']
             ham = log_class_p['ham']
-            for word, count in single_word_counts.items():
-                if word not in all_words:
-                    continue
+            for word in all_words:
                 word_in_spam = word_counts['spam'].get(word, 0.0)
                 word_in_ham = word_counts['ham'].get(word, 0.0)
-                # # 还考虑了单词在单篇文章中出现的次数
-                # log_word_given_spam = math.log(
-                #     (word_in_spam + 1) / (sum(word_counts['spam'].values()) + len(all_words)))
-                # log_word_given_ham = math.log((word_in_ham + 1) / (sum(word_counts['ham'].values()) + len(all_words)))
+                if word in single_word_counts:
+                    # # 计算条件概率时考虑了单词在单篇文章中出现的次数
+                    # log_spam = math.log((word_in_spam + 1) / dum)
+                    #
+                    # log_ham = math.log((word_in_ham + 1) / dum)
+                    # 计算条件概率时仅仅考虑单词在单篇文章中是否出现,不考虑频次
+                    log_spam = math.log(
+                        (word_in_spam + 1) / (num_emails['spam'] + 2))
+                    log_ham = math.log(
+                        (word_in_ham + 1) / (num_emails['ham'] + 2))
 
-                # 仅仅考虑单词在单篇文章中是否出现,不考虑频次
-                log_word_given_spam = math.log(
-                    (word_in_spam + 1) / (num_emails['spam'] + 2))
-                log_word_given_ham = math.log((word_in_ham + 1) / (num_emails['ham'] + 2))
-                spam += log_word_given_spam
-                ham += log_word_given_ham
+                else:
+                    # 计算条件概率时考虑了单词在单篇文章中出现的次数
+                    # log_spam = math.log(1 - ((word_in_spam + 1) / dum))
+                    # log_ham = math.log(1 - ((word_in_ham + 1) / dum))
+                    # 计算条件概率时仅仅考虑单词在单篇文章中是否出现,不考虑频次
+                    log_spam = math.log(1 -
+                                        ((word_in_spam + 1) / (num_emails['spam'] + 2)))
+                    log_ham = math.log(1 -
+                                       ((word_in_ham + 1) / (num_emails['ham'] + 2)))
+                spam += log_spam
+                ham += log_ham
             if spam > ham:
                 y_predict.append(1)
             else:
                 y_predict.append(0)
+
         wright = 0
         all_test = 0
         for y_p, l_t in zip(y_predict, labels_t):
@@ -142,8 +157,9 @@ class Spamdetect:
             if y_p == l_t:
                 wright += 1
         accuracy = wright / all_test
-        print("predict1:", accuracy)
+        print("predict1：", accuracy)
 
+    # 方法二
     def predict2(self, features_t, labels_t):
         # 读取 JSON 文件中的模型数据
         with open('model.json', 'r') as f:
@@ -152,36 +168,33 @@ class Spamdetect:
         log_class_p = model['log_class_p']
         num_emails = model['num_emails']
         all_words = set(model['all_words'])
+        dum = sum(word_counts['spam'].values()) + len(all_words)
         y_predict = []
         k = 0
         for feature in features_t:
             k += 1
             print("predict2_k:", k)
-            single_word_counts = self.get_word_counts(self.tokenize(feature), 0)
+            single_word_counts = self.get_word_counts(self.tokenize(feature), 1)
             spam = log_class_p['spam']
             ham = log_class_p['ham']
-            for word in self.all_words:
-                word_in_spam = self.word_counts['spam'].get(word, 0.0)
-                word_in_ham = self.word_counts['ham'].get(word, 0.0)
+            for word in all_words:
+                word_in_spam = word_counts['spam'].get(word, 0.0)
+                word_in_ham = word_counts['ham'].get(word, 0.0)
                 if word in single_word_counts:
-                    # 还考虑了单词在单篇文章中出现的次数
-                    # log_spam = math.log((word_in_spam + 1) /
-                    #                     (sum(self.word_counts['spam'].values()) + len(self.all_words)))
-                    # log_ham = math.log((word_in_ham + 1) /
-                    #                    (sum(self.word_counts['ham'].values()) + len(self.all_words)))
-                    # 仅仅考虑单词在单篇文章中是否出现,不考虑频次
-                    log_spam = math.log(
+                    # 计算条件概率时考虑了单词在单篇文章中出现的次数
+                    # log_spam = math.log((word_in_spam + 1) / dum)
+                    # log_ham = math.log((word_in_ham + 1) / dum)
+                    # 计算条件概率时仅仅考虑单词在单篇文章中是否出现,不考虑频次，且按单词在文本中出现的频次进行了加权
+                    log_spam = single_word_counts[word] * math.log(
                         (word_in_spam + 1) / (num_emails['spam'] + 2))
-                    log_ham = math.log(
+                    log_ham = single_word_counts[word] * math.log(
                         (word_in_ham + 1) / (num_emails['ham'] + 2))
 
                 else:
-                    # 还考虑了单词在单篇文章中出现的次数
-                    # log_spam = math.log(1 - ((word_in_spam + 1) /
-                    #                          (sum(self.word_counts['spam'].values()) + len(self.all_words))))
-                    # log_ham = math.log(1 - ((word_in_ham + 1) /
-                    #                         (sum(self.word_counts['ham'].values()) + len(self.all_words))))
-                    # 仅仅考虑单词在单篇文章中是否出现,不考虑频次
+                    # 计算条件概率时考虑了单词在单篇文章中出现的次数
+                    # log_spam = math.log(1 - ((word_in_spam + 1) / dum))
+                    # log_ham = math.log(1 - ((word_in_ham + 1) / dum))
+                    # 计算条件概率时仅仅考虑单词在单篇文章中是否出现,不考虑频次
                     log_spam = math.log(1 -
                                         ((word_in_spam + 1) / (num_emails['spam'] + 2)))
                     log_ham = math.log(1 -
@@ -201,3 +214,50 @@ class Spamdetect:
                 wright += 1
         accuracy = wright / all_test
         print("predict2", accuracy)
+
+    # 方法四
+    def predict3(self, features_t, labels_t):
+        # 读取 JSON 文件中的模型数据
+        with open('model.json', 'r') as f:
+            model = json.load(f)
+        word_counts = {k: Counter(v) for k, v in model['word_counts'].items()}
+        log_class_p = model['log_class_p']
+        num_emails = model['num_emails']
+        all_words = set(model['all_words'])
+        dum = sum(word_counts['spam'].values()) + len(all_words)
+        y_predict = []
+        k = 0
+        for feature in features_t:
+            k += 1
+            print("predict3_k:", k)
+            single_word_counts = self.get_word_counts(self.tokenize(feature), 0)
+            spam = log_class_p['spam']
+            ham = log_class_p['ham']
+            for word, count in single_word_counts.items():
+                if word not in all_words:
+                    continue
+                word_in_spam = word_counts['spam'].get(word, 0.0)
+                word_in_ham = word_counts['ham'].get(word, 0.0)
+                # 计算条件概率时考虑了单词在单篇文章中出现的次数
+                # log_word_given_spam = math.log((word_in_spam + 1) / dum)
+                # log_word_given_ham = math.log((word_in_ham + 1) / dum)
+
+                # 计算条件概率时仅仅考虑单词在单篇文章中是否出现,不考虑频次
+                log_word_given_spam = math.log(
+                    (word_in_spam + 1) / (num_emails['spam'] + 2))
+                log_word_given_ham = math.log(
+                    (word_in_ham + 1) / (num_emails['ham'] + 2))
+                spam += log_word_given_spam
+                ham += log_word_given_ham
+            if spam > ham:
+                y_predict.append(1)
+            else:
+                y_predict.append(0)
+        wright = 0
+        all_test = 0
+        for y_p, l_t in zip(y_predict, labels_t):
+            all_test += 1
+            if y_p == l_t:
+                wright += 1
+        accuracy = wright / all_test
+        print("predict3:", accuracy)
