@@ -3,17 +3,20 @@ import time
 
 spamdetect = Spamdetect()
 X, y = spamdetect.getfeature("processed_train_data")
-# spamdetect.train(X, y)
+spamdetect.train(X, y)
 spamdetect.train2(X, y)  # 获得关键词语
 
 X2, y2 = spamdetect.getfeature("processed_test_data")
 
 start_time_predict1 = time.time()
-#spamdetect.predict1(X2, y2)
+spamdetect.predict1(X2, y2)
 end_time_predict1 = time.time()
 execution_time_predict1 = end_time_predict1 - start_time_predict1
 
-# spamdetect.predict2(X2, y2)
+start_time_predict2 = time.time()
+spamdetect.predict2(X2, y2)
+end_time_predict2 = time.time()
+execution_time_predict2 = end_time_predict2 - start_time_predict2
 
 start_time_predict3 = time.time()
 spamdetect.predict3(X2, y2)
