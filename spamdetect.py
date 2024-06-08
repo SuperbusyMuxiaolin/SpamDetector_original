@@ -4,7 +4,7 @@ import re
 import string
 import json
 from collections import Counter
-
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 class Spamdetect:
@@ -87,7 +87,7 @@ class Spamdetect:
                 c = 'ham'
             words = self.tokenize(f)  # 分词
 
-            # flag=1时考虑词频，为方法3，flag=0时不考虑词频，为方法1 运行predict2要求flag为0
+            # flag=1时考虑词频，为方法3;flag=0时不考虑词频，为方法1 运行predict2要求flag为0
             single_word_counts = self.get_word_counts(words, 0)
             self.word_counts[c].update(single_word_counts)
             self.all_words.update(words)
@@ -101,6 +101,24 @@ class Spamdetect:
                 'num_emails': self.num_emails,
                 'all_words': list(self.all_words)
             }, f)
+
+    def train2(self, features, labels):
+        # Separate features based on their labels
+        features_1 = " ".join([f for f, l in zip(features, labels) if l == 1])
+        features_0 = " ".join([f for f, l in zip(features, labels) if l == 0])
+
+        # Combine into a list
+        features_list = [features_1, features_0]
+
+        # Apply TfidfVectorizer
+        vectorizer = TfidfVectorizer(max_features=1000)
+        vectorizer.fit_transform(features_list)
+        feature_names = vectorizer.get_feature_names_out()
+        #print(feature_names)
+
+        # Save feature_names to a JSON file
+        with open('feature_names.json', 'w') as f:
+            json.dump(feature_names.tolist(), f)
 
     # 方法一 or 方法三
     def predict1(self, features_t, labels_t):
@@ -261,3 +279,52 @@ class Spamdetect:
                 wright += 1
         accuracy = wright / all_test
         print("predict3:", accuracy)
+
+    # 对应方法五
+    def predict4(self, features_t, labels_t):
+        # 读取 JSON 文件中的模型数据
+        with open('model.json', 'r') as f:
+            model = json.load(f)
+        word_counts = {k: Counter(v) for k, v in model['word_counts'].items()}
+        log_class_p = model['log_class_p']
+        num_emails = model['num_emails']
+        # Load feature_names from a JSON file
+        with open('feature_names.json', 'r') as f:
+            featurenames = json.load(f)
+        feature_names = set(featurenames)
+        y_predict = []
+        k = 0
+        for feature in features_t:
+            k += 1
+            print("predict4_k:", k)
+            single_word_counts = self.get_word_counts(self.tokenize(feature), 0)  # 获取单个邮件的词和词频
+            spam = log_class_p['spam']
+            ham = log_class_p['ham']
+            for word in feature_names:
+                word_in_spam = word_counts['spam'].get(word, 0.0)
+                word_in_ham = word_counts['ham'].get(word, 0.0)
+                if word in single_word_counts:
+                    log_spam = math.log(
+                        (word_in_spam + 1) / (num_emails['spam'] + 2))
+                    log_ham = math.log(
+                        (word_in_ham + 1) / (num_emails['ham'] + 2))
+                else:
+                    log_spam = math.log(1 -
+                                        ((word_in_spam + 1) / (num_emails['spam'] + 2)))
+                    log_ham = math.log(1 -
+                                       ((word_in_ham + 1) / (num_emails['ham'] + 2)))
+                spam += log_spam
+                ham += log_ham
+            if spam > ham:
+                y_predict.append(1)
+            else:
+                y_predict.append(0)
+
+        wright = 0
+        all_test = 0
+        for y_p, l_t in zip(y_predict, labels_t):
+            all_test += 1
+            if y_p == l_t:
+                wright += 1
+        accuracy = wright / all_test
+        print("predict4：", accuracy)
